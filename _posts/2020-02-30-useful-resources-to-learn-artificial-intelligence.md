@@ -1,12 +1,10 @@
-Title: Useful Resources to Learn Artificial Intelligence
-Date: 2019-12-30 13:54
-Author: ankitrathi
-Category: Uncategorized
-Tags: AI, Artificial Intelligence, Data Science, Machine Learning, Towards Data Science
-Slug: useful-resources-to-learn-artificial-intelligence
-Status: published
-
-#### Books to refer, Courses to attend, Blogs to follow, Podcasts to listen, YouTube channels & Useful GitHub Repos
+---
+toc: true
+layout: post
+description: Books to refer, Courses to attend, Blogs to follow, Podcasts to listen, YouTube channels & Useful GitHub Repos
+categories: [markdown]
+title: Useful Resources to Learn Artificial Intelligence
+---
 
 ![Photo by [Markus Spiske](https://unsplash.com/photos/Q0mDOn9gWk8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/resources?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*6AyOAQu0Q9ivgvfeY9MIRQ.jpeg)
 
