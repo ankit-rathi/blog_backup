@@ -1,11 +1,12 @@
-Title: Artificial Intelligence: From Novice to Professional
-Date: 2020-01-23 13:26
-Author: ankitrathi
-Category: Uncategorized
-Tags: AI, Artificial Intelligence, Data Science, Datadeft, Machine Learning
-Slug: artificial-intelligence-from-novice-to-professional
-Status: published
+---
+toc: true
+layout: post
+description: What aspects of Artificial Intelligence do you need to grasp beyond Algorithms?
+categories: [markdown]
+title: Artificial Intelligence from Novice to Professional
+---
 
+## Artificial Intelligence from Novice to Professional
 #### What aspects of Artificial Intelligence do you need to grasp beyond Algorithms?
 
 ![Photo by [Ben White](https://unsplash.com/@benwhitephotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)/[Hunters Race](https://unsplash.com/@huntersrace?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/faceless-person?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*PNtNefJMXMdi0JwUA2YWRA.png)
