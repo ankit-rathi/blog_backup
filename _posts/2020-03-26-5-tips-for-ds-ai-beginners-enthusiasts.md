@@ -1,10 +1,11 @@
-Title: 5 Tips for DS/AI Beginners & Enthusiasts
-Date: 2019-07-26 08:23
-Author: ankitrathi
-Category: Uncategorized
-Tags: Artificial Intelligence, Data Science, Machine Learning, Tips And Tricks
-Slug: 5-tips-for-ds-ai-beginners-enthusiasts
-Status: published
+---
+toc: true
+layout: post
+description: How to avoid the constant struggle as a learner?
+categories: [markdown]
+title:  5 Tips for DS/AI Beginners & Enthusiasts
+---
+
 
 ![Photo by [Sam Truong Dan](https://unsplash.com/@sam_truong?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/tips?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*WYAntO3ZfXBMkyn31mHoRw.jpeg)
 
