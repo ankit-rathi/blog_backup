@@ -6,12 +6,7 @@ categories: [markdown]
 title: Artificial Intelligence from Novice to Professional
 ---
 
-## Artificial Intelligence from Novice to Professional
-#### What aspects of Artificial Intelligence do you need to grasp beyond Algorithms?
-
 ![Photo by [Ben White](https://unsplash.com/@benwhitephotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)/[Hunters Race](https://unsplash.com/@huntersrace?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/faceless-person?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*PNtNefJMXMdi0JwUA2YWRA.png)
-
-> Read this story for free [here](https://www.ankitrathi.com/post/artificial-intelligence-from-novice-to-professional).
 
 ### Why this post?
 
