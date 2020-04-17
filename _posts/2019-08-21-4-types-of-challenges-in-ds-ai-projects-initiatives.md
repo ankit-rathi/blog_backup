@@ -1,10 +1,10 @@
-Title: 4 Types of Challenges in DS/AI Projects & Initiatives
-Date: 2019-08-21 16:51
-Author: ankitrathi
-Category: Uncategorized
-Tags: Artificial Intelligence, Data Science, Datadeft, Machine Learning
-Slug: 4-types-of-challenges-in-ds-ai-projects-initiatives
-Status: published
+---
+toc: true
+layout: post
+description: What kind of challenges to expect while working on DS/AI projects/initiatives?
+categories: [markdown]
+title: 4 Types of Challenges in DS/AI Projects & Initiatives
+---
 
 ![Photo by [Eila Lifflander](https://unsplash.com/@3ilaliff?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/challenges?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*jOEJ1xsav6nKYHk-VRD1Xw.jpeg)
 
