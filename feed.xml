@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankitrathi169.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankitrathi169.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-17T16:09:06-05:00</updated><id>https://ankitrathi169.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>Covers from Data to AI and everything in between.</subtitle><entry><title type="html">5 Tips for DS/AI Beginners &amp;amp; Enthusiasts</title><link href="https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html" rel="alternate" type="text/html" title="5 Tips for DS/AI Beginners &amp; Enthusiasts" /><published>2020-03-26T00:00:00-05:00</published><updated>2020-03-26T00:00:00-05:00</updated><id>https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts</id><content type="html" xml:base="https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*WYAntO3ZfXBMkyn31mHoRw.jpeg&quot; alt=&quot;Photo by [Sam Truong Dan](https://unsplash.com/@sam_truong?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/tips?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText)&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankitrathi169.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankitrathi169.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-17T16:09:30-05:00</updated><id>https://ankitrathi169.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>Covers from Data to AI and everything in between.</subtitle><entry><title type="html">5 Tips for DS/AI Beginners &amp;amp; Enthusiasts</title><link href="https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html" rel="alternate" type="text/html" title="5 Tips for DS/AI Beginners &amp; Enthusiasts" /><published>2020-03-26T00:00:00-05:00</published><updated>2020-03-26T00:00:00-05:00</updated><id>https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts</id><content type="html" xml:base="https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*WYAntO3ZfXBMkyn31mHoRw.jpeg&quot; alt=&quot;Photo by [Sam Truong Dan](https://unsplash.com/@sam_truong?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/tips?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText)&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;In this post, I am sharing 5 important tips for budding data scientists, there is a bonus tip as well in the end.&lt;/em&gt;&lt;/p&gt;
 
@@ -464,11 +464,209 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;Ankit Rathi&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;or&lt;/em&gt; &lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Why this post? There is a general notion that Artificial Intelligence is all about algorithms. If you look around most of the courses, books, blogs, etc, you will find that most of them cover how you can apply certain algorithms and further optimize those algorithms. After working on a few real-world AI/ML projects, you will realize that while algorithms are at the core, AI is much more than algorithms. From identifying &amp;amp; assessing AI opportunities in your organization/department to deploying and maintaining the solutions in production, a lot goes into AI/ML projects. In this post, I am going to briefly touch every aspect of AI/ML project lifecycle. The good news is, as a data scientist you need not master every aspect, but knowing those areas to some extent will help you contribute better in real-world projects. A single post can’t make you an AI professional, but it can ask relevant questions &amp;amp; increase awareness, seeking answers to these questions can help you build your own AI roadmap. We can segregate all these aspects of AI into 5 parts: AI Introduction, AI Pre-requisites, AI Concepts &amp;amp; Algorithms, Enterprise AI &amp;amp; Peripherals of AI I. AI Introduction AI is a team game, every aspiring AI role needs to have a common understanding of AI/ML field. This part covers a simple What, Why &amp;amp; How of AI: — Why you should learn AI? — Why AI is important? — What is Artificial Intelligence? — How an end-to-end AI project looks like? — What are the roles in AI projects and who does what? II. AI Pre-requisites AI/ML has a steep learning curve because it is an amalgamation of many fields (Statistics, IT &amp;amp; Domain etc). And some knowledge of these fields is required before you can start grasping AI/ML concepts. This part covers the pre-requisites of AI: — What topics of maths you should cover? — What programming languages, libraries &amp;amp; frameworks you should be aware of? — How does data move in an organization? — How is it stored and processed? III. AI Concepts &amp;amp; Algorithms AI/ML in itself is quite a vast field and have different techniques and frameworks to deal with different kind of real-world problems. This part covers major AI/ML techniques and what to use when: — What are the major types of AI techniques? — When to use what? Main concepts &amp;amp; algorithms ML, DL &amp;amp; RL? IV. Enterprise AI Learning AI/ML concepts &amp;amp; algorithms are not enough, you will be solving some business problems with what you have learned. You need to be aware of what happens when these concepts &amp;amp; algorithms are applied within an enterprise. This part covers the aspects of enterprise AI: - What is the difference between Hackathons &amp;amp; Real-world projects? - How to operationalize AI? - How to build AI Strategy? - Why ethics &amp;amp; explainability is important &amp;amp; how can we make AI explainable? V. Peripherals of AI Apart from learning concepts and their applications, you may have specific needs at the moment like you want to get into the AI field or you need to lead an AI initiative in your organization. This part covers those specific needs: - How you can get into AI field? - How to lead AI initiatives in your organization? - How to future-proof your AI career? Conclusion I hope by now you have got an idea of what it takes to work on AI projects in the real world. Due to different but overlapping fields, it is really hard to get in-depth knowledge of every aspect of an AI aspirant. But what you can do is to build a T-shape skill-set in the AI field, where you go in-depth in the aspect of your choice and have handy knowledge of other related aspects. I will cover the above-mentioned aspects of AI thoroughly in upcoming posts, stay tuned. Ankit Rathi is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture. Why don’t you connect with Ankit on Twitter, LinkedIn or Instagram</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://ankitrathi169.github.io/data-and-ai/jupyter/2020/01/01/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-01-01T00:00:00-06:00</published><updated>2020-01-01T00:00:00-06:00</updated><id>https://ankitrathi169.github.io/data-and-ai/jupyter/2020/01/01/test</id><content type="html" xml:base="https://ankitrathi169.github.io/data-and-ai/jupyter/2020/01/01/test.html">&lt;!--
+&lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;or&lt;/em&gt; &lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Why this post? There is a general notion that Artificial Intelligence is all about algorithms. If you look around most of the courses, books, blogs, etc, you will find that most of them cover how you can apply certain algorithms and further optimize those algorithms. After working on a few real-world AI/ML projects, you will realize that while algorithms are at the core, AI is much more than algorithms. From identifying &amp;amp; assessing AI opportunities in your organization/department to deploying and maintaining the solutions in production, a lot goes into AI/ML projects. In this post, I am going to briefly touch every aspect of AI/ML project lifecycle. The good news is, as a data scientist you need not master every aspect, but knowing those areas to some extent will help you contribute better in real-world projects. A single post can’t make you an AI professional, but it can ask relevant questions &amp;amp; increase awareness, seeking answers to these questions can help you build your own AI roadmap. We can segregate all these aspects of AI into 5 parts: AI Introduction, AI Pre-requisites, AI Concepts &amp;amp; Algorithms, Enterprise AI &amp;amp; Peripherals of AI I. AI Introduction AI is a team game, every aspiring AI role needs to have a common understanding of AI/ML field. This part covers a simple What, Why &amp;amp; How of AI: — Why you should learn AI? — Why AI is important? — What is Artificial Intelligence? — How an end-to-end AI project looks like? — What are the roles in AI projects and who does what? II. AI Pre-requisites AI/ML has a steep learning curve because it is an amalgamation of many fields (Statistics, IT &amp;amp; Domain etc). And some knowledge of these fields is required before you can start grasping AI/ML concepts. This part covers the pre-requisites of AI: — What topics of maths you should cover? — What programming languages, libraries &amp;amp; frameworks you should be aware of? — How does data move in an organization? — How is it stored and processed? III. AI Concepts &amp;amp; Algorithms AI/ML in itself is quite a vast field and have different techniques and frameworks to deal with different kind of real-world problems. This part covers major AI/ML techniques and what to use when: — What are the major types of AI techniques? — When to use what? Main concepts &amp;amp; algorithms ML, DL &amp;amp; RL? IV. Enterprise AI Learning AI/ML concepts &amp;amp; algorithms are not enough, you will be solving some business problems with what you have learned. You need to be aware of what happens when these concepts &amp;amp; algorithms are applied within an enterprise. This part covers the aspects of enterprise AI: - What is the difference between Hackathons &amp;amp; Real-world projects? - How to operationalize AI? - How to build AI Strategy? - Why ethics &amp;amp; explainability is important &amp;amp; how can we make AI explainable? V. Peripherals of AI Apart from learning concepts and their applications, you may have specific needs at the moment like you want to get into the AI field or you need to lead an AI initiative in your organization. This part covers those specific needs: - How you can get into AI field? - How to lead AI initiatives in your organization? - How to future-proof your AI career? Conclusion I hope by now you have got an idea of what it takes to work on AI projects in the real world. Due to different but overlapping fields, it is really hard to get in-depth knowledge of every aspect of an AI aspirant. But what you can do is to build a T-shape skill-set in the AI field, where you go in-depth in the aspect of your choice and have handy knowledge of other related aspects. I will cover the above-mentioned aspects of AI thoroughly in upcoming posts, stay tuned. Ankit Rathi is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture. Why don’t you connect with Ankit on Twitter, LinkedIn or Instagram</summary></entry><entry><title type="html">4 Types of Challenges in DS/AI Projects &amp;amp; Initiatives</title><link href="https://ankitrathi169.github.io/data-and-ai/markdown/2019/08/21/4-types-of-challenges-in-ds-ai-projects-initiatives.html" rel="alternate" type="text/html" title="4 Types of Challenges in DS/AI Projects &amp; Initiatives" /><published>2019-08-21T00:00:00-05:00</published><updated>2019-08-21T00:00:00-05:00</updated><id>https://ankitrathi169.github.io/data-and-ai/markdown/2019/08/21/4-types-of-challenges-in-ds-ai-projects-initiatives</id><content type="html" xml:base="https://ankitrathi169.github.io/data-and-ai/markdown/2019/08/21/4-types-of-challenges-in-ds-ai-projects-initiatives.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*jOEJ1xsav6nKYHk-VRD1Xw.jpeg&quot; alt=&quot;Photo by [Eila Lifflander](https://unsplash.com/@3ilaliff?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/challenges?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText)&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;In this post, I have analyzed frequent challenges encountered by DS/AI leaders &amp;amp; experts in their projects/initiatives. I have re-organized these challenges into 4 areas of concerns, my idea is to build a framework around these challenges to suggest possible solutions in upcoming posts.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;DS/AI promises considerable economic &amp;amp; social benefits, even as it disrupts the way we work. Almost everyone agrees that it is a field which can change the world, from healthcare to countering terrorism and even arts &amp;amp; sports.&lt;/p&gt;
+
+&lt;p&gt;DS/AI leaders &amp;amp; experts are facing different challenges from ideation to productization, it is estimated that between 70% and 85% of DS/AI projects fail.&lt;/p&gt;
+
+&lt;p&gt;To get a holistic view of the challenges &amp;amp; failures, I looked at various articles available on the internet about the challenges in DS/AI projects &amp;amp; initiatives. You can find all the articles I referred at the end of this post.&lt;/p&gt;
+
+&lt;p&gt;In the past few weeks, I have also spoken to many DS/AI leaders &amp;amp; experts on this topic and they have also given some useful insights. I will cover these specific insights into the challenges in the upcoming blog-posts.&lt;/p&gt;
+
+&lt;p&gt;In order to shed some light on the reasons why we observe such a high failure rate, I also analyzed the results of a survey conducted by Kaggle in 2017. You can see the full report &lt;a href=&quot;https://www.kaggle.com/surveys/2017&quot;&gt;here&lt;/a&gt;. The part of the survey relevant to this article is about the challenges companies face as far as their DS/AI efforts are concerned. The following chart shows the top fifteen challenges:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/0*1HEARRre7TJauqQX.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While I am still documenting the challenges &amp;amp; possible solutions, I can categorize these challenges in four broad segments: — Cultural challenges (right talent, data literacy, realistic expectations etc) — Data-related challenges (data access, data quality, lifecycle management etc) — Operational challenges (suitable operating model with specific roles &amp;amp; responsibilities) — Technology-related challenges (appropriate tech-stack, right infrastructure etc).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*ai4WsvqwNA8bKjY6BOIBGw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;challenges-in-dsaiprojects&quot;&gt;Challenges in DS/AI Projects&lt;/h3&gt;
+
+&lt;p&gt;Based on the above-mentioned sources (surveys, articles &amp;amp; experts) in this post, I have collected all the challenges and tried to categorize them into four areas of concern — Culture, Operation, Data, Technology:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Data Quality — Data&lt;/li&gt;
+  &lt;li&gt;Talent Gap — Operations&lt;/li&gt;
+  &lt;li&gt;Company Politics — Culture&lt;/li&gt;
+  &lt;li&gt;Data Access — Operations&lt;/li&gt;
+  &lt;li&gt;Data Literacy — Culture&lt;/li&gt;
+  &lt;li&gt;Data Privacy — Data&lt;/li&gt;
+  &lt;li&gt;SME Gap — Operations&lt;/li&gt;
+  &lt;li&gt;Heterogeneous Tech-stack — Technology&lt;/li&gt;
+  &lt;li&gt;Unrealistic Expectations — Culture&lt;/li&gt;
+  &lt;li&gt;Co-ordination with IT &amp;amp; other deptt — Operations&lt;/li&gt;
+  &lt;li&gt;Stakeholders’ Buy-in — Culture&lt;/li&gt;
+  &lt;li&gt;Sponsorship — Culture&lt;/li&gt;
+  &lt;li&gt;Deployment — Operations&lt;/li&gt;
+  &lt;li&gt;Algorithms Limitations — Technology&lt;/li&gt;
+  &lt;li&gt;Data Consolidation — Data&lt;/li&gt;
+  &lt;li&gt;Opportunity Assessment — Operations&lt;/li&gt;
+  &lt;li&gt;Model Explainability — Technology&lt;/li&gt;
+  &lt;li&gt;Agility — Operations&lt;/li&gt;
+  &lt;li&gt;Data Security — Operations&lt;/li&gt;
+  &lt;li&gt;Solving the Wrong Problem — Operations&lt;/li&gt;
+  &lt;li&gt;Organizational Maturity — Culture&lt;/li&gt;
+  &lt;li&gt;Storytelling — Culture&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;area-of-concerns-indsai&quot;&gt;Area of Concerns in DS/AI&lt;/h3&gt;
+
+&lt;p&gt;Now, let’s consolidate the above challenges in the respective area of concerns:&lt;/p&gt;
+
+&lt;h4 id=&quot;cultural-challenges&quot;&gt;Cultural Challenges&lt;/h4&gt;
+
+&lt;p&gt;Company Politics, Data Literacy, Unrealistic Expectations, Stakeholders’ Buy-in, Organizational Maturity, Storytelling&lt;/p&gt;
+
+&lt;h4 id=&quot;operational-challenges&quot;&gt;Operational Challenges&lt;/h4&gt;
+
+&lt;p&gt;Talent Gap, Data Access, SME Gap, Coordination with IT and other deptts, Deployment, Opportunity Assessment, Data Security, Solving the Wrong Problem&lt;/p&gt;
+
+&lt;h4 id=&quot;data-challenges&quot;&gt;Data Challenges&lt;/h4&gt;
+
+&lt;p&gt;Data Quality, Data Privacy, Data Consolidation&lt;/p&gt;
+
+&lt;h4 id=&quot;technology-challenges&quot;&gt;Technology Challenges&lt;/h4&gt;
+
+&lt;p&gt;Heterogeneous Tech-stack, Algorithms Limitations, Model Explainability&lt;/p&gt;
+
+&lt;h3 id=&quot;what-next&quot;&gt;What next?&lt;/h3&gt;
+
+&lt;p&gt;I believe that if we categorize these challenges in the respective area of concerns, we can build a framework around it which can address these challenges and suggest possible solutions.&lt;/p&gt;
+
+&lt;p&gt;I intend to explore these possibilities in the upcoming blog-posts, if it looks interesting to you, stay tuned.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Thank you for reading my post. I regularly write about Data &amp;amp; Technology on&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/today/posts/ankitrathi?source=post_page---------------------------&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;&amp;amp;&lt;/em&gt; &lt;a href=&quot;https://medium.com/@rathi.ankit?source=post_page---------------------------&quot;&gt;&lt;em&gt;Medium&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to visit my webpage&lt;/em&gt; &lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;https://ankitrathi.com&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In this post, I have analyzed frequent challenges encountered by DS/AI leaders &amp;amp; experts in their projects/initiatives. I have re-organized these challenges into 4 areas of concerns, my idea is to build a framework around these challenges to suggest possible solutions in upcoming posts. DS/AI promises considerable economic &amp;amp; social benefits, even as it disrupts the way we work. Almost everyone agrees that it is a field which can change the world, from healthcare to countering terrorism and even arts &amp;amp; sports. DS/AI leaders &amp;amp; experts are facing different challenges from ideation to productization, it is estimated that between 70% and 85% of DS/AI projects fail. To get a holistic view of the challenges &amp;amp; failures, I looked at various articles available on the internet about the challenges in DS/AI projects &amp;amp; initiatives. You can find all the articles I referred at the end of this post. In the past few weeks, I have also spoken to many DS/AI leaders &amp;amp; experts on this topic and they have also given some useful insights. I will cover these specific insights into the challenges in the upcoming blog-posts. In order to shed some light on the reasons why we observe such a high failure rate, I also analyzed the results of a survey conducted by Kaggle in 2017. You can see the full report here. The part of the survey relevant to this article is about the challenges companies face as far as their DS/AI efforts are concerned. The following chart shows the top fifteen challenges: While I am still documenting the challenges &amp;amp; possible solutions, I can categorize these challenges in four broad segments: — Cultural challenges (right talent, data literacy, realistic expectations etc) — Data-related challenges (data access, data quality, lifecycle management etc) — Operational challenges (suitable operating model with specific roles &amp;amp; responsibilities) — Technology-related challenges (appropriate tech-stack, right infrastructure etc). Challenges in DS/AI Projects Based on the above-mentioned sources (surveys, articles &amp;amp; experts) in this post, I have collected all the challenges and tried to categorize them into four areas of concern — Culture, Operation, Data, Technology: Data Quality — Data Talent Gap — Operations Company Politics — Culture Data Access — Operations Data Literacy — Culture Data Privacy — Data SME Gap — Operations Heterogeneous Tech-stack — Technology Unrealistic Expectations — Culture Co-ordination with IT &amp;amp; other deptt — Operations Stakeholders’ Buy-in — Culture Sponsorship — Culture Deployment — Operations Algorithms Limitations — Technology Data Consolidation — Data Opportunity Assessment — Operations Model Explainability — Technology Agility — Operations Data Security — Operations Solving the Wrong Problem — Operations Organizational Maturity — Culture Storytelling — Culture Area of Concerns in DS/AI Now, let’s consolidate the above challenges in the respective area of concerns: Cultural Challenges Company Politics, Data Literacy, Unrealistic Expectations, Stakeholders’ Buy-in, Organizational Maturity, Storytelling Operational Challenges Talent Gap, Data Access, SME Gap, Coordination with IT and other deptts, Deployment, Opportunity Assessment, Data Security, Solving the Wrong Problem Data Challenges Data Quality, Data Privacy, Data Consolidation Technology Challenges Heterogeneous Tech-stack, Algorithms Limitations, Model Explainability What next? I believe that if we categorize these challenges in the respective area of concerns, we can build a framework around it which can address these challenges and suggest possible solutions. I intend to explore these possibilities in the upcoming blog-posts, if it looks interesting to you, stay tuned. Thank you for reading my post. I regularly write about Data &amp;amp; Technology on LinkedIn &amp;amp; Medium. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to visit my webpage https://ankitrathi.com</summary></entry><entry><title type="html">An Example Markdown Post</title><link href="https://ankitrathi169.github.io/data-and-ai/markdown/2017/01/14/test-markdown-post.html" rel="alternate" type="text/html" title="An Example Markdown Post" /><published>2017-01-14T00:00:00-06:00</published><updated>2017-01-14T00:00:00-06:00</updated><id>https://ankitrathi169.github.io/data-and-ai/markdown/2017/01/14/test-markdown-post</id><content type="html" xml:base="https://ankitrathi169.github.io/data-and-ai/markdown/2017/01/14/test-markdown-post.html">&lt;h1 id=&quot;example-markdown-post&quot;&gt;Example Markdown Post&lt;/h1&gt;
+
+&lt;h2 id=&quot;basic-setup&quot;&gt;Basic setup&lt;/h2&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-filename.md&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;filename&lt;/code&gt; is whatever file name you choose, to remind yourself what this post is about. &lt;code class=&quot;highlighter-rouge&quot;&gt;.md&lt;/code&gt; is the file extension for markdown files.&lt;/p&gt;
+
+&lt;p&gt;The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “&lt;em&gt;level 1 heading&lt;/em&gt;” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line &lt;code class=&quot;highlighter-rouge&quot;&gt;## File names&lt;/code&gt; above.&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
+
+&lt;p&gt;You can use &lt;em&gt;italics&lt;/em&gt;, &lt;strong&gt;bold&lt;/strong&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;code font text&lt;/code&gt;, and create &lt;a href=&quot;https://www.markdownguide.org/cheat-sheet/&quot;&gt;links&lt;/a&gt;. Here’s a footnote &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Here’s a horizontal rule:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
+
+&lt;p&gt;Here’s a list:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;item 1&lt;/li&gt;
+  &lt;li&gt;item 2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And a numbered list:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;item 1&lt;/li&gt;
+  &lt;li&gt;item 2&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;boxes-and-stuff&quot;&gt;Boxes and stuff&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a quotation&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;Toast Toast--warning googoo&quot;&gt;
+   &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-alert&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
+   &lt;span class=&quot;Toast-content&quot;&gt;You can include alert boxes&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;p&gt;…and…&lt;/p&gt;
+
+&lt;div class=&quot;Toast&quot;&gt;
+   &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-info&quot; viewBox=&quot;0 0 14 16&quot; version=&quot;1.1&quot; width=&quot;14&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M6.3 5.69a.942.942 0 01-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 01-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
+   &lt;span class=&quot;Toast-content&quot;&gt;You can include info boxes&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/data-and-ai/images/logo.png&quot; alt=&quot;&quot; title=&quot;fast.ai's logo&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;You can format text and code per usual&lt;/p&gt;
+
+&lt;p&gt;General preformatted text:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Do a thing
+do_thing()
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Python code and output:&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Prints '2'
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Formatting text as shell commands:&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;hello world&quot;&lt;/span&gt;
+./some_script.sh &lt;span class=&quot;nt&quot;&gt;--option&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;value&quot;&lt;/span&gt;
+wget https://example.com/cat_photo1.png
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Formatting text as YAML:&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;key&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;value&lt;/span&gt;
+&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;another_key&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;another&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;value&quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Column 1&lt;/th&gt;
+      &lt;th&gt;Column 2&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;A thing&lt;/td&gt;
+      &lt;td&gt;Another thing&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;tweetcards&quot;&gt;Tweetcards&lt;/h2&gt;
+
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Altair 4.0 is released! &lt;a href=&quot;https://t.co/PCyrIOTcvv&quot;&gt;https://t.co/PCyrIOTcvv&lt;/a&gt;&lt;br /&gt;Try it with:&lt;br /&gt;&lt;br /&gt;  pip install -U altair&lt;br /&gt;&lt;br /&gt;The full list of changes is at &lt;a href=&quot;https://t.co/roXmzcsT58&quot;&gt;https://t.co/roXmzcsT58&lt;/a&gt; ...read on for some highlights. &lt;a href=&quot;https://t.co/vWJ0ZveKbZ&quot;&gt;pic.twitter.com/vWJ0ZveKbZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jake VanderPlas (@jakevdp) &lt;a href=&quot;https://twitter.com/jakevdp/status/1204765621767901185?ref_src=twsrc%5Etfw&quot;&gt;December 11, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;This is the footnote. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Example Markdown Post</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://ankitrathi169.github.io/data-and-ai/jupyter/2017/01/01/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2017-01-01T00:00:00-06:00</published><updated>2017-01-01T00:00:00-06:00</updated><id>https://ankitrathi169.github.io/data-and-ai/jupyter/2017/01/01/test</id><content type="html" xml:base="https://ankitrathi169.github.io/data-and-ai/jupyter/2017/01/01/test.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
-# file to edit: _notebooks/2020-01-01-test.ipynb
+# file to edit: _notebooks/2017-01-01-test.ipynb
 --&gt;
 
 &lt;div class=&quot;container&quot; id=&quot;notebook-container&quot;&gt;
@@ -1188,202 +1386,4 @@ And another {% fn 2 %}
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ankitrathi169.github.io/data-and-ai/images/chart-preview.png" /><media:content medium="image" url="https://ankitrathi169.github.io/data-and-ai/images/chart-preview.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">4 Types of Challenges in DS/AI Projects &amp;amp; Initiatives</title><link href="https://ankitrathi169.github.io/data-and-ai/markdown/2019/08/21/4-types-of-challenges-in-ds-ai-projects-initiatives.html" rel="alternate" type="text/html" title="4 Types of Challenges in DS/AI Projects &amp; Initiatives" /><published>2019-08-21T00:00:00-05:00</published><updated>2019-08-21T00:00:00-05:00</updated><id>https://ankitrathi169.github.io/data-and-ai/markdown/2019/08/21/4-types-of-challenges-in-ds-ai-projects-initiatives</id><content type="html" xml:base="https://ankitrathi169.github.io/data-and-ai/markdown/2019/08/21/4-types-of-challenges-in-ds-ai-projects-initiatives.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*jOEJ1xsav6nKYHk-VRD1Xw.jpeg&quot; alt=&quot;Photo by [Eila Lifflander](https://unsplash.com/@3ilaliff?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/challenges?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText)&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;In this post, I have analyzed frequent challenges encountered by DS/AI leaders &amp;amp; experts in their projects/initiatives. I have re-organized these challenges into 4 areas of concerns, my idea is to build a framework around these challenges to suggest possible solutions in upcoming posts.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;DS/AI promises considerable economic &amp;amp; social benefits, even as it disrupts the way we work. Almost everyone agrees that it is a field which can change the world, from healthcare to countering terrorism and even arts &amp;amp; sports.&lt;/p&gt;
-
-&lt;p&gt;DS/AI leaders &amp;amp; experts are facing different challenges from ideation to productization, it is estimated that between 70% and 85% of DS/AI projects fail.&lt;/p&gt;
-
-&lt;p&gt;To get a holistic view of the challenges &amp;amp; failures, I looked at various articles available on the internet about the challenges in DS/AI projects &amp;amp; initiatives. You can find all the articles I referred at the end of this post.&lt;/p&gt;
-
-&lt;p&gt;In the past few weeks, I have also spoken to many DS/AI leaders &amp;amp; experts on this topic and they have also given some useful insights. I will cover these specific insights into the challenges in the upcoming blog-posts.&lt;/p&gt;
-
-&lt;p&gt;In order to shed some light on the reasons why we observe such a high failure rate, I also analyzed the results of a survey conducted by Kaggle in 2017. You can see the full report &lt;a href=&quot;https://www.kaggle.com/surveys/2017&quot;&gt;here&lt;/a&gt;. The part of the survey relevant to this article is about the challenges companies face as far as their DS/AI efforts are concerned. The following chart shows the top fifteen challenges:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/0*1HEARRre7TJauqQX.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;While I am still documenting the challenges &amp;amp; possible solutions, I can categorize these challenges in four broad segments: — Cultural challenges (right talent, data literacy, realistic expectations etc) — Data-related challenges (data access, data quality, lifecycle management etc) — Operational challenges (suitable operating model with specific roles &amp;amp; responsibilities) — Technology-related challenges (appropriate tech-stack, right infrastructure etc).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*ai4WsvqwNA8bKjY6BOIBGw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;challenges-in-dsaiprojects&quot;&gt;Challenges in DS/AI Projects&lt;/h3&gt;
-
-&lt;p&gt;Based on the above-mentioned sources (surveys, articles &amp;amp; experts) in this post, I have collected all the challenges and tried to categorize them into four areas of concern — Culture, Operation, Data, Technology:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Data Quality — Data&lt;/li&gt;
-  &lt;li&gt;Talent Gap — Operations&lt;/li&gt;
-  &lt;li&gt;Company Politics — Culture&lt;/li&gt;
-  &lt;li&gt;Data Access — Operations&lt;/li&gt;
-  &lt;li&gt;Data Literacy — Culture&lt;/li&gt;
-  &lt;li&gt;Data Privacy — Data&lt;/li&gt;
-  &lt;li&gt;SME Gap — Operations&lt;/li&gt;
-  &lt;li&gt;Heterogeneous Tech-stack — Technology&lt;/li&gt;
-  &lt;li&gt;Unrealistic Expectations — Culture&lt;/li&gt;
-  &lt;li&gt;Co-ordination with IT &amp;amp; other deptt — Operations&lt;/li&gt;
-  &lt;li&gt;Stakeholders’ Buy-in — Culture&lt;/li&gt;
-  &lt;li&gt;Sponsorship — Culture&lt;/li&gt;
-  &lt;li&gt;Deployment — Operations&lt;/li&gt;
-  &lt;li&gt;Algorithms Limitations — Technology&lt;/li&gt;
-  &lt;li&gt;Data Consolidation — Data&lt;/li&gt;
-  &lt;li&gt;Opportunity Assessment — Operations&lt;/li&gt;
-  &lt;li&gt;Model Explainability — Technology&lt;/li&gt;
-  &lt;li&gt;Agility — Operations&lt;/li&gt;
-  &lt;li&gt;Data Security — Operations&lt;/li&gt;
-  &lt;li&gt;Solving the Wrong Problem — Operations&lt;/li&gt;
-  &lt;li&gt;Organizational Maturity — Culture&lt;/li&gt;
-  &lt;li&gt;Storytelling — Culture&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;area-of-concerns-indsai&quot;&gt;Area of Concerns in DS/AI&lt;/h3&gt;
-
-&lt;p&gt;Now, let’s consolidate the above challenges in the respective area of concerns:&lt;/p&gt;
-
-&lt;h4 id=&quot;cultural-challenges&quot;&gt;Cultural Challenges&lt;/h4&gt;
-
-&lt;p&gt;Company Politics, Data Literacy, Unrealistic Expectations, Stakeholders’ Buy-in, Organizational Maturity, Storytelling&lt;/p&gt;
-
-&lt;h4 id=&quot;operational-challenges&quot;&gt;Operational Challenges&lt;/h4&gt;
-
-&lt;p&gt;Talent Gap, Data Access, SME Gap, Coordination with IT and other deptts, Deployment, Opportunity Assessment, Data Security, Solving the Wrong Problem&lt;/p&gt;
-
-&lt;h4 id=&quot;data-challenges&quot;&gt;Data Challenges&lt;/h4&gt;
-
-&lt;p&gt;Data Quality, Data Privacy, Data Consolidation&lt;/p&gt;
-
-&lt;h4 id=&quot;technology-challenges&quot;&gt;Technology Challenges&lt;/h4&gt;
-
-&lt;p&gt;Heterogeneous Tech-stack, Algorithms Limitations, Model Explainability&lt;/p&gt;
-
-&lt;h3 id=&quot;what-next&quot;&gt;What next?&lt;/h3&gt;
-
-&lt;p&gt;I believe that if we categorize these challenges in the respective area of concerns, we can build a framework around it which can address these challenges and suggest possible solutions.&lt;/p&gt;
-
-&lt;p&gt;I intend to explore these possibilities in the upcoming blog-posts, if it looks interesting to you, stay tuned.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;Thank you for reading my post. I regularly write about Data &amp;amp; Technology on&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/today/posts/ankitrathi?source=post_page---------------------------&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;&amp;amp;&lt;/em&gt; &lt;a href=&quot;https://medium.com/@rathi.ankit?source=post_page---------------------------&quot;&gt;&lt;em&gt;Medium&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to visit my webpage&lt;/em&gt; &lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;https://ankitrathi.com&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In this post, I have analyzed frequent challenges encountered by DS/AI leaders &amp;amp; experts in their projects/initiatives. I have re-organized these challenges into 4 areas of concerns, my idea is to build a framework around these challenges to suggest possible solutions in upcoming posts. DS/AI promises considerable economic &amp;amp; social benefits, even as it disrupts the way we work. Almost everyone agrees that it is a field which can change the world, from healthcare to countering terrorism and even arts &amp;amp; sports. DS/AI leaders &amp;amp; experts are facing different challenges from ideation to productization, it is estimated that between 70% and 85% of DS/AI projects fail. To get a holistic view of the challenges &amp;amp; failures, I looked at various articles available on the internet about the challenges in DS/AI projects &amp;amp; initiatives. You can find all the articles I referred at the end of this post. In the past few weeks, I have also spoken to many DS/AI leaders &amp;amp; experts on this topic and they have also given some useful insights. I will cover these specific insights into the challenges in the upcoming blog-posts. In order to shed some light on the reasons why we observe such a high failure rate, I also analyzed the results of a survey conducted by Kaggle in 2017. You can see the full report here. The part of the survey relevant to this article is about the challenges companies face as far as their DS/AI efforts are concerned. The following chart shows the top fifteen challenges: While I am still documenting the challenges &amp;amp; possible solutions, I can categorize these challenges in four broad segments: — Cultural challenges (right talent, data literacy, realistic expectations etc) — Data-related challenges (data access, data quality, lifecycle management etc) — Operational challenges (suitable operating model with specific roles &amp;amp; responsibilities) — Technology-related challenges (appropriate tech-stack, right infrastructure etc). Challenges in DS/AI Projects Based on the above-mentioned sources (surveys, articles &amp;amp; experts) in this post, I have collected all the challenges and tried to categorize them into four areas of concern — Culture, Operation, Data, Technology: Data Quality — Data Talent Gap — Operations Company Politics — Culture Data Access — Operations Data Literacy — Culture Data Privacy — Data SME Gap — Operations Heterogeneous Tech-stack — Technology Unrealistic Expectations — Culture Co-ordination with IT &amp;amp; other deptt — Operations Stakeholders’ Buy-in — Culture Sponsorship — Culture Deployment — Operations Algorithms Limitations — Technology Data Consolidation — Data Opportunity Assessment — Operations Model Explainability — Technology Agility — Operations Data Security — Operations Solving the Wrong Problem — Operations Organizational Maturity — Culture Storytelling — Culture Area of Concerns in DS/AI Now, let’s consolidate the above challenges in the respective area of concerns: Cultural Challenges Company Politics, Data Literacy, Unrealistic Expectations, Stakeholders’ Buy-in, Organizational Maturity, Storytelling Operational Challenges Talent Gap, Data Access, SME Gap, Coordination with IT and other deptts, Deployment, Opportunity Assessment, Data Security, Solving the Wrong Problem Data Challenges Data Quality, Data Privacy, Data Consolidation Technology Challenges Heterogeneous Tech-stack, Algorithms Limitations, Model Explainability What next? I believe that if we categorize these challenges in the respective area of concerns, we can build a framework around it which can address these challenges and suggest possible solutions. I intend to explore these possibilities in the upcoming blog-posts, if it looks interesting to you, stay tuned. Thank you for reading my post. I regularly write about Data &amp;amp; Technology on LinkedIn &amp;amp; Medium. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to visit my webpage https://ankitrathi.com</summary></entry><entry><title type="html">An Example Markdown Post</title><link href="https://ankitrathi169.github.io/data-and-ai/markdown/2017/01/14/test-markdown-post.html" rel="alternate" type="text/html" title="An Example Markdown Post" /><published>2017-01-14T00:00:00-06:00</published><updated>2017-01-14T00:00:00-06:00</updated><id>https://ankitrathi169.github.io/data-and-ai/markdown/2017/01/14/test-markdown-post</id><content type="html" xml:base="https://ankitrathi169.github.io/data-and-ai/markdown/2017/01/14/test-markdown-post.html">&lt;h1 id=&quot;example-markdown-post&quot;&gt;Example Markdown Post&lt;/h1&gt;
-
-&lt;h2 id=&quot;basic-setup&quot;&gt;Basic setup&lt;/h2&gt;
-
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-filename.md&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;filename&lt;/code&gt; is whatever file name you choose, to remind yourself what this post is about. &lt;code class=&quot;highlighter-rouge&quot;&gt;.md&lt;/code&gt; is the file extension for markdown files.&lt;/p&gt;
-
-&lt;p&gt;The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “&lt;em&gt;level 1 heading&lt;/em&gt;” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line &lt;code class=&quot;highlighter-rouge&quot;&gt;## File names&lt;/code&gt; above.&lt;/p&gt;
-
-&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
-
-&lt;p&gt;You can use &lt;em&gt;italics&lt;/em&gt;, &lt;strong&gt;bold&lt;/strong&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;code font text&lt;/code&gt;, and create &lt;a href=&quot;https://www.markdownguide.org/cheat-sheet/&quot;&gt;links&lt;/a&gt;. Here’s a footnote &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Here’s a horizontal rule:&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
-
-&lt;p&gt;Here’s a list:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;item 1&lt;/li&gt;
-  &lt;li&gt;item 2&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And a numbered list:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;item 1&lt;/li&gt;
-  &lt;li&gt;item 2&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;boxes-and-stuff&quot;&gt;Boxes and stuff&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a quotation&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;Toast Toast--warning googoo&quot;&gt;
-   &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-alert&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
-   &lt;span class=&quot;Toast-content&quot;&gt;You can include alert boxes&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;p&gt;…and…&lt;/p&gt;
-
-&lt;div class=&quot;Toast&quot;&gt;
-   &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-info&quot; viewBox=&quot;0 0 14 16&quot; version=&quot;1.1&quot; width=&quot;14&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M6.3 5.69a.942.942 0 01-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 01-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
-   &lt;span class=&quot;Toast-content&quot;&gt;You can include info boxes&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/data-and-ai/images/logo.png&quot; alt=&quot;&quot; title=&quot;fast.ai's logo&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
-
-&lt;p&gt;You can format text and code per usual&lt;/p&gt;
-
-&lt;p&gt;General preformatted text:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Do a thing
-do_thing()
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Python code and output:&lt;/p&gt;
-
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Prints '2'
-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Formatting text as shell commands:&lt;/p&gt;
-
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;hello world&quot;&lt;/span&gt;
-./some_script.sh &lt;span class=&quot;nt&quot;&gt;--option&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;value&quot;&lt;/span&gt;
-wget https://example.com/cat_photo1.png
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Formatting text as YAML:&lt;/p&gt;
-
-&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;key&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;value&lt;/span&gt;
-&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;another_key&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;another&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;value&quot;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Column 1&lt;/th&gt;
-      &lt;th&gt;Column 2&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;A thing&lt;/td&gt;
-      &lt;td&gt;Another thing&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;tweetcards&quot;&gt;Tweetcards&lt;/h2&gt;
-
-&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Altair 4.0 is released! &lt;a href=&quot;https://t.co/PCyrIOTcvv&quot;&gt;https://t.co/PCyrIOTcvv&lt;/a&gt;&lt;br /&gt;Try it with:&lt;br /&gt;&lt;br /&gt;  pip install -U altair&lt;br /&gt;&lt;br /&gt;The full list of changes is at &lt;a href=&quot;https://t.co/roXmzcsT58&quot;&gt;https://t.co/roXmzcsT58&lt;/a&gt; ...read on for some highlights. &lt;a href=&quot;https://t.co/vWJ0ZveKbZ&quot;&gt;pic.twitter.com/vWJ0ZveKbZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jake VanderPlas (@jakevdp) &lt;a href=&quot;https://twitter.com/jakevdp/status/1204765621767901185?ref_src=twsrc%5Etfw&quot;&gt;December 11, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;This is the footnote. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Example Markdown Post</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ankitrathi169.github.io/data-and-ai/images/chart-preview.png" /><media:content medium="image" url="https://ankitrathi169.github.io/data-and-ai/images/chart-preview.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
