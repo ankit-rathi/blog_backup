@@ -6,7 +6,7 @@
 
 https://ankitrathi169.github.io/data-and-ai/
 
-# My Blog
+# Data & AI Blog
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
