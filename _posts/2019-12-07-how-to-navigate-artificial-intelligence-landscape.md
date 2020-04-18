@@ -1,12 +1,10 @@
-Title: How to Navigate Artificial Intelligence Landscape?
-Date: 2019-12-07 06:02
-Author: ankitrathi
-Category: Uncategorized
-Tags: AI, Artificial Intelligence, Data Science, Datadeft, Machine Learning
-Slug: how-to-navigate-artificial-intelligence-landscape
-Status: published
-
-#### Understanding Various Terminologies & Roles in Artificial Intelligence Projects
+---
+toc: true
+layout: post
+description: Understanding Various Terminologies & Roles in Artificial Intelligence Projects
+categories: [markdown]
+title: How to Navigate Artificial Intelligence Landscape?
+---
 
 ![Photo by [Rob Bates](https://unsplash.com/photos/0eLg8OTuCw0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/landscape?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/0*QNdQhs_T3ffa6B0m.jpeg)
 
