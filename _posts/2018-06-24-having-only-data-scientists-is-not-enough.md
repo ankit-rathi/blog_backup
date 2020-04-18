@@ -1,10 +1,10 @@
-Title: Having only Data Scientists is not Enough
-Date: 2018-06-24 16:38
-Author: ankitrathi
-Category: Uncategorized
-Tags: Data Architecture, Data Engineering, Data Science, Data Science Teams, Machine Learning
-Slug: having-only-data-scientists-is-not-enough
-Status: published
+---
+toc: true
+layout: post
+description: What other skills a DS/AI project requires?
+categories: [markdown]
+title: Having only Data Scientists is not Enough
+---
 
 ![Data Science is not Enough](https://cdn-images-1.medium.com/max/1200/1*XfCQHlYTiQhHacu1Vswnew.jpeg)
 
