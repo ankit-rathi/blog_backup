@@ -1,10 +1,11 @@
-Title: Who needs a Data Engineer?
-Date: 2018-06-27 13:33
-Author: ankitrathi
-Category: Uncategorized
-Tags: Data Engineer, Data Engineering, Data Science, Data Scientist, Machine Learning
-Slug: who-needs-a-data-engineer
-Status: published
+---
+toc: true
+layout: post
+description: Only data scientists are not enough for DS/AI projects
+categories: [markdown]
+title: Who needs a Data Engineer?
+---
+
 
 ![Who needs a Data Engineer?](https://cdn-images-1.medium.com/max/1200/1*fZ-ngsKcTYXtFx9gqlKp-g.jpeg)
 
