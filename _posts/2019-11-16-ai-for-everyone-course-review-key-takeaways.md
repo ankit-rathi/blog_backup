@@ -1,12 +1,10 @@
-Title: “AI For Everyone”: Course Review & Key Takeaways
-Date: 2019-11-16 14:01
-Author: ankitrathi
-Category: Uncategorized
-Tags: AI, Artificial Intelligence, Data Sceince, Deep Learning, Machine Learning
-Slug: ai-for-everyone-course-review-key-takeaways
-Status: published
-
-#### All you need to know about this non-technical course in one blog-post
+---
+toc: true
+layout: post
+description: All you need to know about this non-technical course in one blog-post
+categories: [markdown]
+title: “AI For Everyone”: Course Review & Key Takeaways
+---
 
 ![Courtesy: <https://www.deeplearning.ai/ai-for-everyone/>](https://cdn-images-1.medium.com/max/1200/0*nvcqeUmzwF-AhSq4.jpeg)
 
