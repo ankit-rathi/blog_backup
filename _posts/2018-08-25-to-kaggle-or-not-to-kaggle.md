@@ -1,10 +1,11 @@
-Title: To Kaggle Or Not To Kaggle?
-Date: 2018-08-25 07:14
-Author: ankitrathi
-Category: Uncategorized
-Tags: Data Science, Datadeft, Kaggle, Kaggle Competition, Machine Learning
-Slug: to-kaggle-or-not-to-kaggle
-Status: published
+---
+toc: true
+layout: post
+description: The advantages and limitations of Kaggle
+categories: [markdown]
+title: To Kaggle Or Not To Kaggle?
+---
+
 
 ![To Kaggle Or Not To Kaggle?](https://cdn-images-1.medium.com/max/1200/1*Wo3U-Bfz4-p7xFif5nluCQ.png)
 
