@@ -1,10 +1,10 @@
-Title: Data Science Framework
-Date: 2017-08-14 00:00
-Author: ankitrathi
-Category: Uncategorized
-Tags: Data Science
-Slug: data-science-framework
-Status: published
+---
+toc: true
+layout: post
+description: Commonly Used Framework For DS/AI Projects
+categories: [markdown]
+title: Data Science Framework
+---
 
 ![](https://cdn-images-1.medium.com/max/800/0*OOZpGGVL8g-7_GAh.jpg)
 
