@@ -1,10 +1,10 @@
-Title: Data Science Beginners’ FAQs
-Date: 2018-07-26 15:01
-Author: ankitrathi
-Category: Uncategorized
-Tags: Data Science, FAQ, Machine Learning
-Slug: data-science-beginners-faqs
-Status: published
+---
+toc: true
+layout: post
+description: Questions DS/AI Beginners Deal With
+categories: [markdown]
+title: Data Science Beginners’ FAQs
+---
 
 ![Data Science Beginners’ FAQs](https://cdn-images-1.medium.com/max/1200/0*Lm_FtoOhyMrOSe02.jpg)
 
