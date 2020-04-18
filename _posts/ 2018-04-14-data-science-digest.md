@@ -1,10 +1,10 @@
-Title: Data Science Digest
-Date: 2018-04-14 15:55
-Author: ankitrathi
-Category: Uncategorized
-Tags: Data Science, Deep Learning, Machine Learning, Python, R
-Slug: data-science-digest
-Status: published
+---
+toc: true
+layout: post
+description: Things DS/AI Beginners Need To Learn
+categories: [markdown]
+title: Data Science Digest
+---
 
 ![Data Science Digest](https://cdn-images-1.medium.com/max/800/1*ycBfZE7V5LdRONQ3CToRFQ.jpeg)
 
