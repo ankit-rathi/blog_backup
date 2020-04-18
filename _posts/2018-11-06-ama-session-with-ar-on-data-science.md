@@ -1,10 +1,10 @@
-Title: AMA Session with AR on Data Science
-Date: 2018-11-06 08:15
-Author: ankitrathi
-Category: Uncategorized
-Tags: Ama, Data Science, Machine Learning
-Slug: ama-session-with-ar-on-data-science
-Status: published
+---
+toc: true
+layout: post
+description: What can you learn from my experience?
+categories: [markdown]
+title: AMA Session with AR on Data Science
+---
 
 ![](https://cdn-images-1.medium.com/max/1200/1*IIFqS0b7BqiEfSQXmWsT1g.png)
 
