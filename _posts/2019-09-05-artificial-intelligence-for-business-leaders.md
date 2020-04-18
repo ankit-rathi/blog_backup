@@ -1,12 +1,10 @@
-Title: Artificial Intelligence for Business Leaders
-Date: 2019-09-05 11:00
-Author: ankitrathi
-Category: Uncategorized
-Tags: Artificial Intelligence, Data Science, Leadership, Machine Learning, Strategy
-Slug: artificial-intelligence-for-business-leaders
-Status: published
-
-#### *How to make the most of AI initiatives in your organization?*
+---
+toc: true
+layout: post
+description: How to make the most of AI initiatives in your organization?
+categories: [markdown]
+title: Artificial Intelligence for Business Leaders
+---
 
 ![Photo by [Jehyun Sung](https://unsplash.com/@jaysung?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/leaders?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*J8upfmjxMdQDCppmtfZnCg.jpeg)
 
