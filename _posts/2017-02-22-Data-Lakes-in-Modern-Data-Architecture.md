@@ -1,10 +1,10 @@
-Title: Data Lakes in Modern Data Architecture
-Date: 2017-02-22 00:00
-Author: ankitrathi
-Category: Uncategorized
-Tags: Big Data
-Slug: data-lakes-in-modern-data-architecture
-Status: published
+---
+toc: true
+layout: post
+description: From Databases to Data Lakes
+categories: [markdown]
+title: Data Lakes in Modern Data Architecture
+---
 
 ![](https://cdn-images-1.medium.com/max/800/0*25qQpoE9NFegPeOK.png)
 
