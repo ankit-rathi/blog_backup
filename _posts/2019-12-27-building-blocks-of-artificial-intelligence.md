@@ -1,3 +1,11 @@
+---
+toc: true
+layout: post
+description: Concepts to learn, Process to follow & Tools to master
+categories: [markdown]
+title: Building Blocks of Artificial Intelligence
+---
+
 Title: Building Blocks of Artificial Intelligence
 Date: 2019-12-27 17:10
 Author: ankitrathi
@@ -5,8 +13,6 @@ Category: Uncategorized
 Tags: Artificial Intelligence, Building Blocks, Data Science, Machine Learning, Towards Data Science
 Slug: building-blocks-of-artificial-intelligence
 Status: published
-
-#### *Concepts to learn, Process to follow & Tools to master*
 
 ![](https://cdn-images-1.medium.com/max/1200/1*jQQ7PSA9MQXa0FTdS19EHA.png)
 
