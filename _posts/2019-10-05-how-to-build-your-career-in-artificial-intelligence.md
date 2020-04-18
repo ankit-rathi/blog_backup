@@ -1,12 +1,10 @@
-Title: How to build your career in Artificial Intelligence?
-Date: 2019-10-05 10:34
-Author: ankitrathi
-Category: Uncategorized
-Tags: Artificial Intelligence, Data, Data Science, Datadeft, Machine Learning
-Slug: how-to-build-your-career-in-artificial-intelligence
-Status: published
-
-#### Build your own Roadmap to get into AI
+---
+toc: true
+layout: post
+description: Build your own Roadmap to get into AI
+categories: [markdown]
+title: How to build your career in Artificial Intelligence?
+---
 
 ![](https://cdn-images-1.medium.com/max/1200/1*2R90ZlbJ7KTH_92WX1PWMw.jpeg)
 
