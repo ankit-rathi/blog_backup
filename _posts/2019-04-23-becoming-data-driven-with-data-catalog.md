@@ -1,10 +1,10 @@
-Title: Becoming Data-Driven with Data Catalog
-Date: 2019-04-23 03:43
-Author: ankitrathi
-Category: Uncategorized
-Tags: Big Data, Data Architecture, Data Catalog, Data Governance, Datadeft
-Slug: becoming-data-driven-with-data-catalog
-Status: published
+---
+toc: true
+layout: post
+description: Learn about Data Catalog and how it helps?
+categories: [markdown]
+title: Becoming Data-Driven with Data Catalog
+---
 
 ![Photo by [Clark Street Mercantile](https://unsplash.com/photos/S042liZk3A8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/@mercantile?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*4swA58jt3B9r6eQhQPm1vA.png)
 
