@@ -1,10 +1,11 @@
-Title: Dealing with Noisy Data in Data Science
-Date: 2018-09-17 05:20
-Author: ankitrathi
-Category: Uncategorized
-Tags: Anomaly Detection, Data Science, Machine Learning, Noise
-Slug: dealing-with-noisy-data-in-data-science
-Status: published
+---
+toc: true
+layout: post
+description: How to handle different type of noise in your data?
+categories: [markdown]
+title: Dealing with Noisy Data in Data Science
+---
+
 
 ![](https://cdn-images-1.medium.com/max/1200/1*ckqv-CrEtH4w7IwArQgPtQ.png)
 
