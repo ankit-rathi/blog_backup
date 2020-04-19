@@ -14,8 +14,6 @@ While you are learning Artificial Intelligence (AI) and looking to get into this
 
 This is not an exhaustive list by any means, but it is good enough to keep as your reference. You can build your own list of references once you get more awareness of the field.
 
-\[embed\]https://www.datadriveninvestor.com/2019/03/01/the-myth-of-ais-predictive-power/\[/embed\]
-
 This post is my attempt to make your task easier. I am listing down major quality resources (mostly free) here and also going to provide you with my view of these resources, which will help you to make an informed decision.
 
 ![](https://cdn-images-1.medium.com/max/800/1*Ph24kcZtHvK51Pci0WFHSw.png)
@@ -30,7 +28,7 @@ This post is my attempt to make your task easier. I am listing down major qualit
 
 This is an excellent book for the R starter who wants to apply ML to any kind of project. All the main ML models are presented, as well as different performance metrics, bagging, pruning, tuning, ensembling etc. Easy to scan through, many tips with fully-solved textbook problems. Certainly, a very good starting point if you plan to compete on Kaggle. If you already master both R and ML, this books is obviously not for you.
 
-\[embed\]https://www.datadriveninvestor.com/2019/03/01/the-myth-of-ais-predictive-power/\[/embed\]
+[Machine Learning with R](https://www.amazon.com/Machine-Learning-R-Brett-Lantz-ebook/dp/B00G9581JM)
 
 #### Python Machine Learning
 
