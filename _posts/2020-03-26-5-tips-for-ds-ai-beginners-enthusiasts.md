@@ -51,14 +51,6 @@ Build your skills in data handling, learn frequently used tips & tricks in SQL, 
 
 Learn from Kaggle kernels, popular GitHub repos, how experts handle the data. Gather and clean public datasets on your own and refer these resources wherever get stuck.
 
-------------------------------------------------------------------------
-
-*Before continuing with this post, if you are loving the content, check out my post on ‘How to launch your DS/AI Career in 12 weeks?’*
-
-\[embed\]https://medium.com/\@rathi.ankit/how-to-launch-your-ds-ai-career-in-12-weeks-8a7e6950ffe6\[/embed\]
-
-------------------------------------------------------------------------
-
 ### Understand The Context
 
 ![](https://cdn-images-1.medium.com/max/800/0*ChpN6CWwu61TEP-V.jpg)
@@ -91,4 +83,6 @@ T-shaped skills describe specific attributes of desirable workers. The vertical 
 
 ------------------------------------------------------------------------
 
-*Thank you for reading my post. I regularly write about Data & Technology on* [*LinkedIn*](https://www.linkedin.com/today/posts/ankitrathi?source=post_page---------------------------) *&* [*Medium*](https://medium.com/@rathi.ankit?source=post_page---------------------------)*. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to visit my webpage* [*https://ankitrathi.com*](https://www.ankitrathi.com/)
+[*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
+
+*Why don’t you connect with Ankit on* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
