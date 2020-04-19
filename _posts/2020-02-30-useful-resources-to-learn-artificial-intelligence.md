@@ -34,13 +34,13 @@ This is an excellent book for the R starter who wants to apply ML to any kind of
 
 This is a fantastic introductory book in machine learning with python. It provides enough background about the theory of each (covered) technique followed by its python code. One nice thing about the book is that it starts implementing Neural Networks from scratch, providing the reader with the chance of truly understanding the key underlying techniques such as back-propagation. Even further, the book presents an efficient (and professional) way of coding in python, the key to AI/ML.
 
-\[embed\]https://www.datadriveninvestor.com/2019/03/01/the-myth-of-ais-predictive-power/\[/embed\]
+[Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750)
 
 #### ISLR
 
 The book explains the concepts of Statistical Learning from the very beginning. The core ideas such as bias-variance trade-off are deeply discussed and revisited in many problems. The included R examples are particularly helpful for beginners to learn R. The book also provides a brief, but concise description of functions’ parameters for many related R packages. Compared to *The Elements of Statistical Learning*, it is easy for the reader to understand. It does a wonderful job of breaking things down complex concepts. If one wishes to learn more about a particular topic, I’d recommend The Element of Statistical Learning. These two pair nicely together.
 
-\[embed\]https://www.datadriveninvestor.com/2019/03/01/the-myth-of-ais-predictive-power/\[/embed\]
+[An Introduction to Statistical Learning: with Applications in R](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)
 
 #### Deep Learning
 
@@ -48,7 +48,7 @@ This is the book to read on deep learning. Written by luminaries in the field 
 
 This is a theoretical book, but it can be read in tandem with *Hands-On Machine Learning with Scikit-Learn and TensorFlow*, almost chapter-for-chapter. The Scikit-Learn and Tensorflow example code, while only moderately interesting on its own, helps to clarify the purpose of many of the topics in the Goodfellow book.
 
-\[embed\]https://www.datadriveninvestor.com/2019/03/01/the-myth-of-ais-predictive-power/\[/embed\]
+[Deep Learning](https://www.deeplearningbook.org/)
 
 #### Hands-On Machine Learning with Scikit-Learn and TensorFlow
 
@@ -62,7 +62,7 @@ This book provides a great introduction to machine learning for both developer a
 
 The book demonstrates (including the code) different approaches using Scikit-Learn python package and also the TensorFlow.
 
-\[embed\]https://www.datadriveninvestor.com/2019/03/01/the-myth-of-ais-predictive-power/\[/embed\]
+[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
 
 #### Data Science for Business
 
@@ -70,7 +70,7 @@ This is probably the most practical book to read if you are looking for an overv
 
 This isn’t a book on implementing these concepts or a bunch of algorithms. This gives the book the advantage of being something you can refer to an intelligent manager or interested developer, and they can both get a lot out of it. And if they are interested in the next level of learning there are plenty of pointers. You will also find the chapter on presenting results through ROC curves, lift curves, etc. pretty interesting. It would be cool if this book had some more hands-on, but you can go to Kaggle and browse around the current and past competitions to apply what you learn here.
 
-<https://www.amazon.com/dp/1449361323/>
+[Data Science for Business](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking-ebook/dp/B00E6EQ3X4)
 
 ### Courses to attend
 
@@ -80,11 +80,11 @@ This isn’t a book on implementing these concepts or a bunch of algorithms. Thi
 
 ![](https://cdn-images-1.medium.com/max/800/1*kXMhOBDVRMz1Yw23eW5oSQ.png)
 
-<https://www.coursera.org/learn/machine-learning>
-
 Machine Learning is one of the first programming MOOCs. Coursera put online by Coursera founder and Stanford Professor Andrew Ng. This course assumes that you have basic programming skills and you have some understanding of Linear Algebra. Knowledge of Statistics & Probability is not required though.
 
 Andrew Ng does a good job explaining dense material and slides. The course gives you a lot of structure and direction for each homework, so it is generally pretty clear what you are supposed to do and how you are supposed to do it.
+
+[Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
 #### Deep Learning
 
@@ -94,7 +94,7 @@ When you are rather new to the topic, you can learn a lot of doing the [deeplear
 
 Doing this specialization is probably more than the first step into DL. I would say, each course is a single step in the right direction, so you end up with five steps in total. I think it builds a fundamental understanding of the field. But going further, you have to practice a lot and eventually it might be useful also to read more about the methodological background of DL variants. But doing the course work gets you started in a structured manner — which is worth a lot, especially in a field with so much buzz around it.
 
-\[embed\]https://www.datadriveninvestor.com/2019/03/01/the-myth-of-ais-predictive-power/\[/embed\]
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 #### Fast AI
 
@@ -102,7 +102,7 @@ Doing this specialization is probably more than the first step into DL. I would 
 
 If your goal is to be able to learn about deep learning and apply what you’ve learned, the fast.ai course is a better bet. If you have the time, interleaving the deeplearning.ai and fast.ai courses is ideal — you get the practical experience, applicability, and audience interaction of fast.ai, along with the organised material and theoretical explanations of deeplearning.ai.
 
-\[embed\]https://www.datadriveninvestor.com/2019/03/01/the-myth-of-ais-predictive-power/\[/embed\]
+[Fast AI Course](https://course.fast.ai/)
 
 #### Kaggle Learn
 
