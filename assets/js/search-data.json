@@ -227,7 +227,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "Ankit Rathi is a data &amp; AI architect, published author &amp; well-known speaker. His interest lies primarily in building end to end AI applications/products following best practices of Data Engineering and Architecture. . Ankit’s work at SITA aero has revolved around building FlightPredictor product &amp; strengthening the CoE capability. Earlier as a Principal Consultant at Genpact HCM, Ankit architected and deployed machine learning pipelines for various clients across different industries like Insurance, F&amp;A. He was previously a Tech Lead at RBS IDC where he designed and developed various data intensive applications in AML &amp; Mortgages area. . Ankit is a well-known author for various publications (Data Deft, Towards Data Science, Analytics Vidhya etc) on Medium where he actively contributes by writing blog-posts on concepts &amp; latest trends in Data Science. He is followed by 25K+ data science practitioners &amp; enthusiasts on LinkedIn. . Specialties: Data Science, Data Architecture, Data Strategy, Big Data, Cloud Computing . Tools/Technologies: SQL, Python, R, Spark, Azure, AWS, TensorFlow, Cassandra, Hadoop, Pig, Hive, Tableau, PowerBI, DevOps, CI/CD .",
+          "content": "Ankit Rathi is a data &amp; AI architect, published author &amp; well-known speaker. His interest lies primarily in building end to end AI applications/products following best practices of Data Engineering and Architecture. . Visit https://ankitrathi.com to know more… .",
           "url": "https://ankitrathi169.github.io/data-and-ai/about/",
           "relUrl": "/about/",
           "date": ""
