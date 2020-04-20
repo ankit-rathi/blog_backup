@@ -1,10 +1,10 @@
-Title: Bayesian Statistics for Data Science
-Date: 2018-08-15 14:48
-Author: ankitrathi
-Category: Uncategorized
-Tags: Bayesian Statistics, Data Science, Machine Learning, Probability, Statistics
-Slug: bayesian-statistics-for-data-science
-Status: published
+---
+toc: true
+layout: post
+description: Probability & Statistics for Data Scientists
+categories: [markdown]
+title: Bayesian Statistics for Data Science
+---
 
 ![Bayesian Statistics for Data Science](https://cdn-images-1.medium.com/max/1200/1*qO6IpQH_zrwOon9FBGkJZg.png)
 
@@ -125,4 +125,4 @@ And there are scenarios where Bayesian statistics will perform drastically, plea
 
 [*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
 
-*Why don’t you connect with Ankit on* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
