@@ -1,10 +1,10 @@
-Title: DS/AI-SSH: Building Your Portfolio
-Date: 2019-07-01 11:54
-Author: ankitrathi
-Category: Uncategorized
-Tags: Artificial Intelligence, Data Science, Datadeft, Machine Learning, Portfolio
-Slug: ds-ai-ssh-building-your-portfolio
-Status: published
+---
+toc: true
+layout: post
+description: Most important step in getting into Data & AI
+categories: [markdown]
+title: Building Your Portfolio in Data & AI
+---
 
 ![Photo by [Joanna Kosinska](https://unsplash.com/@joannakosinska?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/photos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*9NM7A9rdbJQUiyCiYkZX6Q.jpeg)
 
@@ -221,6 +221,6 @@ I hope that reading this inspires at least a few of you who want to become a dat
 
 ------------------------------------------------------------------------
 
-*In the next post, we will cover how you can build your network and start looking for a job.*
+[*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
 
-*Thank you for reading my post. I regularly write about Data & Technology on* [*LinkedIn*](https://www.linkedin.com/today/posts/ankitrathi) *&* [*Medium*](https://medium.com/@rathi.ankit)*. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to listen to me on* [*SoundCloud*](https://soundcloud.com/ankitrathi)*.*
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
