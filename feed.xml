@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-20T11:33:24-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">5 Tips for DS/AI Beginners &amp;amp; Enthusiasts</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html" rel="alternate" type="text/html" title="5 Tips for DS/AI Beginners &amp; Enthusiasts" /><published>2020-03-26T00:00:00-05:00</published><updated>2020-03-26T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*WYAntO3ZfXBMkyn31mHoRw.jpeg&quot; alt=&quot;Photo by [Sam Truong Dan](https://unsplash.com/@sam_truong?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/tips?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText)&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-20T11:47:07-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">Architecting Modern Data Platforms</title><link href="https://ankit-rathi.github.io/data-and-ai/2020/04/15/Architecting-Modern-Data-Platforms.mdmd" rel="alternate" type="text/html" title="Architecting Modern Data Platforms" /><published>2020-04-15T00:00:00-05:00</published><updated>2020-04-15T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/2020/04/15/Architecting-Modern-Data-Platforms</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/2020/04/15/Architecting-Modern-Data-Platforms.mdmd">## Data Architecture Principles
+
+Whether you are responsible for data, systems or application architecture, you need to define some principles to help you navigate the fast-paced modern world. Data Architecture Principles are the foundation for data architecture that will allow your business to run at an optimized level today, and into the future.
+
+## Adhere to ADDA (Accessibility, Definition, Decoupling, Agility)
+
+- Data Accessibility is critical for the success of any business. Easily accessible data enables you to move quickly, focus on the product, and build a data-informed pipeline where data leads to better decisions and actions.
+
+- Data Definition or Catalog helps analysts and other data users to find the data that they need, serves as an inventory of available data, and provides information to evaluate fitness data for intended uses.
+
+- Data Decoupling helps in design since it allows each data layer to be independent of other data layers.
+
+- Data Agility is when your data can move at the speed of your business. For companies to achieve true data agility, they need to be able to access the data they need, when and where they need it.
+
+So the first data architecture principle is to make sure that business data is accessible, defined, decoupled and agile.
+
+## Design for RSM (Reliability, Scalability, Maintainability)
+
+- Reliability means the data systems we are designing work correctly and fault-tolerant up to some level.
+- Scalability means data systems are adaptable to growth in a linear way.
+- Maintainability means that data systems remain easier to maintain.
+
+Second data architecture principle is that the data systems remain reliable, scalable and maintainable over time.
+
+## Use Right Tools
+
+We need to use the right tool at each data layer by aligning the choice to the data structure, latency and throughput requirements and access patterns.
+
+## Cloud-Native/Agnostic
+
+Whether you have the data on-premise or you are using single/multiple cloud service providers, each decision has its own pros &amp; cons.
+
+## Be Cost-Conscious
+Cost of building complex and ever-evolving data systems can be huge, we need to make sure we use available resources efficiently.
+- Efficient consumption of services
+- Select cost-conscious options
+- Enforce policies and controls
+
+## Data Lake Basics
+Data Lake is becoming the defacto standard in modern data platforms, let's have a look at what it is and how it helps to build modern data systems.
+- Data Lake Definition
+-- An architectural approach
+-- Massive heterogeneous data stored centrally
+-- Available to the diverse group of users
+-- To be categorized, processed, analyzed &amp; consumed
+
+- Data Lake Characteristics
+-- Structured, semi-structured &amp; unstructured data
+-- Scaled out as required
+-- The diverse set of storage, analytics and ML/AI tools
+-- Designed for low-cost storage and analytics
+-- High-Level Architecture
+
+A typical data analytics platform takes business raw data as input and provides actionable insights. It has four layers: ingest, store, process/analyse &amp; serve.
+Let’s have a look at each data layer in detail:
+
+## Data Characteristics
+
+- Ingest
+Data can be ingested from a variety of data sources like web/mobile apps, databases, application logging, messaging and IOT devices.
+
+Data can be hot, warm or cold based on its velocity, request rates and latency requirements:
+
+Data can be categorized based on data structures and access-pattern requirements. Based on these characteristics, we decide how to store and process each type of data.
+
+- Storage
+How we are going to store data depends mainly on two major factors:
+What is the structure of the data?
+What is the frequency and usage of data?
+
+- Analytics Types
+There can be different kind of analytics you may need to perform based on the structure and access-patterns of data.
+Message/Stream Analysis
+Interactive Analysis
+Batch Analysis
+Machine Learning/AI
+ETL Processing
+
+Store and Process/Analyse steps can be performed iteratively as after processing or analysing the results, you may need to store data in the processed form before acting further.
+
+- Serve
+There may be various ways of serving insights to end-user (business, data scientists or developers).
+Applications &amp; APIs
+Analysis &amp; Visualization
+Notebooks
+IDEs
+
+## Putting It All Together
+Now let’s combine what we have discussed till now, you may notice that ‘Security and Governance’ process needs to be applied across the data layers along with Data Catalog.
+
+## Product-Driven Data Architecture
+While data lake is the defacto standard these days, still there are few issues that are to be addressed like ubiquitous data and source proliferation, innovation agenda and consumer proliferation, coupled pipeline decomposition.
+Recently, Zhamak Dehghani has proposed a data architecture to move beyond a monolithic data lake to a distributed data mesh which can possibly address above mentioned concerns.
+
+https://martinfowler.com/articles/data-monolith-to-mesh.html
+
+## Reference Architecture
+Before signing off, let’s also have a look at reference data architecture from leading cloud services providers like Azure, AWS and GCP.
+Reference Architecture — Azure
+
+Reference Architecture — AWS
+
+Reference Architecture — GCP
+
+I hope you find this post useful, stay tuned for more, any feedback would be highly appreciated.
+Ankit Rathi is a Data &amp; AI Architect, published author &amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.</content><author><name></name></author><summary type="html">## Data Architecture Principles</summary></entry><entry><title type="html">5 Tips for DS/AI Beginners &amp;amp; Enthusiasts</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html" rel="alternate" type="text/html" title="5 Tips for DS/AI Beginners &amp; Enthusiasts" /><published>2020-03-26T00:00:00-05:00</published><updated>2020-03-26T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*WYAntO3ZfXBMkyn31mHoRw.jpeg&quot; alt=&quot;Photo by [Sam Truong Dan](https://unsplash.com/@sam_truong?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/tips?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText)&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;In this post, I am sharing 5 important tips for budding data scientists, there is a bonus tip as well in the end.&lt;/em&gt;&lt;/p&gt;
 
@@ -1907,83 +2012,4 @@ Status: published&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;Ankit Rathi&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;or&lt;/em&gt; &lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">It is no secret that data is the new oil and AI is the new electricity. Due to the difference AI can make in every walk of life, it is the red hot subject among recent graduates/undergraduates and working professionals in different industries. It is not only up to the technical team to make AI initiatives a success in the organization. Business value creation in driven top-down so business leaders is equally responsible for the success or failure of AI initiatives. If you look at the failure rate of AI projects and the challenges faced by AI teams, you can easily figure out that most of the challenges are because of the absence of data culture in an organization. And data culture can’t be inculcated in a day, it takes efforts and leadership needs to drive it as part of their change management program. Apart from infusing data culture in the organization, most of the decisions in business are made by its leaders, AI is providing huge opportunity to many areas of business across domains. Hence as a leader or manager, understanding AI and applying it effectively in our organization can make all the difference between us and our competitors. Recently I published a book for AI starters and enthusiasts, where I shared a learning framework on how they can get into AI and during my discussions with managers and business leaders, they asked me if a similar framework can be built for business leaders. Framework If we look at the day to day working of managers and leaders, they need not know each and everything of the work &amp;amp; resources they are managing but just enough awareness can make a huge impact on AI initiatives. It helps in setting the right expectations with the customer or business, defining better strategy, anticipating challenges and understanding the concerns of the team. So here is the framework that I came up with for business leaders &amp;amp; managers: Prepare, Strategize, Execute, Reflect. Let us have a look at each of the phase of the above framework: Prepare AI is a new &amp;amp; evolving field, the first phase for us is to prepare ourselves to run these AI initiatives. The very first step we need to take is to navigate the overall landscape. What are AI, ML, DL, DS, DM, BI terms? How they are interconnected? What is the typical lifecycle to execute AI project? What are the different roles and skill-set required in the lifecycle? The second step would be to build the capability to execute AI projects. More we work on our concepts and skill-set, more we will be comfortable to run such projects and handling teams. Strategize After working on our concepts &amp;amp; skill-set, we are ready to work with a team on AI projects but hold on. How do we know what are the opportunities in our organization? Working on which projects would be more beneficial than others? To get answers to these questions, we need to define an AI strategy based on our organization &amp;amp; industry. Apart from defining the strategy, we need to have an operational framework in place to get a clear understanding of what is to be done and who will be doing what. Another area for leaders/manager is to anticipate what challenges their teams would face while working on AI projects. Having a view beforehand will help you to handle the challenges better. Execute This phase covers managing the on-field execution of AI projects. As AI projects are different from typical IT projects, we need to emphasize quick POC to get a better view of the problem &amp;amp; to provide optimized estimates of the overall efforts. From managing stakeholders’ expectations to understanding the functional aspect of the use case to deployment &amp;amp; monitoring of the final solution, you need to manage everything and also need to tackle the day to day challenges your team faces. Reflect The last phase is to reflect on how the whole project went and what we can take out from it to do better in other upcoming AI projects. Firstly, we need to analyse the results of our deployed solution and compare it with the initially estimated output. We also need to take the customer or business feedback on the results and agree on monitoring and maintenance framework. Obviously, being an AI project, not everything would go smooth. Every organization has a culture and way of doing things, which may or may not be in line with what we require for our AI initiatives. So based on the lessons learnt from the current AI project, we may need to update our AI strategy &amp;amp; operational framework to suit our opportunities &amp;amp; constraints in a better way. As you see, the above approach &amp;amp; framework captures what a business leader or manager needs to know and work out to make AI initiative successful for his organization. It takes vision, strategy, efforts &amp;amp; some self-reflection at the end. If you liked the content, check out my post on ‘How to launch your DS/AI Career in 12 weeks?’ [embed]https://medium.com/\@rathi.ankit/how-to-launch-your-ds-ai-career-in-12-weeks-8a7e6950ffe6[/embed] Ankit Rathi is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture. Why don’t you connect with Ankit on Twitter, LinkedIn or Instagram?</summary></entry><entry><title type="html">4 Types of Challenges in DS/AI Projects &amp;amp; Initiatives</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2019/08/21/4-types-of-challenges-in-ds-ai-projects-initiatives.html" rel="alternate" type="text/html" title="4 Types of Challenges in DS/AI Projects &amp; Initiatives" /><published>2019-08-21T00:00:00-05:00</published><updated>2019-08-21T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2019/08/21/4-types-of-challenges-in-ds-ai-projects-initiatives</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2019/08/21/4-types-of-challenges-in-ds-ai-projects-initiatives.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*jOEJ1xsav6nKYHk-VRD1Xw.jpeg&quot; alt=&quot;Photo by [Eila Lifflander](https://unsplash.com/@3ilaliff?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/challenges?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText)&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;In this post, I have analyzed frequent challenges encountered by DS/AI leaders &amp;amp; experts in their projects/initiatives. I have re-organized these challenges into 4 areas of concerns, my idea is to build a framework around these challenges to suggest possible solutions in upcoming posts.&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;DS/AI promises considerable economic &amp;amp; social benefits, even as it disrupts the way we work. Almost everyone agrees that it is a field which can change the world, from healthcare to countering terrorism and even arts &amp;amp; sports.&lt;/p&gt;
-
-&lt;p&gt;DS/AI leaders &amp;amp; experts are facing different challenges from ideation to productization, it is estimated that between 70% and 85% of DS/AI projects fail.&lt;/p&gt;
-
-&lt;p&gt;To get a holistic view of the challenges &amp;amp; failures, I looked at various articles available on the internet about the challenges in DS/AI projects &amp;amp; initiatives. You can find all the articles I referred at the end of this post.&lt;/p&gt;
-
-&lt;p&gt;In the past few weeks, I have also spoken to many DS/AI leaders &amp;amp; experts on this topic and they have also given some useful insights. I will cover these specific insights into the challenges in the upcoming blog-posts.&lt;/p&gt;
-
-&lt;p&gt;In order to shed some light on the reasons why we observe such a high failure rate, I also analyzed the results of a survey conducted by Kaggle in 2017. You can see the full report &lt;a href=&quot;https://www.kaggle.com/surveys/2017&quot;&gt;here&lt;/a&gt;. The part of the survey relevant to this article is about the challenges companies face as far as their DS/AI efforts are concerned. The following chart shows the top fifteen challenges:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/0*1HEARRre7TJauqQX.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;While I am still documenting the challenges &amp;amp; possible solutions, I can categorize these challenges in four broad segments: — Cultural challenges (right talent, data literacy, realistic expectations etc) — Data-related challenges (data access, data quality, lifecycle management etc) — Operational challenges (suitable operating model with specific roles &amp;amp; responsibilities) — Technology-related challenges (appropriate tech-stack, right infrastructure etc).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*ai4WsvqwNA8bKjY6BOIBGw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;challenges-in-dsaiprojects&quot;&gt;Challenges in DS/AI Projects&lt;/h3&gt;
-
-&lt;p&gt;Based on the above-mentioned sources (surveys, articles &amp;amp; experts) in this post, I have collected all the challenges and tried to categorize them into four areas of concern — Culture, Operation, Data, Technology:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Data Quality — Data&lt;/li&gt;
-  &lt;li&gt;Talent Gap — Operations&lt;/li&gt;
-  &lt;li&gt;Company Politics — Culture&lt;/li&gt;
-  &lt;li&gt;Data Access — Operations&lt;/li&gt;
-  &lt;li&gt;Data Literacy — Culture&lt;/li&gt;
-  &lt;li&gt;Data Privacy — Data&lt;/li&gt;
-  &lt;li&gt;SME Gap — Operations&lt;/li&gt;
-  &lt;li&gt;Heterogeneous Tech-stack — Technology&lt;/li&gt;
-  &lt;li&gt;Unrealistic Expectations — Culture&lt;/li&gt;
-  &lt;li&gt;Co-ordination with IT &amp;amp; other deptt — Operations&lt;/li&gt;
-  &lt;li&gt;Stakeholders’ Buy-in — Culture&lt;/li&gt;
-  &lt;li&gt;Sponsorship — Culture&lt;/li&gt;
-  &lt;li&gt;Deployment — Operations&lt;/li&gt;
-  &lt;li&gt;Algorithms Limitations — Technology&lt;/li&gt;
-  &lt;li&gt;Data Consolidation — Data&lt;/li&gt;
-  &lt;li&gt;Opportunity Assessment — Operations&lt;/li&gt;
-  &lt;li&gt;Model Explainability — Technology&lt;/li&gt;
-  &lt;li&gt;Agility — Operations&lt;/li&gt;
-  &lt;li&gt;Data Security — Operations&lt;/li&gt;
-  &lt;li&gt;Solving the Wrong Problem — Operations&lt;/li&gt;
-  &lt;li&gt;Organizational Maturity — Culture&lt;/li&gt;
-  &lt;li&gt;Storytelling — Culture&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;area-of-concerns-indsai&quot;&gt;Area of Concerns in DS/AI&lt;/h3&gt;
-
-&lt;p&gt;Now, let’s consolidate the above challenges in the respective area of concerns:&lt;/p&gt;
-
-&lt;h4 id=&quot;cultural-challenges&quot;&gt;Cultural Challenges&lt;/h4&gt;
-
-&lt;p&gt;Company Politics, Data Literacy, Unrealistic Expectations, Stakeholders’ Buy-in, Organizational Maturity, Storytelling&lt;/p&gt;
-
-&lt;h4 id=&quot;operational-challenges&quot;&gt;Operational Challenges&lt;/h4&gt;
-
-&lt;p&gt;Talent Gap, Data Access, SME Gap, Coordination with IT and other deptts, Deployment, Opportunity Assessment, Data Security, Solving the Wrong Problem&lt;/p&gt;
-
-&lt;h4 id=&quot;data-challenges&quot;&gt;Data Challenges&lt;/h4&gt;
-
-&lt;p&gt;Data Quality, Data Privacy, Data Consolidation&lt;/p&gt;
-
-&lt;h4 id=&quot;technology-challenges&quot;&gt;Technology Challenges&lt;/h4&gt;
-
-&lt;p&gt;Heterogeneous Tech-stack, Algorithms Limitations, Model Explainability&lt;/p&gt;
-
-&lt;h3 id=&quot;what-next&quot;&gt;What next?&lt;/h3&gt;
-
-&lt;p&gt;I believe that if we categorize these challenges in the respective area of concerns, we can build a framework around it which can address these challenges and suggest possible solutions.&lt;/p&gt;
-
-&lt;p&gt;I intend to explore these possibilities in the upcoming blog-posts, if it looks interesting to you, stay tuned.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;Thank you for reading my post. I regularly write about Data &amp;amp; Technology on&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/today/posts/ankitrathi?source=post_page---------------------------&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;&amp;amp;&lt;/em&gt; &lt;a href=&quot;https://medium.com/@rathi.ankit?source=post_page---------------------------&quot;&gt;&lt;em&gt;Medium&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to visit my webpage&lt;/em&gt; &lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;https://ankitrathi.com&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">In this post, I have analyzed frequent challenges encountered by DS/AI leaders &amp;amp; experts in their projects/initiatives. I have re-organized these challenges into 4 areas of concerns, my idea is to build a framework around these challenges to suggest possible solutions in upcoming posts. DS/AI promises considerable economic &amp;amp; social benefits, even as it disrupts the way we work. Almost everyone agrees that it is a field which can change the world, from healthcare to countering terrorism and even arts &amp;amp; sports. DS/AI leaders &amp;amp; experts are facing different challenges from ideation to productization, it is estimated that between 70% and 85% of DS/AI projects fail. To get a holistic view of the challenges &amp;amp; failures, I looked at various articles available on the internet about the challenges in DS/AI projects &amp;amp; initiatives. You can find all the articles I referred at the end of this post. In the past few weeks, I have also spoken to many DS/AI leaders &amp;amp; experts on this topic and they have also given some useful insights. I will cover these specific insights into the challenges in the upcoming blog-posts. In order to shed some light on the reasons why we observe such a high failure rate, I also analyzed the results of a survey conducted by Kaggle in 2017. You can see the full report here. The part of the survey relevant to this article is about the challenges companies face as far as their DS/AI efforts are concerned. The following chart shows the top fifteen challenges: While I am still documenting the challenges &amp;amp; possible solutions, I can categorize these challenges in four broad segments: — Cultural challenges (right talent, data literacy, realistic expectations etc) — Data-related challenges (data access, data quality, lifecycle management etc) — Operational challenges (suitable operating model with specific roles &amp;amp; responsibilities) — Technology-related challenges (appropriate tech-stack, right infrastructure etc). Challenges in DS/AI Projects Based on the above-mentioned sources (surveys, articles &amp;amp; experts) in this post, I have collected all the challenges and tried to categorize them into four areas of concern — Culture, Operation, Data, Technology: Data Quality — Data Talent Gap — Operations Company Politics — Culture Data Access — Operations Data Literacy — Culture Data Privacy — Data SME Gap — Operations Heterogeneous Tech-stack — Technology Unrealistic Expectations — Culture Co-ordination with IT &amp;amp; other deptt — Operations Stakeholders’ Buy-in — Culture Sponsorship — Culture Deployment — Operations Algorithms Limitations — Technology Data Consolidation — Data Opportunity Assessment — Operations Model Explainability — Technology Agility — Operations Data Security — Operations Solving the Wrong Problem — Operations Organizational Maturity — Culture Storytelling — Culture Area of Concerns in DS/AI Now, let’s consolidate the above challenges in the respective area of concerns: Cultural Challenges Company Politics, Data Literacy, Unrealistic Expectations, Stakeholders’ Buy-in, Organizational Maturity, Storytelling Operational Challenges Talent Gap, Data Access, SME Gap, Coordination with IT and other deptts, Deployment, Opportunity Assessment, Data Security, Solving the Wrong Problem Data Challenges Data Quality, Data Privacy, Data Consolidation Technology Challenges Heterogeneous Tech-stack, Algorithms Limitations, Model Explainability What next? I believe that if we categorize these challenges in the respective area of concerns, we can build a framework around it which can address these challenges and suggest possible solutions. I intend to explore these possibilities in the upcoming blog-posts, if it looks interesting to you, stay tuned. Thank you for reading my post. I regularly write about Data &amp;amp; Technology on LinkedIn &amp;amp; Medium. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to visit my webpage https://ankitrathi.com</summary></entry></feed>
+&lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;or&lt;/em&gt; &lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">It is no secret that data is the new oil and AI is the new electricity. Due to the difference AI can make in every walk of life, it is the red hot subject among recent graduates/undergraduates and working professionals in different industries. It is not only up to the technical team to make AI initiatives a success in the organization. Business value creation in driven top-down so business leaders is equally responsible for the success or failure of AI initiatives. If you look at the failure rate of AI projects and the challenges faced by AI teams, you can easily figure out that most of the challenges are because of the absence of data culture in an organization. And data culture can’t be inculcated in a day, it takes efforts and leadership needs to drive it as part of their change management program. Apart from infusing data culture in the organization, most of the decisions in business are made by its leaders, AI is providing huge opportunity to many areas of business across domains. Hence as a leader or manager, understanding AI and applying it effectively in our organization can make all the difference between us and our competitors. Recently I published a book for AI starters and enthusiasts, where I shared a learning framework on how they can get into AI and during my discussions with managers and business leaders, they asked me if a similar framework can be built for business leaders. Framework If we look at the day to day working of managers and leaders, they need not know each and everything of the work &amp;amp; resources they are managing but just enough awareness can make a huge impact on AI initiatives. It helps in setting the right expectations with the customer or business, defining better strategy, anticipating challenges and understanding the concerns of the team. So here is the framework that I came up with for business leaders &amp;amp; managers: Prepare, Strategize, Execute, Reflect. Let us have a look at each of the phase of the above framework: Prepare AI is a new &amp;amp; evolving field, the first phase for us is to prepare ourselves to run these AI initiatives. The very first step we need to take is to navigate the overall landscape. What are AI, ML, DL, DS, DM, BI terms? How they are interconnected? What is the typical lifecycle to execute AI project? What are the different roles and skill-set required in the lifecycle? The second step would be to build the capability to execute AI projects. More we work on our concepts and skill-set, more we will be comfortable to run such projects and handling teams. Strategize After working on our concepts &amp;amp; skill-set, we are ready to work with a team on AI projects but hold on. How do we know what are the opportunities in our organization? Working on which projects would be more beneficial than others? To get answers to these questions, we need to define an AI strategy based on our organization &amp;amp; industry. Apart from defining the strategy, we need to have an operational framework in place to get a clear understanding of what is to be done and who will be doing what. Another area for leaders/manager is to anticipate what challenges their teams would face while working on AI projects. Having a view beforehand will help you to handle the challenges better. Execute This phase covers managing the on-field execution of AI projects. As AI projects are different from typical IT projects, we need to emphasize quick POC to get a better view of the problem &amp;amp; to provide optimized estimates of the overall efforts. From managing stakeholders’ expectations to understanding the functional aspect of the use case to deployment &amp;amp; monitoring of the final solution, you need to manage everything and also need to tackle the day to day challenges your team faces. Reflect The last phase is to reflect on how the whole project went and what we can take out from it to do better in other upcoming AI projects. Firstly, we need to analyse the results of our deployed solution and compare it with the initially estimated output. We also need to take the customer or business feedback on the results and agree on monitoring and maintenance framework. Obviously, being an AI project, not everything would go smooth. Every organization has a culture and way of doing things, which may or may not be in line with what we require for our AI initiatives. So based on the lessons learnt from the current AI project, we may need to update our AI strategy &amp;amp; operational framework to suit our opportunities &amp;amp; constraints in a better way. As you see, the above approach &amp;amp; framework captures what a business leader or manager needs to know and work out to make AI initiative successful for his organization. It takes vision, strategy, efforts &amp;amp; some self-reflection at the end. If you liked the content, check out my post on ‘How to launch your DS/AI Career in 12 weeks?’ [embed]https://medium.com/\@rathi.ankit/how-to-launch-your-ds-ai-career-in-12-weeks-8a7e6950ffe6[/embed] Ankit Rathi is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture. Why don’t you connect with Ankit on Twitter, LinkedIn or Instagram?</summary></entry></feed>
