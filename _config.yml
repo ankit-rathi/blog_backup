@@ -14,8 +14,8 @@ github_repo: "data-and-ai"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-#url: "https://ankitrathi169.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://ankitrathi.com"
+url: "https://ankitrathi169.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://ankitrathi.com"
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
