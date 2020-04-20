@@ -20,29 +20,29 @@ This post is my attempt to make your task easier. I am listing down major qualit
 
 > You need not go through each and every resource mentioned here, I would suggest you build the foundation first using a course or a book and keep other resources for your reference.
 
-# Books to refer
+## Books to refer
 
 ![](https://cdn-images-1.medium.com/max/800/1*KsUJovlo19BEon_wIynWNg.png)
 
-## Machine Learning with R
+### Machine Learning with R
 
 This is an excellent book for the R starter who wants to apply ML to any kind of project. All the main ML models are presented, as well as different performance metrics, bagging, pruning, tuning, ensembling etc. Easy to scan through, many tips with fully-solved textbook problems. Certainly, a very good starting point if you plan to compete on Kaggle. If you already master both R and ML, this books is obviously not for you.
 
 [Machine Learning with R](https://www.amazon.com/Machine-Learning-R-Brett-Lantz-ebook/dp/B00G9581JM)
 
-## Python Machine Learning
+### Python Machine Learning
 
 This is a fantastic introductory book in machine learning with python. It provides enough background about the theory of each (covered) technique followed by its python code. One nice thing about the book is that it starts implementing Neural Networks from scratch, providing the reader with the chance of truly understanding the key underlying techniques such as back-propagation. Even further, the book presents an efficient (and professional) way of coding in python, the key to AI/ML.
 
 [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750)
 
-## ISLR
+### ISLR
 
 The book explains the concepts of Statistical Learning from the very beginning. The core ideas such as bias-variance trade-off are deeply discussed and revisited in many problems. The included R examples are particularly helpful for beginners to learn R. The book also provides a brief, but concise description of functions’ parameters for many related R packages. Compared to *The Elements of Statistical Learning*, it is easy for the reader to understand. It does a wonderful job of breaking things down complex concepts. If one wishes to learn more about a particular topic, I’d recommend The Element of Statistical Learning. These two pair nicely together.
 
 [An Introduction to Statistical Learning: with Applications in R](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)
 
-## Deep Learning
+### Deep Learning
 
 This is the book to read on deep learning. Written by luminaries in the field — if you’ve read any papers on deep learning, you must have heard about Goodfellow and Bengio before — and cutting through much of the BS surrounding the topic: like ‘big data’ before it, ‘deep learning’ is not something new and is not deserving of a special name. Networks with more hidden layers to detect higher-order features, networks of different types chained together in order to play to their strengths, graphs of networks to represent a probabilistic model.
 
@@ -50,7 +50,7 @@ This is a theoretical book, but it can be read in tandem with *Hands-On Machine 
 
 [Deep Learning](https://www.deeplearningbook.org/)
 
-## Hands-On Machine Learning with Scikit-Learn and TensorFlow
+### Hands-On Machine Learning with Scikit-Learn and TensorFlow
 
 This book provides a great introduction to machine learning for both developer and non-developers. Authors suggest to just go through even if you don’t understand math details. Highlights of this book are:
 
@@ -64,7 +64,7 @@ The book demonstrates (including the code) different approaches using Scikit-Lea
 
 [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
 
-## Data Science for Business
+### Data Science for Business
 
 This is probably the most practical book to read if you are looking for an overview of data science. Either you know when terms like k-means and ROC curves are to be used or you have some context when you start digging deeper into how some of these algorithms are implemented. You will find it at the right level because there is just enough math to explain the fundamental concepts and make them stick in your head.
 
@@ -72,11 +72,11 @@ This isn’t a book on implementing these concepts or a bunch of algorithms. Thi
 
 [Data Science for Business](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking-ebook/dp/B00E6EQ3X4)
 
-# Courses to attend
+## Courses to attend
 
 ![](https://cdn-images-1.medium.com/max/800/1*Fnr5qOz0l3Iv94uDmiKAgg.png)
 
-## Machine Learning
+### Machine Learning
 
 ![](https://cdn-images-1.medium.com/max/800/1*kXMhOBDVRMz1Yw23eW5oSQ.png)
 
@@ -86,7 +86,7 @@ Andrew Ng does a good job explaining dense material and slides. The course gives
 
 [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
-## Deep Learning
+### Deep Learning
 
 ![](https://cdn-images-1.medium.com/max/800/1*B-YNpNbYhL7H3aV3FGJJhQ.png)
 
@@ -96,7 +96,7 @@ Doing this specialization is probably more than the first step into DL. I would 
 
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
-## Fast AI
+### Fast AI
 
 ![](https://cdn-images-1.medium.com/max/800/1*_zl5CsOf1wKVc5rf3nJtAQ.png)
 
@@ -104,7 +104,7 @@ If your goal is to be able to learn about deep learning and apply what you’ve 
 
 [Fast AI Course](https://course.fast.ai/)
 
-## Kaggle Learn
+### Kaggle Learn
 
 ![](https://cdn-images-1.medium.com/max/800/1*adt-vqwPcEbKqno-X-j54w.png)
 
@@ -112,11 +112,11 @@ Practical data skills you can apply immediately: that’s what you’ll learn in
 
 [Kaggle Learn](https://www.kaggle.com/learn/overview)
 
-# Blogs to follow
+## Blogs to follow
 
 ![](https://cdn-images-1.medium.com/max/800/1*DPri3vSeJHubAvNX6qAdwQ.png)
 
-## KD Nuggets
+### KD Nuggets
 
 ![](https://cdn-images-1.medium.com/max/800/1*PMf_rqIMEq7XmWMVo1DHaA.png)
 
@@ -124,7 +124,7 @@ KDnuggets is a leading site on AI, Analytics, Big Data, Data Mining, Data Scienc
 
 [KD Nuggets](https://www.kdnuggets.com)
 
-## Analytics Vidhya
+### Analytics Vidhya
 
 ![](https://cdn-images-1.medium.com/max/800/1*xdh0J0cjzco-Fm7-6dEVtA.png)
 
@@ -132,7 +132,7 @@ Analytics Vidhya provides a community-based knowledge portal for Analytics and A
 
 [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
 
-## Towards Data Science
+### Towards Data Science
 
 ![](https://cdn-images-1.medium.com/max/800/1*D9bFnt-SR_jwTCgdSLR3uA.png)
 
@@ -142,11 +142,11 @@ Today they are working with more than 10 Editorial Associates to prepare the mos
 
 [Towards Data Science](https://towardsdatascience.com)
 
-# Podcasts to listen
+## Podcasts to listen
 
 ![](https://cdn-images-1.medium.com/max/800/1*my3rt5rEZQkm_OBmMbvfDg.png)
 
-## Data Hack
+### Data Hack
 
 ![](https://cdn-images-1.medium.com/max/800/1*OTjq5-3vC8gk2pQ9W1Ummw.png)
 
@@ -156,7 +156,7 @@ So in every episode of DataHack Radio, they bring you discussions with one such 
 
 [Data Hack](https://www.analyticsvidhya.com/blog/category/podcast/)
 
-## Super Data Science
+### Super Data Science
 
 ![](https://cdn-images-1.medium.com/max/800/1*11x3RqCGDCkDGENLCx5Haw.png)
 
@@ -166,7 +166,7 @@ Data is growing exponentially and so are salaries of those who work in analytics
 
 [Super Data Science](https://www.superdatascience.com/podcast)
 
-## The O’Reilly Data Show Podcast
+### The O’Reilly Data Show Podcast
 
 ![](https://cdn-images-1.medium.com/max/800/1*GsfH3akVSuWLt9qO70zEOQ.png)
 
@@ -174,11 +174,11 @@ Known as the father of all other data shows, “the O’Reilly Data Show” feat
 
 [Data Show](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
 
-# YouTube Channels
+## YouTube Channels
 
 ![](https://cdn-images-1.medium.com/max/800/1*-mzvQ--w0193VMdl2p_6lg.png)
 
-## DeepLearning.TV
+### DeepLearning.TV
 
 ![](https://cdn-images-1.medium.com/max/800/1*1GzebE9h8WVANeeInTXLYQ.png)
 
@@ -186,7 +186,7 @@ DeepLearning.TV is all about Deep Learning, the field of study that teaches mach
 
 [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
 
-## Data School
+### Data School
 
 ![](https://cdn-images-1.medium.com/max/800/1*ZLzNOlp1xjnha90gVqG5Ng.png)
 
@@ -196,7 +196,7 @@ Your host here is Kevin Markham, and he is the founder of Data School. He has ta
 
 [Data School](https://www.youtube.com/user/dataschool)
 
-## Caltech Machine Learning
+### Caltech Machine Learning
 
 ![](https://cdn-images-1.medium.com/max/800/1*o0eLbvhc-GFtU8nfbaolGQ.png)
 
@@ -204,11 +204,11 @@ This is an introductory course by Caltech Professor *Yaser Abu-Mostafa* on machi
 
 [Caltech Machine Learning](https://www.youtube.com/playlist?list=PLD63A284B7615313A\)
 
-# GitHub Repos
+## GitHub Repos
 
 ![](https://cdn-images-1.medium.com/max/800/1*jiAe0f6Cv7psXiFOmtr8DQ.png)
 
-## Awesome Data Science
+### Awesome Data Science
 
 ![](https://cdn-images-1.medium.com/max/800/1*cbw3xVbl67tXq9rCdrDhkQ.png)
 
@@ -220,7 +220,7 @@ As the aggregator says, “Our favourite data scientist is Clare Corthell. She i
 
 [Awesome Data Science](https://github.com/academic/awesome-datascience)
 
-## Essential Cheat Sheets for Machine Learning and Deep Learning Engineers
+### Essential Cheat Sheets for Machine Learning and Deep Learning Engineers
 
 ![](https://cdn-images-1.medium.com/max/800/1*rJfSC9RVIKJS4GzizmMp2Q.png)
 
@@ -228,7 +228,7 @@ Machine learning is complex. For newbies, starting to learn machine learning can
 
 [Essential Cheat Sheets](https://github.com/kailashahirwar/cheatsheets-ai)
 
-## HackerMath for Machine Learning
+### HackerMath for Machine Learning
 
 ![](https://cdn-images-1.medium.com/max/800/1*qOEVgyamB11p5sYwfhBcKg.png)
 
