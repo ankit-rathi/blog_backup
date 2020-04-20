@@ -1,10 +1,10 @@
-Title: Data Science Introduction
-Date: 2018-12-27 05:03
-Author: ankitrathi
-Category: Uncategorized
-Tags: Data Science, Machine Learning
-Slug: data-science-introduction
-Status: published
+---
+toc: true
+layout: post
+description: A gentle introduction to data science
+categories: [markdown]
+title: Data Science Introduction
+---
 
 ![](https://cdn-images-1.medium.com/max/1200/1*f6Q4OCbG8fs7TWoMZrCBtg.png)
 
@@ -60,13 +60,10 @@ A typical data science process looks like this, which can be modified for specif
 
 We will discuss each step in detail in upcoming posts.
 
-\[embed\]https://www.edureka.co/blog/what-is-data-science/\[/embed\]\
-\[embed\]https://www.edureka.co/blog/what-is-data-science/\[/embed\]\
-\[embed\]https://www.edureka.co/blog/what-is-data-science/\[/embed\]\
-\[embed\]https://www.edureka.co/blog/what-is-data-science/\[/embed\]\
-\[embed\]https://www.edureka.co/blog/what-is-data-science/\[/embed\]\
-\[embed\]https://www.edureka.co/blog/what-is-data-science/\[/embed\]
 
 ------------------------------------------------------------------------
 
-*Thank you for reading my post. I regularly write about Data & Technology on* [*LinkedIn*](https://www.linkedin.com/today/posts/ankitrathi) *&* [*Medium*](https://medium.com/@rathi.ankit)*. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also feel free to listen to me on* [*SoundCloud*](https://soundcloud.com/ankitrathi)*.*
+
+[*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
+
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
