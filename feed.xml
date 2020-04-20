@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankitrathi169.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankitrathi169.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-20T04:33:43-05:00</updated><id>https://ankitrathi169.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">5 Tips for DS/AI Beginners &amp;amp; Enthusiasts</title><link href="https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html" rel="alternate" type="text/html" title="5 Tips for DS/AI Beginners &amp; Enthusiasts" /><published>2020-03-26T00:00:00-05:00</published><updated>2020-03-26T00:00:00-05:00</updated><id>https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts</id><content type="html" xml:base="https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*WYAntO3ZfXBMkyn31mHoRw.jpeg&quot; alt=&quot;Photo by [Sam Truong Dan](https://unsplash.com/@sam_truong?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/tips?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText)&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankitrathi169.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankitrathi169.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-20T04:36:52-05:00</updated><id>https://ankitrathi169.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">5 Tips for DS/AI Beginners &amp;amp; Enthusiasts</title><link href="https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html" rel="alternate" type="text/html" title="5 Tips for DS/AI Beginners &amp; Enthusiasts" /><published>2020-03-26T00:00:00-05:00</published><updated>2020-03-26T00:00:00-05:00</updated><id>https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts</id><content type="html" xml:base="https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*WYAntO3ZfXBMkyn31mHoRw.jpeg&quot; alt=&quot;Photo by [Sam Truong Dan](https://unsplash.com/@sam_truong?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/tips?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText)&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;In this post, I am sharing 5 important tips for budding data scientists, there is a bonus tip as well in the end.&lt;/em&gt;&lt;/p&gt;
 
@@ -94,29 +94,29 @@
   &lt;p&gt;You need not go through each and every resource mentioned here, I would suggest you build the foundation first using a course or a book and keep other resources for your reference.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h1 id=&quot;books-torefer&quot;&gt;Books to refer&lt;/h1&gt;
+&lt;h2 id=&quot;books-torefer&quot;&gt;Books to refer&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*KsUJovlo19BEon_wIynWNg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;machine-learning-withr&quot;&gt;Machine Learning with R&lt;/h2&gt;
+&lt;h3 id=&quot;machine-learning-withr&quot;&gt;Machine Learning with R&lt;/h3&gt;
 
 &lt;p&gt;This is an excellent book for the R starter who wants to apply ML to any kind of project. All the main ML models are presented, as well as different performance metrics, bagging, pruning, tuning, ensembling etc. Easy to scan through, many tips with fully-solved textbook problems. Certainly, a very good starting point if you plan to compete on Kaggle. If you already master both R and ML, this books is obviously not for you.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Machine-Learning-R-Brett-Lantz-ebook/dp/B00G9581JM&quot;&gt;Machine Learning with R&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;python-machinelearning&quot;&gt;Python Machine Learning&lt;/h2&gt;
+&lt;h3 id=&quot;python-machinelearning&quot;&gt;Python Machine Learning&lt;/h3&gt;
 
 &lt;p&gt;This is a fantastic introductory book in machine learning with python. It provides enough background about the theory of each (covered) technique followed by its python code. One nice thing about the book is that it starts implementing Neural Networks from scratch, providing the reader with the chance of truly understanding the key underlying techniques such as back-propagation. Even further, the book presents an efficient (and professional) way of coding in python, the key to AI/ML.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750&quot;&gt;Python Machine Learning&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;islr&quot;&gt;ISLR&lt;/h2&gt;
+&lt;h3 id=&quot;islr&quot;&gt;ISLR&lt;/h3&gt;
 
 &lt;p&gt;The book explains the concepts of Statistical Learning from the very beginning. The core ideas such as bias-variance trade-off are deeply discussed and revisited in many problems. The included R examples are particularly helpful for beginners to learn R. The book also provides a brief, but concise description of functions’ parameters for many related R packages. Compared to &lt;em&gt;The Elements of Statistical Learning&lt;/em&gt;, it is easy for the reader to understand. It does a wonderful job of breaking things down complex concepts. If one wishes to learn more about a particular topic, I’d recommend The Element of Statistical Learning. These two pair nicely together.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370&quot;&gt;An Introduction to Statistical Learning: with Applications in R&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;deep-learning&quot;&gt;Deep Learning&lt;/h2&gt;
+&lt;h3 id=&quot;deep-learning&quot;&gt;Deep Learning&lt;/h3&gt;
 
 &lt;p&gt;This is the book to read on deep learning. Written by luminaries in the field — if you’ve read any papers on deep learning, you must have heard about Goodfellow and Bengio before — and cutting through much of the BS surrounding the topic: like ‘big data’ before it, ‘deep learning’ is not something new and is not deserving of a special name. Networks with more hidden layers to detect higher-order features, networks of different types chained together in order to play to their strengths, graphs of networks to represent a probabilistic model.&lt;/p&gt;
 
@@ -124,7 +124,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.deeplearningbook.org/&quot;&gt;Deep Learning&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;hands-on-machine-learning-with-scikit-learn-and-tensorflow&quot;&gt;Hands-On Machine Learning with Scikit-Learn and TensorFlow&lt;/h2&gt;
+&lt;h3 id=&quot;hands-on-machine-learning-with-scikit-learn-and-tensorflow&quot;&gt;Hands-On Machine Learning with Scikit-Learn and TensorFlow&lt;/h3&gt;
 
 &lt;p&gt;This book provides a great introduction to machine learning for both developer and non-developers. Authors suggest to just go through even if you don’t understand math details. Highlights of this book are:&lt;/p&gt;
 
@@ -140,7 +140,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646&quot;&gt;Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;data-science-forbusiness&quot;&gt;Data Science for Business&lt;/h2&gt;
+&lt;h3 id=&quot;data-science-forbusiness&quot;&gt;Data Science for Business&lt;/h3&gt;
 
 &lt;p&gt;This is probably the most practical book to read if you are looking for an overview of data science. Either you know when terms like k-means and ROC curves are to be used or you have some context when you start digging deeper into how some of these algorithms are implemented. You will find it at the right level because there is just enough math to explain the fundamental concepts and make them stick in your head.&lt;/p&gt;
 
@@ -148,11 +148,11 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking-ebook/dp/B00E6EQ3X4&quot;&gt;Data Science for Business&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;courses-toattend&quot;&gt;Courses to attend&lt;/h1&gt;
+&lt;h2 id=&quot;courses-toattend&quot;&gt;Courses to attend&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*Fnr5qOz0l3Iv94uDmiKAgg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;machine-learning&quot;&gt;Machine Learning&lt;/h2&gt;
+&lt;h3 id=&quot;machine-learning&quot;&gt;Machine Learning&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*kXMhOBDVRMz1Yw23eW5oSQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -162,7 +162,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.coursera.org/learn/machine-learning&quot;&gt;Machine Learning by Andrew Ng&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;deep-learning-1&quot;&gt;Deep Learning&lt;/h2&gt;
+&lt;h3 id=&quot;deep-learning-1&quot;&gt;Deep Learning&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*B-YNpNbYhL7H3aV3FGJJhQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -172,7 +172,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.coursera.org/specializations/deep-learning&quot;&gt;Deep Learning Specialization&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;fast-ai&quot;&gt;Fast AI&lt;/h2&gt;
+&lt;h3 id=&quot;fast-ai&quot;&gt;Fast AI&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*_zl5CsOf1wKVc5rf3nJtAQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -180,7 +180,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://course.fast.ai/&quot;&gt;Fast AI Course&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;kaggle-learn&quot;&gt;Kaggle Learn&lt;/h2&gt;
+&lt;h3 id=&quot;kaggle-learn&quot;&gt;Kaggle Learn&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*adt-vqwPcEbKqno-X-j54w.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -188,11 +188,11 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.kaggle.com/learn/overview&quot;&gt;Kaggle Learn&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;blogs-tofollow&quot;&gt;Blogs to follow&lt;/h1&gt;
+&lt;h2 id=&quot;blogs-tofollow&quot;&gt;Blogs to follow&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*DPri3vSeJHubAvNX6qAdwQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;kd-nuggets&quot;&gt;KD Nuggets&lt;/h2&gt;
+&lt;h3 id=&quot;kd-nuggets&quot;&gt;KD Nuggets&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*PMf_rqIMEq7XmWMVo1DHaA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -200,7 +200,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.kdnuggets.com&quot;&gt;KD Nuggets&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;analytics-vidhya&quot;&gt;Analytics Vidhya&lt;/h2&gt;
+&lt;h3 id=&quot;analytics-vidhya&quot;&gt;Analytics Vidhya&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*xdh0J0cjzco-Fm7-6dEVtA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -208,7 +208,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.analyticsvidhya.com/blog/&quot;&gt;Analytics Vidhya&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;towards-datascience&quot;&gt;Towards Data Science&lt;/h2&gt;
+&lt;h3 id=&quot;towards-datascience&quot;&gt;Towards Data Science&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*D9bFnt-SR_jwTCgdSLR3uA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -218,11 +218,11 @@
 
 &lt;p&gt;&lt;a href=&quot;https://towardsdatascience.com&quot;&gt;Towards Data Science&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;podcasts-tolisten&quot;&gt;Podcasts to listen&lt;/h1&gt;
+&lt;h2 id=&quot;podcasts-tolisten&quot;&gt;Podcasts to listen&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*my3rt5rEZQkm_OBmMbvfDg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;data-hack&quot;&gt;Data Hack&lt;/h2&gt;
+&lt;h3 id=&quot;data-hack&quot;&gt;Data Hack&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*OTjq5-3vC8gk2pQ9W1Ummw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -232,7 +232,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.analyticsvidhya.com/blog/category/podcast/&quot;&gt;Data Hack&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;super-datascience&quot;&gt;Super Data Science&lt;/h2&gt;
+&lt;h3 id=&quot;super-datascience&quot;&gt;Super Data Science&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*11x3RqCGDCkDGENLCx5Haw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -242,7 +242,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.superdatascience.com/podcast&quot;&gt;Super Data Science&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;the-oreilly-data-showpodcast&quot;&gt;The O’Reilly Data Show Podcast&lt;/h2&gt;
+&lt;h3 id=&quot;the-oreilly-data-showpodcast&quot;&gt;The O’Reilly Data Show Podcast&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*GsfH3akVSuWLt9qO70zEOQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -250,11 +250,11 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/&quot;&gt;Data Show&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;youtube-channels&quot;&gt;YouTube Channels&lt;/h1&gt;
+&lt;h2 id=&quot;youtube-channels&quot;&gt;YouTube Channels&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*-mzvQ--w0193VMdl2p_6lg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;deeplearningtv&quot;&gt;DeepLearning.TV&lt;/h2&gt;
+&lt;h3 id=&quot;deeplearningtv&quot;&gt;DeepLearning.TV&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*1GzebE9h8WVANeeInTXLYQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -262,7 +262,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ&quot;&gt;DeepLearning.TV&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;data-school&quot;&gt;Data School&lt;/h2&gt;
+&lt;h3 id=&quot;data-school&quot;&gt;Data School&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*ZLzNOlp1xjnha90gVqG5Ng.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -272,7 +272,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/user/dataschool&quot;&gt;Data School&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;caltech-machinelearning&quot;&gt;Caltech Machine Learning&lt;/h2&gt;
+&lt;h3 id=&quot;caltech-machinelearning&quot;&gt;Caltech Machine Learning&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*o0eLbvhc-GFtU8nfbaolGQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -280,11 +280,11 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLD63A284B7615313A\&quot;&gt;Caltech Machine Learning&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;github-repos&quot;&gt;GitHub Repos&lt;/h1&gt;
+&lt;h2 id=&quot;github-repos&quot;&gt;GitHub Repos&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*jiAe0f6Cv7psXiFOmtr8DQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;awesome-datascience&quot;&gt;Awesome Data Science&lt;/h2&gt;
+&lt;h3 id=&quot;awesome-datascience&quot;&gt;Awesome Data Science&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*cbw3xVbl67tXq9rCdrDhkQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -296,7 +296,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/academic/awesome-datascience&quot;&gt;Awesome Data Science&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;essential-cheat-sheets-for-machine-learning-and-deep-learning-engineers&quot;&gt;Essential Cheat Sheets for Machine Learning and Deep Learning Engineers&lt;/h2&gt;
+&lt;h3 id=&quot;essential-cheat-sheets-for-machine-learning-and-deep-learning-engineers&quot;&gt;Essential Cheat Sheets for Machine Learning and Deep Learning Engineers&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*rJfSC9RVIKJS4GzizmMp2Q.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -304,7 +304,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/kailashahirwar/cheatsheets-ai&quot;&gt;Essential Cheat Sheets&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;hackermath-for-machinelearning&quot;&gt;HackerMath for Machine Learning&lt;/h2&gt;
+&lt;h3 id=&quot;hackermath-for-machinelearning&quot;&gt;HackerMath for Machine Learning&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*qOEVgyamB11p5sYwfhBcKg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
