@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: How to modern data platforms?
+description: How to design modern data platforms?
 categories: [markdown]
 title:  Architecting Modern Data Platforms
 ---
