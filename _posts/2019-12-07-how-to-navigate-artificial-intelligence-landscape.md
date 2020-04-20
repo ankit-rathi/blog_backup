@@ -20,7 +20,7 @@ Artificial Intelligence (AI) is a complex and evolving field. The first challeng
 
 You might have heard data science, machine learning, deep learning, artificial intelligence etc terminology but might not be fully aware of these terms, what to use when and how these topics are interconnected. After going through this post, you should be able to understand what is where in the AI field.
 
-### Multi-disciplinary field
+## Multi-disciplinary field
 
 > *AI is a multidisciplinary field with sub-fields of study in Math/Statistics, CS/IT & Business/Domain knowledge.*
 
@@ -28,21 +28,21 @@ Math/Statistics is required to understand the data and relationship between data
 
 ![](https://cdn-images-1.medium.com/max/800/0*VR8Sy8nm4EcQKn_6.png)
 
-### Computer Science/IT
+## Computer Science/IT
 
 Programming is an essential skill to become a data scientist but one needs not be a hard-core programmer to learn AI. Having familiarity with basic concepts of programming will ease the process of learning AI programming tools like Python/R. These basic concepts of programming should help a candidate get a long way on the journey to pursue a career in AI as it is all about writing efficient code to analyse big data and not being a master of programming. Individuals should learn the basics of programming in Python/R (or any relevant language) before they begin to work on AI problems/projects.
 
-### Maths & Statistics
+## Maths & Statistics
 
 AI teams have people from diverse backgrounds like chemical engineering, physics, economics, statistics, mathematics, operations research, computer science, etc. You will find many data scientists with a bachelor’s degree in statistics and machine learning but it is not a requirement to learn AI. However, having familiarity with the basic concepts of Math and Statistics like Linear Algebra, Calculus, Probability, etc. is important to learn AI.
 
-### Domain/Business Knowledge
+## Domain/Business Knowledge
 
 Subsequently, the business knowledge that the data scientists would need to have would be related to the domain that the project/analysis is in. For instance, if the data scientist is working for a credit card department in a bank, it will need to understand the specific business definitions, regulations, accounting policies & international standards, processes etc. This is the part that is more specific to the organization the data scientist is deployed in.
 
 In my view, one thing to take care while the hiring data scientists is not to give huge preference to domain knowledge. This may severely limit the supply of AI talents to the organization. You would have a better chance of getting more value from AI by looking for those that are strong in math & programming, being able to convert business objectives to mathematical models. Based on my observation, this is a much more difficult skill to find or train, as compared to domain knowledge.
 
-### Various Terminologies
+## Various Terminologies
 
 As an AI starter, you will come across many similar terminologies. First thing you need to do is to understand what each term means and where each fits in the bigger picture. Data Science, Business Intelligence, Data Mining, Machine Learning, Deep Learning, Artificial Intelligence; let’s have a look at *Wikipedia* definition for each term & later see how these are interconnected.
 
@@ -72,7 +72,7 @@ As an AI starter, you will come across many similar terminologies. First thing y
 
 *Artificial intelligence, sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals.*
 
-### Interconnection
+## Interconnection
 
 ![](https://cdn-images-1.medium.com/max/800/0*2oYhsUxmRbGSgZ_i.png)
 
@@ -88,7 +88,7 @@ Artificial Intelligence uses models developed by Machine Learning and other algo
 
 > *So you see that these terms are different but still inter-connected.*
 
-### Roles in Artificial Intelligence
+## Roles in Artificial Intelligence
 
 Before looking into the skill-set of a data scientist, let’s have a look at various roles required to work and deliver a AI project, after all, it’s a teamwork.
 
@@ -96,7 +96,7 @@ Before looking into the skill-set of a data scientist, let’s have a look at va
 
 ![](https://cdn-images-1.medium.com/max/800/0*zGdwTKLtbyzDuKJP.png)
 
-### Data Scientist
+## Data Scientist
 
 A data scientist is someone who knows how to extract meaning from and interpret data, which requires both tools and methods from statistics and machine learning. She spends a lot of time in the process of collecting, cleaning, and munging data. Domain knowledge is also an integral part of the skill.
 
@@ -130,7 +130,7 @@ The job of quality analyst includes checking the quality of the training data-se
 
 > *To work on AI projects in any of the above mentioned roles, one needs to have an understanding of the core concepts at a high level but depth is required in the specific area you would be working in.*
 
-### Academia Vs Industry
+## Academia Vs Industry
 
 Academia and Industry are different fields with different people and culture. People working in Academia for longer tenure may find it difficult to adjust to industry culture and vice versa.
 
@@ -147,11 +147,6 @@ Further, companies are often hesitant to hire people coming straight from academ
 -   In academia, you are encouraged to find the most innovative and elegant solution. In industry, you are encouraged to spend as little time as possible to find an analytical solution that just fits the need.
 -   Salary expectations for advanced degree holders are higher than someone with only an undergraduate degree. This also pushes away recruiters as the industry works in a different way, culture is simply different than the academic one. People coming from academia need to learn these lessons at their first job, which means that there is a lot of risk for the hiring company.
 
-------------------------------------------------------------------------
-
-*If you liked the content, check out my post on ‘How to launch your DS/AI Career in 12 weeks?’*
-
-\[embed\]https://medium.com/\@rathi.ankit/how-to-launch-your-ds-ai-career-in-12-weeks-8a7e6950ffe6\[/embed\]
 
 ------------------------------------------------------------------------
 
