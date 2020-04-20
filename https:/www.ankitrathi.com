@@ -3,30 +3,30 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>About Me | Data &amp; AI Blog</title>
+<title>ankitrathi.com | Data &amp; AI Blog</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="About Me" />
+<meta property="og:title" content="ankitrathi.com" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="From Data To Actionable Insights" />
 <meta property="og:description" content="From Data To Actionable Insights" />
-<link rel="canonical" href="https://ankitrathi169.github.io/data-and-ai/about/" />
-<meta property="og:url" content="https://ankitrathi169.github.io/data-and-ai/about/" />
+<link rel="canonical" href="https://ankitrathi169.github.io/data-and-ai/https:/www.ankitrathi.com" />
+<meta property="og:url" content="https://ankitrathi169.github.io/data-and-ai/https:/www.ankitrathi.com" />
 <meta property="og:site_name" content="Data &amp; AI Blog" />
 <script type="application/ld+json">
-{"description":"From Data To Actionable Insights","@type":"WebSite","url":"https://ankitrathi169.github.io/data-and-ai/about/","name":"Data &amp; AI Blog","headline":"About Me","@context":"https://schema.org"}</script>
+{"description":"From Data To Actionable Insights","@type":"WebPage","url":"https://ankitrathi169.github.io/data-and-ai/https:/www.ankitrathi.com","headline":"ankitrathi.com","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/data-and-ai/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://ankitrathi169.github.io/data-and-ai/feed.xml" title="Data & AI Blog" /><link rel="shortcut icon" type="image/x-icon" href="/data-and-ai/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>About Me | Data &amp; AI Blog</title>
+<title>ankitrathi.com | Data &amp; AI Blog</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="About Me" />
+<meta property="og:title" content="ankitrathi.com" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="From Data To Actionable Insights" />
 <meta property="og:description" content="From Data To Actionable Insights" />
-<link rel="canonical" href="https://ankitrathi169.github.io/data-and-ai/about/" />
-<meta property="og:url" content="https://ankitrathi169.github.io/data-and-ai/about/" />
+<link rel="canonical" href="https://ankitrathi169.github.io/data-and-ai/https:/www.ankitrathi.com" />
+<meta property="og:url" content="https://ankitrathi169.github.io/data-and-ai/https:/www.ankitrathi.com" />
 <meta property="og:site_name" content="Data &amp; AI Blog" />
 <script type="application/ld+json">
-{"description":"From Data To Actionable Insights","@type":"WebSite","url":"https://ankitrathi169.github.io/data-and-ai/about/","name":"Data &amp; AI Blog","headline":"About Me","@context":"https://schema.org"}</script>
+{"description":"From Data To Actionable Insights","@type":"WebPage","url":"https://ankitrathi169.github.io/data-and-ai/https:/www.ankitrathi.com","headline":"ankitrathi.com","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
@@ -73,7 +73,7 @@ window.onload = wrap_img;
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/data-and-ai/about/">About Me</a><a class="page-link" href="/data-and-ai/resources/">Resources</a><a class="page-link" href="/data-and-ai/search/">Search</a><a class="page-link" href="/data-and-ai/categories/">Tags</a></div>
+        <div class="trigger"><a class="page-link" href="/data-and-ai/https:/www.ankitrathi.com">ankitrathi.com</a><a class="page-link" href="/data-and-ai/resources/">Resources</a><a class="page-link" href="/data-and-ai/search/">Search</a><a class="page-link" href="/data-and-ai/categories/">Tags</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -81,7 +81,7 @@ window.onload = wrap_img;
         <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">About Me</h1>
+    <h1 class="post-title">ankitrathi.com</h1>
   </header>
 
   <div class="post-content">
