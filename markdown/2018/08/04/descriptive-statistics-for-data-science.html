@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Descriptive Statistics for Data Science | Data &amp; AI Blog</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Descriptive Statistics for Data Science" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Probability &amp; Statistics for Data Scientists" />
+<meta property="og:description" content="Probability &amp; Statistics for Data Scientists" />
+<link rel="canonical" href="https://ankit-rathi.github.io/data-and-ai/markdown/2018/08/04/descriptive-statistics-for-data-science.html" />
+<meta property="og:url" content="https://ankit-rathi.github.io/data-and-ai/markdown/2018/08/04/descriptive-statistics-for-data-science.html" />
+<meta property="og:site_name" content="Data &amp; AI Blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-08-04T00:00:00-05:00" />
+<script type="application/ld+json">
+{"description":"Probability &amp; Statistics for Data Scientists","@type":"BlogPosting","url":"https://ankit-rathi.github.io/data-and-ai/markdown/2018/08/04/descriptive-statistics-for-data-science.html","dateModified":"2018-08-04T00:00:00-05:00","datePublished":"2018-08-04T00:00:00-05:00","headline":"Descriptive Statistics for Data Science","mainEntityOfPage":{"@type":"WebPage","@id":"https://ankit-rathi.github.io/data-and-ai/markdown/2018/08/04/descriptive-statistics-for-data-science.html"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/data-and-ai/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://ankit-rathi.github.io/data-and-ai/feed.xml" title="Data & AI Blog" /><link rel="shortcut icon" type="image/x-icon" href="/data-and-ai/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Descriptive Statistics for Data Science | Data &amp; AI Blog</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Descriptive Statistics for Data Science" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Probability &amp; Statistics for Data Scientists" />
+<meta property="og:description" content="Probability &amp; Statistics for Data Scientists" />
+<link rel="canonical" href="https://ankit-rathi.github.io/data-and-ai/markdown/2018/08/04/descriptive-statistics-for-data-science.html" />
+<meta property="og:url" content="https://ankit-rathi.github.io/data-and-ai/markdown/2018/08/04/descriptive-statistics-for-data-science.html" />
+<meta property="og:site_name" content="Data &amp; AI Blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-08-04T00:00:00-05:00" />
+<script type="application/ld+json">
+{"description":"Probability &amp; Statistics for Data Scientists","@type":"BlogPosting","url":"https://ankit-rathi.github.io/data-and-ai/markdown/2018/08/04/descriptive-statistics-for-data-science.html","dateModified":"2018-08-04T00:00:00-05:00","datePublished":"2018-08-04T00:00:00-05:00","headline":"Descriptive Statistics for Data Science","mainEntityOfPage":{"@type":"WebPage","@id":"https://ankit-rathi.github.io/data-and-ai/markdown/2018/08/04/descriptive-statistics-for-data-science.html"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+<link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css"><link type="application/atom+xml" rel="alternate" href="https://ankit-rathi.github.io/data-and-ai/feed.xml" title="Data & AI Blog" />
+
+<script>
+function wrap_img(fn) {
+    if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
+        var elements = document.querySelectorAll(".post img");
+        Array.prototype.forEach.call(elements, function(el, i) {
+            if (el.getAttribute("title")) {
+                const caption = document.createElement('figcaption');
+                var node = document.createTextNode(el.getAttribute("title"));
+                caption.appendChild(node);
+                const wrapper = document.createElement('figure');
+                wrapper.className = 'image';
+                el.parentNode.insertBefore(wrapper, el);
+                el.parentNode.removeChild(el);
+                wrapper.appendChild(el);
+                wrapper.appendChild(caption);
+            }
+        });
+    } else { document.addEventListener('DOMContentLoaded', fn); }
+}
+window.onload = wrap_img;
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function(){
+    // add link icon to anchor tags
+    var elem = document.querySelectorAll(".anchor-link")
+    elem.forEach(e => (e.innerHTML = '<i class="fas fa-link fa-xs"></i>'));
+    });
+</script>
+</head><body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/data-and-ai/">Data &amp; AI Blog</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/data-and-ai/about/">About Me</a><a class="page-link" href="/data-and-ai/search/">Search</a><a class="page-link" href="/data-and-ai/categories/">Tags</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Descriptive Statistics for Data Science</h1><p class="page-description">Probability &amp; Statistics for Data Scientists</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2018-08-04T00:00:00-05:00" itemprop="datePublished">
+        Aug 4, 2018
+      </time>
+       • <span class="read-time" title="Estimated read time">
+    
+    
+      5 min read
+    
+</span></p>
+
+    
+      <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i> 
+      
+        <a class="category-tags-link" href="/data-and-ai/categories/#markdown">markdown</a>
+        
+      
+      </p>
+    
+
+    </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <ul class="section-nav">
+</ul><p><img src="https://cdn-images-1.medium.com/max/1200/1*x9P63tACwb3o5wAL1MzLgQ.png" alt="Descriptive Statistics for Data Science"></p>
+
+<p><em>This is the 3rd post of blog post series ‘</em><a href="https://www.ankitrathi.com/post/probability-statistics-for-data-science-series"><em>Probability &amp; Statistics for Data Science</em></a><em>’, this post covers these topics related to descriptive statistics and their significance in data science.</em></p>
+
+<ul>
+  <li><em>Introduction to Statistics</em></li>
+  <li><em>Descriptive Statistics</em></li>
+  <li><em>Uni-variate Analysis</em></li>
+  <li><em>Bi-variate Analysis</em></li>
+  <li><em>Multivariate Analysis</em></li>
+  <li><em>Function Models</em></li>
+  <li><em>Significance in Data Science</em></li>
+</ul>
+
+<hr>
+
+<blockquote>
+  <p>Visit <a href="http://ankitrathi.com/">ankitrathi.com</a> now to:</p>
+</blockquote>
+
+<blockquote>
+  <p>— to read my blog posts on various topics of AI/ML</p>
+</blockquote>
+
+<blockquote>
+  <p>— to keep a tab on latest &amp; relevant news/articles daily from AI/ML world</p>
+</blockquote>
+
+<blockquote>
+  <p>— to refer free &amp; useful AI/ML resources</p>
+</blockquote>
+
+<blockquote>
+  <p>— to buy my books on discounted price</p>
+</blockquote>
+
+<blockquote>
+  <p>— to know more about me and what I am up to these days</p>
+</blockquote>
+
+<p><strong>Statistics Introduction</strong></p>
+
+<p><em>Statistics</em> is a mathematical body of science that pertains to the <em>collection</em>, <em>analysis</em>, <em>interpretation</em> or <em>explanation</em>, and <em>presentation</em> of data.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*D7SIHTCAhCeuWxZA778M2g.png" alt="Informal definition :D"></p>
+
+<p><em>Statistics</em>, in short, is the study of data. It includes <em>descriptive statistics</em> (the study of methods and tools for collecting data, and mathematical models to describe and interpret data) and <em>inferential statistics</em> (the systems and techniques for making probability-based decisions and accurate predictions.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*7BFPt6R298dJeTsh3oEjLg.png" alt="Descriptive Vs Inferential Statistics"></p>
+
+<p><strong>Population vs Sample</strong></p>
+
+<p>Population means the aggregate of all elements under study having one or more common characteristic while <em>sample</em> is a <em>part of population</em> chosen at random for participation in the study.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/0*53aOxE5IP8p0gcH7.jpg" alt="Population Vs Sample"></p>
+
+<p><strong>Descriptive Statistics</strong></p>
+
+<p>A descriptive statistic is a summary statistic that quantitatively describes or summarizes features of a collection of information. Descriptive statistics are just descriptive. They do not involve generalizing beyond the data at hand.</p>
+
+<p><strong>Types of Variable</strong></p>
+
+<p><em>Dependent and Independent Variables:</em> An independent variable (experimental or predictor) is a variable that is being manipulated in an experiment in order to observe the effect on a dependent variable (outcome).</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*dSVkJMtF2au-nxH9sauxow.png" alt="Other names of variables"></p>
+
+<p><em>Categorical and Continuous Variables:</em> Categorical variables (<em>qualitative</em>) represent types of data which may be divided into groups. Categorical variables can be further categorized as either <em>nominal, ordinal</em> or <em>dichotomous</em>. Continuous variables (<em>quantitative</em>) can take any value. Continuous variables can be further categorized as either <em>interval or ratio</em> variables.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*z_7tcnFTKTbKXg-jxxuUYA.png" alt="*Categorical Vs continuous variables*"></p>
+
+<p><strong>Central Tendency</strong></p>
+
+<p>Central tendency is a <em>central</em> or <em>typical</em> value for a distribution.It may also be called a <em>center</em> or <em>location</em> of the distribution. The most common measures of central tendency are the arithmetic <em>mean</em>, the <em>median</em> and the <em>mode</em>.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/0*e6O85dyjyHSBQyH2.jpg" alt="Mean, median &amp; mode as Central Tendency"></p>
+
+<p><em>Mean</em> is the numerical average of all values, <em>median</em> is directly in the<br>
+middle of the data set while <em>mode</em> is the most frequent value in the data set.</p>
+
+<p><strong>Spread or Variance</strong></p>
+
+<p>Spread (dispersion or variability) is the extent to which a distribution is stretched or squeezed. Common examples of measures of statistical dispersion are the <em>variance</em>, <em>standard deviation</em>, and <em>inter-quartile range (IQR)</em>.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/0*CLX1QEZn7IHxp7q8.png" alt="Spread or Variance"></p>
+
+<p><em>Inter-quartile range</em> (IQR) is the distance between the 1st quartile and 3rd quartile and gives us the range of the middle 50% of our data. <em>Variance</em> is the average of the squared differences from the mean while <em>standard deviation</em> is the square root of the variance.</p>
+
+<p><em>Upper outliers: Q3+1.5 ·IQR<br>
+Lower outliers: Q1–1.5 ·IQR</em></p>
+
+<p><em>Standard Score or Z score:</em> For an observed value x, the Z score finds the number of standard deviations x is away from the mean.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*UObdAoIcg3HKTSXC3kwtXg.png" alt="Standard deviation &amp; Z-score"></p>
+
+<p>The <em>Central Limit Theorem</em> is used to help us understand the following facts regardless of whether the population distribution is normal or not:\</p>
+<ol>
+  <li>the <em>mean</em> of the sample means is the same as the population mean\</li>
+  <li>the <em>standard deviation</em> of the sample means is always equal to the <em>standard error</em>.\</li>
+  <li>the <em>distribution</em> of <em>sample means</em> will become increasingly more <em>normal</em> as the sample size increases.</li>
+</ol>
+
+<p><strong>Uni-variate Analysis</strong></p>
+
+<p>In uni-variate analysis, appropriate statistic depends on the level of measurement. For <em>nominal variables</em>, a frequency table and a listing of the mode(s) is sufficient. For <em>ordinal variables</em> the median can be calculated as a measure of central tendency and the range (and variations of it) as a measure of dispersion. For <em>interval level variables</em>, the arithmetic mean (average) and standard deviation are added to the toolbox and, for <em>ratio level variables</em>, we add the geometric mean and harmonic mean as measures of central tendency and the coefficient of variation as a measure of dispersion.</p>
+
+<p>For interval and ratio level data, further descriptors include the variable’s <em>skewness</em> and <em>kurtosis</em>. <em>Skewness</em> is a measure of symmetry, or more precisely, the <em>lack of symmetry</em>. A distribution, or data set, is symmetric if it looks the same to the left and right of the center point. <em>Kurtosis</em> is a measure of whether the data are <em>heavy-tailed</em> or <em>light-tailed</em> relative to a normal distribution.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*CAnSVnnI3JJ1gL_hrHJJ1w.png" alt="Skewness &amp; Kurtosis"></p>
+
+<p>Mainly, <em>bar graphs</em>, <em>pie charts</em> and <em>histograms</em> are used for uni-variate analysis.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*IVh-UihQ8bZpfUdjEzigUg.png" alt="Histogram, Pie-chart &amp; Bar-graph"></p>
+
+<p><strong>Bi-variate Distribution</strong></p>
+
+<p>Bivariate analysis involves the analysis of two variables (often denoted as X, Y), for the purpose of determining the empirical relationship between them.</p>
+
+<p>For two continuous variables, a <em>scatter-plot</em> is a common graph. When one variable is categorical and the other continuous, a <em>box-plot or violin-plot (</em>also <em>Z-test</em> and <em>t-test)</em> is common and when both are categorical a <em>mosaic plot</em> is common (also <em>chi-square test</em>).</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*qANiG_SwpMB8TYM1916aTw.png" alt="Box-plot, Scatter-plot, Mosaic-plot &amp; Violin-plot"></p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*VM0z3L6eKOesSr2C3xXA7A.png" alt="z &amp; t-Tests"></p>
+
+<p><strong>Multi-variate Analysis</strong></p>
+
+<p>Multi-variate analysis involves observation and analysis of more than one statistical outcome variable at a time. <em>Multi-variate scatter plot</em>, g<em>rouped box-plot (or grouped violin-plot</em>), <em>heat-map</em> are used for multi-variate analysis.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*1SpYTGYkndWUxDIlWUXhkw.png" alt="Multi-variate scatter-plot, Grouped box-plot, Grouped violin-plot, Heat-map"></p>
+
+<p><strong>Function Models</strong></p>
+
+<p>A <strong>function</strong> can be expressed as an equation, as shown below. In the equation, f represents the <em>function</em> name and x represents the <em>independent</em> variable and y represents the <em>dependent</em> variable.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*RyiSC9L6UQkz1y8c-hU8dw.png" alt="A typical function"></p>
+
+<p>A <strong>linear function</strong> has the same average rate of change on every interval. When a linear model is used to describe data, it assumes a constant rate of change.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*SQdxEysedW-qYicyWXD3YA.png" alt="Linear function"></p>
+
+<p><strong>Exponential functions</strong> have variable appears as the exponent (or power) instead of the base.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*GwwJU63W8zZA8YdTIOYRyg.png" alt="Exponential functions"></p>
+
+<p>The <strong>logistic function</strong> has effect of limiting upper bound, a curve that grows exponentially at first and then slows down and hardly grows at all.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*vvXZqzfG1_ajNUpYeFIT0g.png" alt="Logistic functions"></p>
+
+<p><strong>Significance in Data Science</strong></p>
+
+<p>Descriptive Statistics helps you to understand your data and is initial &amp; very important step of Data Science. This is due to the fact that Data Science is all about making predictions and you can’t predict if you can’t understand the patterns in existing data.</p>
+
+<p><strong>References:</strong></p>
+
+<p>[embed]https://classroom.udacity.com/courses/ud827-india[/embed]<br>
+[embed]https://classroom.udacity.com/courses/ud827-india[/embed]</p>
+
+<hr>
+
+<p><a href="https://www.ankitrathi.com/"><em>Ankit Rathi</em></a> <em>is an AI architect, published author &amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.</em></p>
+
+<p><em>Why don’t you connect with Ankit on</em> <a href="https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw"><em>YouTube</em></a><em>,</em> <a href="https://twitter.com/rathiankit"><em>Twitter</em></a><em>,</em> <a href="https://www.linkedin.com/in/ankitrathi/"><em>LinkedIn</em></a> <em>or</em> <a href="https://instagram.com/ankitrathi/"><em>Instagram</em></a><em>?</em></p>
+
+  </div><a class="u-url" href="/data-and-ai/markdown/2018/08/04/descriptive-statistics-for-data-science.html" hidden></a>
+</article>
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/data-and-ai/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="/data-and-ai/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/data-and-ai/assets/minima-social-icons.svg#rss"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+      </div>
+      <div class="footer-col">
+        <p>From Data To Actionable Insights</p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"><li><a rel="me" href="https://github.com/ankit-rathi" title="ankit-rathi"><svg class="svg-icon grey"><use xlink:href="/data-and-ai/assets/minima-social-icons.svg#github"></use></svg></a></li><li><a rel="me" href="https://twitter.com/rathiankit" title="rathiankit"><svg class="svg-icon grey"><use xlink:href="/data-and-ai/assets/minima-social-icons.svg#twitter"></use></svg></a></li></ul>
+</div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
