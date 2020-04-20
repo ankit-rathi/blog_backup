@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankitrathi169.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankitrathi169.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-20T04:17:10-05:00</updated><id>https://ankitrathi169.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">5 Tips for DS/AI Beginners &amp;amp; Enthusiasts</title><link href="https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html" rel="alternate" type="text/html" title="5 Tips for DS/AI Beginners &amp; Enthusiasts" /><published>2020-03-26T00:00:00-05:00</published><updated>2020-03-26T00:00:00-05:00</updated><id>https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts</id><content type="html" xml:base="https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*WYAntO3ZfXBMkyn31mHoRw.jpeg&quot; alt=&quot;Photo by [Sam Truong Dan](https://unsplash.com/@sam_truong?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/tips?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText)&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankitrathi169.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankitrathi169.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-20T04:27:59-05:00</updated><id>https://ankitrathi169.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">5 Tips for DS/AI Beginners &amp;amp; Enthusiasts</title><link href="https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html" rel="alternate" type="text/html" title="5 Tips for DS/AI Beginners &amp; Enthusiasts" /><published>2020-03-26T00:00:00-05:00</published><updated>2020-03-26T00:00:00-05:00</updated><id>https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts</id><content type="html" xml:base="https://ankitrathi169.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*WYAntO3ZfXBMkyn31mHoRw.jpeg&quot; alt=&quot;Photo by [Sam Truong Dan](https://unsplash.com/@sam_truong?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/tips?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText)&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;In this post, I am sharing 5 important tips for budding data scientists, there is a bonus tip as well in the end.&lt;/em&gt;&lt;/p&gt;
 
@@ -10,7 +10,7 @@
 
 &lt;p&gt;Here I am sharing 5 of those tips:&lt;/p&gt;
 
-&lt;h3 id=&quot;master-thebasics&quot;&gt;Master The Basics&lt;/h3&gt;
+&lt;h1 id=&quot;master-thebasics&quot;&gt;Master The Basics&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*KSja_FQfoEm-sRMao1VD6g.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -22,7 +22,7 @@
 
 &lt;p&gt;Improve your coding skills to execute &amp;amp; validate your hypothesis efficiently. Python &amp;amp; R are the two major languages preferred by data scientists.&lt;/p&gt;
 
-&lt;h3 id=&quot;learn-justenough&quot;&gt;Learn Just Enough&lt;/h3&gt;
+&lt;h1 id=&quot;learn-justenough&quot;&gt;Learn Just Enough&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*WzniU-FFsxpxKx5aglBU1g.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -32,7 +32,7 @@
 
 &lt;p&gt;You need not read each book or attend every course on the planet before feeling confident to start with DS/AI. Just follow one decent book or course to build your basics and start working on problems. Keep the material (books &amp;amp; courses) for reference in case you get stuck with your problem.&lt;/p&gt;
 
-&lt;h3 id=&quot;handle-data-like-apro&quot;&gt;Handle Data Like a Pro&lt;/h3&gt;
+&lt;h1 id=&quot;handle-data-like-apro&quot;&gt;Handle Data Like a Pro&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*YAYqqk7M7wQ28U7sVh1oQA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -42,7 +42,7 @@
 
 &lt;p&gt;Learn from Kaggle kernels, popular GitHub repos, how experts handle the data. Gather and clean public datasets on your own and refer these resources wherever get stuck.&lt;/p&gt;
 
-&lt;h3 id=&quot;understand-thecontext&quot;&gt;Understand The Context&lt;/h3&gt;
+&lt;h1 id=&quot;understand-thecontext&quot;&gt;Understand The Context&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/0*ChpN6CWwu61TEP-V.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -52,7 +52,7 @@
 
 &lt;p&gt;Hence understanding the context of the problem or the use case is important.&lt;/p&gt;
 
-&lt;h3 id=&quot;improve-communication&quot;&gt;Improve Communication&lt;/h3&gt;
+&lt;h1 id=&quot;improve-communication&quot;&gt;Improve Communication&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/0*9ZDJW08N1FZlPIFu.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -64,7 +64,7 @@
 
 &lt;p&gt;You may have to work hard to develop these skills — the same as you would with any technical skills. But with time and practice, you can get really good at it.&lt;/p&gt;
 
-&lt;h3 id=&quot;bonus-tip-develop-t-shaped-skill-set&quot;&gt;Bonus Tip: Develop T-shaped Skill-set&lt;/h3&gt;
+&lt;h1 id=&quot;bonus-tip-develop-t-shaped-skill-set&quot;&gt;Bonus Tip: Develop T-shaped Skill-set&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/0*5VE1BaIQGTmXCxIx.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
