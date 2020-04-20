@@ -1,10 +1,10 @@
-Title: Data Science: Self-Starter Handbook (Preview)
-Date: 2019-01-30 10:30
-Author: ankitrathi
-Category: Uncategorized
-Tags: Artificial Intelligence, Data Science, Deep Learning, Machine Learning
-Slug: data-science-self-starter-handbook-preview
-Status: published
+---
+toc: true
+layout: post
+description: Things DS/AI Beginners Need To Learn
+categories: [markdown]
+title: Data Science Self-Starter Handbook (Preview)
+---
 
 ![](https://cdn-images-1.medium.com/max/1200/1*8l1J_sE_W4Sw9ajpFb0w4w.png)
 
@@ -82,4 +82,6 @@ Looks interesting? Stay tuned to read the upcoming post as soon as it is publish
 
 ------------------------------------------------------------------------
 
-*Thank you for reading my post. I regularly write about Data & Technology on* [*LinkedIn*](https://www.linkedin.com/today/posts/ankitrathi) *&* [*Medium*](https://medium.com/@rathi.ankit)*. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to listen to me on* [*SoundCloud*](https://soundcloud.com/ankitrathi)*.*
+[*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
+
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
