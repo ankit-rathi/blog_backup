@@ -38,52 +38,53 @@ Cost of building complex and ever-evolving data systems can be huge, we need to 
 
 ## Data Lake Basics
 Data Lake is becoming the defacto standard in modern data platforms, let's have a look at what it is and how it helps to build modern data systems.
-- Data Lake Definition
--- An architectural approach
--- Massive heterogeneous data stored centrally
--- Available to the diverse group of users
--- To be categorized, processed, analyzed & consumed
 
-- Data Lake Characteristics
--- Structured, semi-structured & unstructured data
--- Scaled out as required
--- The diverse set of storage, analytics and ML/AI tools
--- Designed for low-cost storage and analytics
--- High-Level Architecture
+### Data Lake Definition
+- An architectural approach
+- Massive heterogeneous data stored centrally
+- Available to the diverse group of users
+- To be categorized, processed, analyzed & consumed
+
+### Data Lake Characteristics
+- Structured, semi-structured & unstructured data
+- Scaled out as required
+- The diverse set of storage, analytics and ML/AI tools
+- Designed for low-cost storage and analytics
+- High-Level Architecture
 
 A typical data analytics platform takes business raw data as input and provides actionable insights. It has four layers: ingest, store, process/analyse & serve.
 Let’s have a look at each data layer in detail:
 
 ## Data Characteristics
 
-- Ingest
-Data can be ingested from a variety of data sources like web/mobile apps, databases, application logging, messaging and IOT devices.
+### Ingest
+- Data can be ingested from a variety of data sources like web/mobile apps, databases, application logging, messaging and IOT devices.
 
-Data can be hot, warm or cold based on its velocity, request rates and latency requirements:
+- Data can be hot, warm or cold based on its velocity, request rates and latency requirements:
 
-Data can be categorized based on data structures and access-pattern requirements. Based on these characteristics, we decide how to store and process each type of data.
+- Data can be categorized based on data structures and access-pattern requirements. Based on these characteristics, we decide how to store and process each type of data.
 
-- Storage
-How we are going to store data depends mainly on two major factors:
-What is the structure of the data?
-What is the frequency and usage of data?
+### Storage
+- How we are going to store data depends mainly on two major factors:
+- What is the structure of the data?
+- What is the frequency and usage of data?
 
-- Analytics Types
+### Analytics Types
 There can be different kind of analytics you may need to perform based on the structure and access-patterns of data.
-Message/Stream Analysis
-Interactive Analysis
-Batch Analysis
-Machine Learning/AI
-ETL Processing
+- Message/Stream Analysis
+- Interactive Analysis
+- Batch Analysis
+- Machine Learning/AI
+- ETL Processing
 
 Store and Process/Analyse steps can be performed iteratively as after processing or analysing the results, you may need to store data in the processed form before acting further.
 
-- Serve
+### Serve
 There may be various ways of serving insights to end-user (business, data scientists or developers).
-Applications & APIs
-Analysis & Visualization
-Notebooks
-IDEs
+- Applications & APIs
+- Analysis & Visualization
+- Notebooks
+- IDEs
 
 ## Putting It All Together
 Now let’s combine what we have discussed till now, you may notice that ‘Security and Governance’ process needs to be applied across the data layers along with Data Catalog.
@@ -96,11 +97,13 @@ https://martinfowler.com/articles/data-monolith-to-mesh.html
 
 ## Reference Architecture
 Before signing off, let’s also have a look at reference data architecture from leading cloud services providers like Azure, AWS and GCP.
-Reference Architecture — Azure
 
-Reference Architecture — AWS
+### Reference Architecture — Azure
 
-Reference Architecture — GCP
+### Reference Architecture — AWS
+
+### Reference Architecture — GCP
 
 I hope you find this post useful, stay tuned for more, any feedback would be highly appreciated.
+
 Ankit Rathi is a Data & AI Architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.
