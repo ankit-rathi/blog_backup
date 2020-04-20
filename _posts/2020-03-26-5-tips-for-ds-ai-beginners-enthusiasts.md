@@ -19,7 +19,7 @@ DS/AI starters and enthusiasts keep interacting with me and I try to help them. 
 
 Here I am sharing 5 of those tips:
 
-# Master The Basics
+## Master The Basics
 
 ![](https://cdn-images-1.medium.com/max/800/1*KSja_FQfoEm-sRMao1VD6g.png)
 
@@ -31,7 +31,7 @@ Understand the overall process of working in DS/AI projects, from defining the p
 
 Improve your coding skills to execute & validate your hypothesis efficiently. Python & R are the two major languages preferred by data scientists.
 
-# Learn Just Enough
+## Learn Just Enough
 
 ![](https://cdn-images-1.medium.com/max/800/1*WzniU-FFsxpxKx5aglBU1g.png)
 
@@ -41,7 +41,7 @@ You are learning DS/AI is to solve real-world problems, so learn just enough con
 
 You need not read each book or attend every course on the planet before feeling confident to start with DS/AI. Just follow one decent book or course to build your basics and start working on problems. Keep the material (books & courses) for reference in case you get stuck with your problem.
 
-# Handle Data Like a Pro
+## Handle Data Like a Pro
 
 ![](https://cdn-images-1.medium.com/max/800/1*YAYqqk7M7wQ28U7sVh1oQA.png)
 
@@ -51,7 +51,7 @@ Build your skills in data handling, learn frequently used tips & tricks in SQL, 
 
 Learn from Kaggle kernels, popular GitHub repos, how experts handle the data. Gather and clean public datasets on your own and refer these resources wherever get stuck.
 
-# Understand The Context
+## Understand The Context
 
 ![](https://cdn-images-1.medium.com/max/800/0*ChpN6CWwu61TEP-V.jpg)
 
@@ -61,7 +61,7 @@ Every framework, every feature has its own use case. If a particular approach wo
 
 Hence understanding the context of the problem or the use case is important.
 
-# Improve Communication
+## Improve Communication
 
 ![](https://cdn-images-1.medium.com/max/800/0*9ZDJW08N1FZlPIFu.jpg)
 
@@ -73,7 +73,7 @@ You need to have the ability to interpret data, tell the stories contained there
 
 You may have to work hard to develop these skills — the same as you would with any technical skills. But with time and practice, you can get really good at it.
 
-# Bonus Tip: Develop T-shaped Skill-set
+## Bonus Tip: Develop T-shaped Skill-set
 
 ![](https://cdn-images-1.medium.com/max/800/0*5VE1BaIQGTmXCxIx.png)
 
