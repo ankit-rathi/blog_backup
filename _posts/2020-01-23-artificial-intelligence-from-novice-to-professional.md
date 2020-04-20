@@ -8,7 +8,7 @@ title: Artificial Intelligence from Novice to Professional
 
 ![Photo by [Ben White](https://unsplash.com/@benwhitephotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)/[Hunters Race](https://unsplash.com/@huntersrace?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/faceless-person?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*PNtNefJMXMdi0JwUA2YWRA.png)
 
-### Why this post?
+# Why this post?
 
 There is a general notion that Artificial Intelligence is all about algorithms. If you look around most of the courses, books, blogs, etc, you will find that most of them cover how you can apply certain algorithms and further optimize those algorithms.
 
@@ -20,7 +20,7 @@ In this post, I am going to briefly touch every aspect of AI/ML project lifecycl
 
 We can segregate all these aspects of AI into 5 parts: AI Introduction, AI Pre-requisites, AI Concepts & Algorithms, Enterprise AI & Peripherals of AI
 
-### I. AI Introduction
+# I. AI Introduction
 
 AI is a team game, every aspiring AI role needs to have a common understanding of AI/ML field. This part covers a simple What, Why & How of AI:
 
@@ -34,7 +34,7 @@ AI is a team game, every aspiring AI role needs to have a common understanding o
 
 > — What are the roles in AI projects and who does what?
 
-### II. AI Pre-requisites
+# II. AI Pre-requisites
 
 AI/ML has a steep learning curve because it is an amalgamation of many fields (Statistics, IT & Domain etc). And some knowledge of these fields is required before you can start grasping AI/ML concepts. This part covers the pre-requisites of AI:
 
@@ -46,7 +46,7 @@ AI/ML has a steep learning curve because it is an amalgamation of many fields (S
 
 > — How is it stored and processed?
 
-### III. AI Concepts & Algorithms
+# III. AI Concepts & Algorithms
 
 AI/ML in itself is quite a vast field and have different techniques and frameworks to deal with different kind of real-world problems. This part covers major AI/ML techniques and what to use when:
 
@@ -54,7 +54,7 @@ AI/ML in itself is quite a vast field and have different techniques and framewor
 
 > — When to use what? Main concepts & algorithms ML, DL & RL?
 
-### IV. Enterprise AI
+# IV. Enterprise AI
 
 Learning AI/ML concepts & algorithms are not enough, you will be solving some business problems with what you have learned. You need to be aware of what happens when these concepts & algorithms are applied within an enterprise. This part covers the aspects of enterprise AI:
 
@@ -66,7 +66,7 @@ Learning AI/ML concepts & algorithms are not enough, you will be solving some bu
 
 > \- Why ethics & explainability is important & how can we make AI explainable?
 
-### V. Peripherals of AI
+# V. Peripherals of AI
 
 Apart from learning concepts and their applications, you may have specific needs at the moment like you want to get into the AI field or you need to lead an AI initiative in your organization. This part covers those specific needs:
 
@@ -76,7 +76,7 @@ Apart from learning concepts and their applications, you may have specific needs
 
 > \- How to future-proof your AI career?
 
-### Conclusion
+# Conclusion
 
 I hope by now you have got an idea of what it takes to work on AI projects in the real world. Due to different but overlapping fields, it is really hard to get in-depth knowledge of every aspect of an AI aspirant.
 
