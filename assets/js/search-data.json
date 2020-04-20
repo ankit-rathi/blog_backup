@@ -238,17 +238,6 @@
   
 
   
-      ,"page3": {
-          "title": "Resources",
-          "content": "AI for Everyone by Andrew Ng » . Faster Data Science Education by Kaggle » . Machine Learning Crash Course by Google » . Machine Learning by Andrew Ng » . Deep Learning by Andrew Ng » . Learn with Google AI » . Sebastian Raschka Lecture Slides » . Jonathan Hui Medium Articles » . AI Engineering by Srivatsan Srinivasan » .",
-          "url": "https://ankitrathi169.github.io/data-and-ai/resources/",
-          "relUrl": "/resources/",
-          "date": ""
-      }
-      
-  
-
-  
   
 
   
@@ -270,7 +259,7 @@
   
 
   
-      ,"page12": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://ankitrathi169.github.io/data-and-ai/robots.txt",
