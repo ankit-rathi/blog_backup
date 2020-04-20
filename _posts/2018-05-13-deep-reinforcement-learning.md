@@ -1,10 +1,10 @@
-Title: Deep Reinforcement Learning
-Date: 2018-05-13 00:00
-Author: ankitrathi
-Category: Uncategorized
-Tags: Artificial Intelligence, Reinforcement Learning
-Slug: deep-reinforcement-learning
-Status: published
+---
+toc: true
+layout: post
+description: Things DS/AI Beginners Need To Learn
+categories: [markdown]
+title: Deep Reinforcement Learning
+---
 
 ![Deep Reinforcement Learning](https://cdn-images-1.medium.com/max/800/0*0Nip07piZC-vdSJE.)
 
@@ -68,8 +68,6 @@ This is the final step of Q-Learning, where agent will choose some random option
 
 ------------------------------------------------------------------------
 
-*Thank you for reading my post. I regularly write about Data & Technology on* [*LinkedIn*](https://www.linkedin.com/today/posts/ankitrathi) *&* [*Medium*](https://medium.com/@rathi.ankit)*. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also feel free to connect on* [*Slideshare*](https://www.slideshare.net/ankitrathi)*.*
+[*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
 
-------------------------------------------------------------------------
-
-*Originally published at* [*https://www.linkedin.com*](https://www.linkedin.com/pulse/deep-reinforcement-learning-ankit-rathi/) *on May 13, 2018.*
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
