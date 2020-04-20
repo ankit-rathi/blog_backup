@@ -1,10 +1,10 @@
-Title: Becoming Data-Driven (Series)
-Date: 2017-12-22 00:00
-Author: ankitrathi
-Category: Uncategorized
-Tags: Data Analytics, Data Architecture, Data Driven, Data Science, Datadeft
-Slug: becoming-data-driven-series
-Status: published
+---
+toc: true
+layout: post
+description: How to become a data-driven department/organization?
+categories: [markdown]
+title: Becoming Data-Driven (Series)
+---
 
 ![](https://cdn-images-1.medium.com/max/800/0*NABiWy6AUkKYj6cM.jpg)
 
@@ -30,6 +30,6 @@ In the [next post](https://www.linkedin.com/pulse/data-driven-what-why-ankit-rat
 
 ------------------------------------------------------------------------
 
-*Thank you for reading my post. I regularly write about Data & Technology on* [*LinkedIn*](https://www.linkedin.com/today/posts/ankitrathi) *&* [*Medium*](https://medium.com/@rathi.ankit)*. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also feel free to connect on or* [*Slideshare*](https://www.slideshare.net/ankitrathi)*.*
+[*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
 
-*Originally published at* <https://www.linkedin.com/today/posts/ankitrathi> *on December 22, 2017.*
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
