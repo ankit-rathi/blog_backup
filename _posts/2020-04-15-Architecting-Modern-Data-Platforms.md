@@ -6,7 +6,7 @@ categories: [markdown]
 title:  Architecting Modern Data Platforms
 ---
 
-![](https://cdn-images-1.medium.com/max/800/1*XY87VHW3-cJGMb7XNfUZRQ.png)
+![](https://cdn-images-1.medium.com/max/1500/1*XY87VHW3-cJGMb7XNfUZRQ.png)
 
 ## Data Architecture Principles
 
