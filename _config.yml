@@ -35,8 +35,8 @@ url: "https://ankitrathi169.github.io" # the base hostname & protocol for your s
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-#baseurl: "/data-and-ai" # the subpath of your site, e.g. "/blog".
-baseurl: "/blog"
+baseurl: "/data-and-ai" # the subpath of your site, e.g. "/blog".
+#baseurl: "/blog"
 
 # Github and twitter are optional:
 minima:
