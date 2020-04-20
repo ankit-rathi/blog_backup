@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: How to learn data science in a structured way?
 categories: [markdown]
-title: Data Science: Learn, Apply, Compete, Ask, Connect & Stay Updated
+title: Data Science Learn Apply Compete Ask Connect Stay Updated
 ---
 
 ![Data Science: Learn, Apply, Compete, Ask, Connect & Stay Updated](https://cdn-images-1.medium.com/max/1200/1*dwBcD-3k-XWkN2gZO-kdmQ.png)
