@@ -1,10 +1,10 @@
-Title: Data Literacy for Professionals (Series)
-Date: 2018-01-28 00:00
-Author: ankitrathi
-Category: Uncategorized
-Tags: Data Architecture, Data Engineering, Data Literacy, Data Science
-Slug: data-literacy-for-professionals-series
-Status: published
+---
+toc: true
+layout: post
+description: The most important step to drive data culture
+categories: [markdown]
+title: Data Literacy for Professionals (Series)
+---
 
 ![Data Literacy for Professionals](https://cdn-images-1.medium.com/max/800/0*O4eq0VGnAe9fmMQK.jpg)
 
