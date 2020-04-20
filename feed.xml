@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-20T11:47:37-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">Architecting Modern Data Platforms</title><link href="https://ankit-rathi.github.io/data-and-ai/2020/04/15/Architecting-Modern-Data-Platforms.html" rel="alternate" type="text/html" title="Architecting Modern Data Platforms" /><published>2020-04-15T00:00:00-05:00</published><updated>2020-04-15T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/2020/04/15/Architecting-Modern-Data-Platforms</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/2020/04/15/Architecting-Modern-Data-Platforms.html">&lt;h2 id=&quot;data-architecture-principles&quot;&gt;Data Architecture Principles&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-20T11:50:41-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">Architecting Modern Data Platforms</title><link href="https://ankit-rathi.github.io/data-and-ai/2020/04/15/Architecting-Modern-Data-Platforms.html" rel="alternate" type="text/html" title="Architecting Modern Data Platforms" /><published>2020-04-15T00:00:00-05:00</published><updated>2020-04-15T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/2020/04/15/Architecting-Modern-Data-Platforms</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/2020/04/15/Architecting-Modern-Data-Platforms.html">&lt;h2 id=&quot;data-architecture-principles&quot;&gt;Data Architecture Principles&lt;/h2&gt;
 
 &lt;p&gt;Whether you are responsible for data, systems or application architecture, you need to define some principles to help you navigate the fast-paced modern world. Data Architecture Principles are the foundation for data architecture that will allow your business to run at an optimized level today, and into the future.&lt;/p&gt;
 
@@ -49,22 +49,22 @@
 
 &lt;h2 id=&quot;data-lake-basics&quot;&gt;Data Lake Basics&lt;/h2&gt;
 &lt;p&gt;Data Lake is becoming the defacto standard in modern data platforms, let’s have a look at what it is and how it helps to build modern data systems.&lt;/p&gt;
+
+&lt;h3 id=&quot;data-lake-definition&quot;&gt;Data Lake Definition&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Data Lake Definition
-– An architectural approach
-– Massive heterogeneous data stored centrally
-– Available to the diverse group of users
-– To be categorized, processed, analyzed &amp;amp; consumed&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Data Lake Characteristics
-– Structured, semi-structured &amp;amp; unstructured data
-– Scaled out as required
-– The diverse set of storage, analytics and ML/AI tools
-– Designed for low-cost storage and analytics
-– High-Level Architecture&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;An architectural approach&lt;/li&gt;
+  &lt;li&gt;Massive heterogeneous data stored centrally&lt;/li&gt;
+  &lt;li&gt;Available to the diverse group of users&lt;/li&gt;
+  &lt;li&gt;To be categorized, processed, analyzed &amp;amp; consumed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;data-lake-characteristics&quot;&gt;Data Lake Characteristics&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Structured, semi-structured &amp;amp; unstructured data&lt;/li&gt;
+  &lt;li&gt;Scaled out as required&lt;/li&gt;
+  &lt;li&gt;The diverse set of storage, analytics and ML/AI tools&lt;/li&gt;
+  &lt;li&gt;Designed for low-cost storage and analytics&lt;/li&gt;
+  &lt;li&gt;High-Level Architecture&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;A typical data analytics platform takes business raw data as input and provides actionable insights. It has four layers: ingest, store, process/analyse &amp;amp; serve.
@@ -72,42 +72,45 @@ Let’s have a look at each data layer in detail:&lt;/p&gt;
 
 &lt;h2 id=&quot;data-characteristics&quot;&gt;Data Characteristics&lt;/h2&gt;
 
+&lt;h3 id=&quot;ingest&quot;&gt;Ingest&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Ingest
-Data can be ingested from a variety of data sources like web/mobile apps, databases, application logging, messaging and IOT devices.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Data can be ingested from a variety of data sources like web/mobile apps, databases, application logging, messaging and IOT devices.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Data can be hot, warm or cold based on its velocity, request rates and latency requirements:&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Data can be categorized based on data structures and access-pattern requirements. Based on these characteristics, we decide how to store and process each type of data.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Data can be hot, warm or cold based on its velocity, request rates and latency requirements:&lt;/p&gt;
-
-&lt;p&gt;Data can be categorized based on data structures and access-pattern requirements. Based on these characteristics, we decide how to store and process each type of data.&lt;/p&gt;
-
+&lt;h3 id=&quot;storage&quot;&gt;Storage&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Storage
-How we are going to store data depends mainly on two major factors:
-What is the structure of the data?
-What is the frequency and usage of data?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Analytics Types
-There can be different kind of analytics you may need to perform based on the structure and access-patterns of data.
-Message/Stream Analysis
-Interactive Analysis
-Batch Analysis
-Machine Learning/AI
-ETL Processing&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;How we are going to store data depends mainly on two major factors:&lt;/li&gt;
+  &lt;li&gt;What is the structure of the data?&lt;/li&gt;
+  &lt;li&gt;What is the frequency and usage of data?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;analytics-types&quot;&gt;Analytics Types&lt;/h3&gt;
+&lt;p&gt;There can be different kind of analytics you may need to perform based on the structure and access-patterns of data.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Message/Stream Analysis&lt;/li&gt;
+  &lt;li&gt;Interactive Analysis&lt;/li&gt;
+  &lt;li&gt;Batch Analysis&lt;/li&gt;
+  &lt;li&gt;Machine Learning/AI&lt;/li&gt;
+  &lt;li&gt;ETL Processing&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Store and Process/Analyse steps can be performed iteratively as after processing or analysing the results, you may need to store data in the processed form before acting further.&lt;/p&gt;
 
+&lt;h3 id=&quot;serve&quot;&gt;Serve&lt;/h3&gt;
+&lt;p&gt;There may be various ways of serving insights to end-user (business, data scientists or developers).&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Serve
-There may be various ways of serving insights to end-user (business, data scientists or developers).
-Applications &amp;amp; APIs
-Analysis &amp;amp; Visualization
-Notebooks
-IDEs&lt;/li&gt;
+  &lt;li&gt;Applications &amp;amp; APIs&lt;/li&gt;
+  &lt;li&gt;Analysis &amp;amp; Visualization&lt;/li&gt;
+  &lt;li&gt;Notebooks&lt;/li&gt;
+  &lt;li&gt;IDEs&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;putting-it-all-together&quot;&gt;Putting It All Together&lt;/h2&gt;
@@ -120,15 +123,17 @@ Recently, Zhamak Dehghani has proposed a data architecture to move beyond a mono
 &lt;p&gt;https://martinfowler.com/articles/data-monolith-to-mesh.html&lt;/p&gt;
 
 &lt;h2 id=&quot;reference-architecture&quot;&gt;Reference Architecture&lt;/h2&gt;
-&lt;p&gt;Before signing off, let’s also have a look at reference data architecture from leading cloud services providers like Azure, AWS and GCP.
-Reference Architecture — Azure&lt;/p&gt;
+&lt;p&gt;Before signing off, let’s also have a look at reference data architecture from leading cloud services providers like Azure, AWS and GCP.&lt;/p&gt;
 
-&lt;p&gt;Reference Architecture — AWS&lt;/p&gt;
+&lt;h3 id=&quot;reference-architecture--azure&quot;&gt;Reference Architecture — Azure&lt;/h3&gt;
 
-&lt;p&gt;Reference Architecture — GCP&lt;/p&gt;
+&lt;h3 id=&quot;reference-architecture--aws&quot;&gt;Reference Architecture — AWS&lt;/h3&gt;
 
-&lt;p&gt;I hope you find this post useful, stay tuned for more, any feedback would be highly appreciated.
-Ankit Rathi is a Data &amp;amp; AI Architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/p&gt;</content><author><name></name></author><summary type="html">Data Architecture Principles</summary></entry><entry><title type="html">5 Tips for DS/AI Beginners &amp;amp; Enthusiasts</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html" rel="alternate" type="text/html" title="5 Tips for DS/AI Beginners &amp; Enthusiasts" /><published>2020-03-26T00:00:00-05:00</published><updated>2020-03-26T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*WYAntO3ZfXBMkyn31mHoRw.jpeg&quot; alt=&quot;Photo by [Sam Truong Dan](https://unsplash.com/@sam_truong?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/tips?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText)&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;reference-architecture--gcp&quot;&gt;Reference Architecture — GCP&lt;/h3&gt;
+
+&lt;p&gt;I hope you find this post useful, stay tuned for more, any feedback would be highly appreciated.&lt;/p&gt;
+
+&lt;p&gt;Ankit Rathi is a Data &amp;amp; AI Architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/p&gt;</content><author><name></name></author><summary type="html">Data Architecture Principles</summary></entry><entry><title type="html">5 Tips for DS/AI Beginners &amp;amp; Enthusiasts</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html" rel="alternate" type="text/html" title="5 Tips for DS/AI Beginners &amp; Enthusiasts" /><published>2020-03-26T00:00:00-05:00</published><updated>2020-03-26T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/03/26/5-tips-for-ds-ai-beginners-enthusiasts.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*WYAntO3ZfXBMkyn31mHoRw.jpeg&quot; alt=&quot;Photo by [Sam Truong Dan](https://unsplash.com/@sam_truong?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/tips?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText)&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;In this post, I am sharing 5 important tips for budding data scientists, there is a bonus tip as well in the end.&lt;/em&gt;&lt;/p&gt;
 

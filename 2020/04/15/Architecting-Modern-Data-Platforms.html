@@ -49,22 +49,22 @@
 
 <h2 id="data-lake-basics">Data Lake Basics</h2>
 <p>Data Lake is becoming the defacto standard in modern data platforms, let’s have a look at what it is and how it helps to build modern data systems.</p>
+
+<h3 id="data-lake-definition">Data Lake Definition</h3>
 <ul>
-  <li>
-    <p>Data Lake Definition
-– An architectural approach
-– Massive heterogeneous data stored centrally
-– Available to the diverse group of users
-– To be categorized, processed, analyzed &amp; consumed</p>
-  </li>
-  <li>
-    <p>Data Lake Characteristics
-– Structured, semi-structured &amp; unstructured data
-– Scaled out as required
-– The diverse set of storage, analytics and ML/AI tools
-– Designed for low-cost storage and analytics
-– High-Level Architecture</p>
-  </li>
+  <li>An architectural approach</li>
+  <li>Massive heterogeneous data stored centrally</li>
+  <li>Available to the diverse group of users</li>
+  <li>To be categorized, processed, analyzed &amp; consumed</li>
+</ul>
+
+<h3 id="data-lake-characteristics">Data Lake Characteristics</h3>
+<ul>
+  <li>Structured, semi-structured &amp; unstructured data</li>
+  <li>Scaled out as required</li>
+  <li>The diverse set of storage, analytics and ML/AI tools</li>
+  <li>Designed for low-cost storage and analytics</li>
+  <li>High-Level Architecture</li>
 </ul>
 
 <p>A typical data analytics platform takes business raw data as input and provides actionable insights. It has four layers: ingest, store, process/analyse &amp; serve.
@@ -72,42 +72,45 @@ Let’s have a look at each data layer in detail:</p>
 
 <h2 id="data-characteristics">Data Characteristics</h2>
 
+<h3 id="ingest">Ingest</h3>
 <ul>
-  <li>Ingest
-Data can be ingested from a variety of data sources like web/mobile apps, databases, application logging, messaging and IOT devices.</li>
+  <li>
+    <p>Data can be ingested from a variety of data sources like web/mobile apps, databases, application logging, messaging and IOT devices.</p>
+  </li>
+  <li>
+    <p>Data can be hot, warm or cold based on its velocity, request rates and latency requirements:</p>
+  </li>
+  <li>
+    <p>Data can be categorized based on data structures and access-pattern requirements. Based on these characteristics, we decide how to store and process each type of data.</p>
+  </li>
 </ul>
 
-<p>Data can be hot, warm or cold based on its velocity, request rates and latency requirements:</p>
-
-<p>Data can be categorized based on data structures and access-pattern requirements. Based on these characteristics, we decide how to store and process each type of data.</p>
-
+<h3 id="storage">Storage</h3>
 <ul>
-  <li>
-    <p>Storage
-How we are going to store data depends mainly on two major factors:
-What is the structure of the data?
-What is the frequency and usage of data?</p>
-  </li>
-  <li>
-    <p>Analytics Types
-There can be different kind of analytics you may need to perform based on the structure and access-patterns of data.
-Message/Stream Analysis
-Interactive Analysis
-Batch Analysis
-Machine Learning/AI
-ETL Processing</p>
-  </li>
+  <li>How we are going to store data depends mainly on two major factors:</li>
+  <li>What is the structure of the data?</li>
+  <li>What is the frequency and usage of data?</li>
+</ul>
+
+<h3 id="analytics-types">Analytics Types</h3>
+<p>There can be different kind of analytics you may need to perform based on the structure and access-patterns of data.</p>
+<ul>
+  <li>Message/Stream Analysis</li>
+  <li>Interactive Analysis</li>
+  <li>Batch Analysis</li>
+  <li>Machine Learning/AI</li>
+  <li>ETL Processing</li>
 </ul>
 
 <p>Store and Process/Analyse steps can be performed iteratively as after processing or analysing the results, you may need to store data in the processed form before acting further.</p>
 
+<h3 id="serve">Serve</h3>
+<p>There may be various ways of serving insights to end-user (business, data scientists or developers).</p>
 <ul>
-  <li>Serve
-There may be various ways of serving insights to end-user (business, data scientists or developers).
-Applications &amp; APIs
-Analysis &amp; Visualization
-Notebooks
-IDEs</li>
+  <li>Applications &amp; APIs</li>
+  <li>Analysis &amp; Visualization</li>
+  <li>Notebooks</li>
+  <li>IDEs</li>
 </ul>
 
 <h2 id="putting-it-all-together">Putting It All Together</h2>
@@ -120,12 +123,14 @@ Recently, Zhamak Dehghani has proposed a data architecture to move beyond a mono
 <p>https://martinfowler.com/articles/data-monolith-to-mesh.html</p>
 
 <h2 id="reference-architecture">Reference Architecture</h2>
-<p>Before signing off, let’s also have a look at reference data architecture from leading cloud services providers like Azure, AWS and GCP.
-Reference Architecture — Azure</p>
+<p>Before signing off, let’s also have a look at reference data architecture from leading cloud services providers like Azure, AWS and GCP.</p>
 
-<p>Reference Architecture — AWS</p>
+<h3 id="reference-architecture--azure">Reference Architecture — Azure</h3>
 
-<p>Reference Architecture — GCP</p>
+<h3 id="reference-architecture--aws">Reference Architecture — AWS</h3>
 
-<p>I hope you find this post useful, stay tuned for more, any feedback would be highly appreciated.
-Ankit Rathi is a Data &amp; AI Architect, published author &amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.</p>
+<h3 id="reference-architecture--gcp">Reference Architecture — GCP</h3>
+
+<p>I hope you find this post useful, stay tuned for more, any feedback would be highly appreciated.</p>
+
+<p>Ankit Rathi is a Data &amp; AI Architect, published author &amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.</p>
