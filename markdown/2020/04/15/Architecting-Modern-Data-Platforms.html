@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Architecting Modern Data Platforms | Data &amp; AI Blog</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Architecting Modern Data Platforms" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="How to modern data platforms?" />
+<meta property="og:description" content="How to modern data platforms?" />
+<link rel="canonical" href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/15/Architecting-Modern-Data-Platforms.html" />
+<meta property="og:url" content="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/15/Architecting-Modern-Data-Platforms.html" />
+<meta property="og:site_name" content="Data &amp; AI Blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-04-15T00:00:00-05:00" />
+<script type="application/ld+json">
+{"description":"How to modern data platforms?","@type":"BlogPosting","url":"https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/15/Architecting-Modern-Data-Platforms.html","dateModified":"2020-04-15T00:00:00-05:00","datePublished":"2020-04-15T00:00:00-05:00","headline":"Architecting Modern Data Platforms","mainEntityOfPage":{"@type":"WebPage","@id":"https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/15/Architecting-Modern-Data-Platforms.html"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/data-and-ai/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://ankit-rathi.github.io/data-and-ai/feed.xml" title="Data & AI Blog" /><link rel="shortcut icon" type="image/x-icon" href="/data-and-ai/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Architecting Modern Data Platforms | Data &amp; AI Blog</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Architecting Modern Data Platforms" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="How to modern data platforms?" />
+<meta property="og:description" content="How to modern data platforms?" />
+<link rel="canonical" href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/15/Architecting-Modern-Data-Platforms.html" />
+<meta property="og:url" content="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/15/Architecting-Modern-Data-Platforms.html" />
+<meta property="og:site_name" content="Data &amp; AI Blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-04-15T00:00:00-05:00" />
+<script type="application/ld+json">
+{"description":"How to modern data platforms?","@type":"BlogPosting","url":"https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/15/Architecting-Modern-Data-Platforms.html","dateModified":"2020-04-15T00:00:00-05:00","datePublished":"2020-04-15T00:00:00-05:00","headline":"Architecting Modern Data Platforms","mainEntityOfPage":{"@type":"WebPage","@id":"https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/15/Architecting-Modern-Data-Platforms.html"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+<link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css"><link type="application/atom+xml" rel="alternate" href="https://ankit-rathi.github.io/data-and-ai/feed.xml" title="Data & AI Blog" />
+
+<script>
+function wrap_img(fn) {
+    if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
+        var elements = document.querySelectorAll(".post img");
+        Array.prototype.forEach.call(elements, function(el, i) {
+            if (el.getAttribute("title")) {
+                const caption = document.createElement('figcaption');
+                var node = document.createTextNode(el.getAttribute("title"));
+                caption.appendChild(node);
+                const wrapper = document.createElement('figure');
+                wrapper.className = 'image';
+                el.parentNode.insertBefore(wrapper, el);
+                el.parentNode.removeChild(el);
+                wrapper.appendChild(el);
+                wrapper.appendChild(caption);
+            }
+        });
+    } else { document.addEventListener('DOMContentLoaded', fn); }
+}
+window.onload = wrap_img;
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function(){
+    // add link icon to anchor tags
+    var elem = document.querySelectorAll(".anchor-link")
+    elem.forEach(e => (e.innerHTML = '<i class="fas fa-link fa-xs"></i>'));
+    });
+</script>
+</head><body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/data-and-ai/">Data &amp; AI Blog</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/data-and-ai/about/">About Me</a><a class="page-link" href="/data-and-ai/search/">Search</a><a class="page-link" href="/data-and-ai/categories/">Tags</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Architecting Modern Data Platforms</h1><p class="page-description">How to modern data platforms?</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2020-04-15T00:00:00-05:00" itemprop="datePublished">
+        Apr 15, 2020
+      </time>
+       • <span class="read-time" title="Estimated read time">
+    
+    
+      4 min read
+    
+</span></p>
+
+    
+      <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i> 
+      
+        <a class="category-tags-link" href="/data-and-ai/categories/#markdown">markdown</a>
+        
+      
+      </p>
+    
+
+    </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <ul class="section-nav">
+<li class="toc-entry toc-h2"><a href="#data-architecture-principles">Data Architecture Principles</a></li>
+<li class="toc-entry toc-h2"><a href="#adhere-to-adda-accessibility-definition-decoupling-agility">Adhere to ADDA (Accessibility, Definition, Decoupling, Agility)</a></li>
+<li class="toc-entry toc-h2"><a href="#design-for-rsm-reliability-scalability-maintainability">Design for RSM (Reliability, Scalability, Maintainability)</a></li>
+<li class="toc-entry toc-h2"><a href="#use-right-tools">Use Right Tools</a></li>
+<li class="toc-entry toc-h2"><a href="#cloud-nativeagnostic">Cloud-Native/Agnostic</a></li>
+<li class="toc-entry toc-h2"><a href="#be-cost-conscious">Be Cost-Conscious</a></li>
+<li class="toc-entry toc-h2"><a href="#data-lake-basics">Data Lake Basics</a>
+<ul>
+<li class="toc-entry toc-h3"><a href="#data-lake-definition">Data Lake Definition</a></li>
+<li class="toc-entry toc-h3"><a href="#data-lake-characteristics">Data Lake Characteristics</a></li>
+</ul>
+</li>
+<li class="toc-entry toc-h2"><a href="#high-level-architecture">High-Level Architecture</a></li>
+<li class="toc-entry toc-h2"><a href="#data-characteristics">Data Characteristics</a>
+<ul>
+<li class="toc-entry toc-h3"><a href="#ingest">Ingest</a></li>
+<li class="toc-entry toc-h3"><a href="#storage">Storage</a></li>
+<li class="toc-entry toc-h3"><a href="#analytics-types">Analytics Types</a></li>
+<li class="toc-entry toc-h3"><a href="#serve">Serve</a></li>
+</ul>
+</li>
+<li class="toc-entry toc-h2"><a href="#putting-it-all-together">Putting It All Together</a></li>
+<li class="toc-entry toc-h2"><a href="#product-driven-data-architecture">Product-Driven Data Architecture</a></li>
+<li class="toc-entry toc-h2"><a href="#reference-architecture">Reference Architecture</a>
+<ul>
+<li class="toc-entry toc-h3"><a href="#reference-architecture--azure">Reference Architecture — Azure</a></li>
+<li class="toc-entry toc-h3"><a href="#reference-architecture--aws">Reference Architecture — AWS</a></li>
+<li class="toc-entry toc-h3"><a href="#reference-architecture--gcp">Reference Architecture — GCP</a></li>
+</ul>
+</li>
+</ul><p><img src="https://cdn-images-1.medium.com/max/800/1*XY87VHW3-cJGMb7XNfUZRQ.png" alt=""></p>
+
+<h2 id="data-architecture-principles">
+<a class="anchor" href="#data-architecture-principles" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data Architecture Principles</h2>
+
+<p>Whether you are responsible for data, systems or application architecture, you need to define some principles to help you navigate the fast-paced modern world. Data Architecture Principles are the foundation for data architecture that will allow your business to run at an optimized level today, and into the future.</p>
+
+<h2 id="adhere-to-adda-accessibility-definition-decoupling-agility">
+<a class="anchor" href="#adhere-to-adda-accessibility-definition-decoupling-agility" aria-hidden="true"><span class="octicon octicon-link"></span></a>Adhere to ADDA (Accessibility, Definition, Decoupling, Agility)</h2>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*nUhGoJeLJvDz8B8mcAlgig.png" alt=""></p>
+
+<ul>
+  <li>
+    <p>Data Accessibility is critical for the success of any business. Easily accessible data enables you to move quickly, focus on the product, and build a data-informed pipeline where data leads to better decisions and actions.</p>
+  </li>
+  <li>
+    <p>Data Definition or Catalog helps analysts and other data users to find the data that they need, serves as an inventory of available data, and provides information to evaluate fitness data for intended uses.</p>
+  </li>
+  <li>
+    <p>Data Decoupling helps in design since it allows each data layer to be independent of other data layers.</p>
+  </li>
+  <li>
+    <p>Data Agility is when your data can move at the speed of your business. For companies to achieve true data agility, they need to be able to access the data they need, when and where they need it.</p>
+  </li>
+</ul>
+
+<p>So the first data architecture principle is to make sure that business data is accessible, defined, decoupled and agile.</p>
+
+<h2 id="design-for-rsm-reliability-scalability-maintainability">
+<a class="anchor" href="#design-for-rsm-reliability-scalability-maintainability" aria-hidden="true"><span class="octicon octicon-link"></span></a>Design for RSM (Reliability, Scalability, Maintainability)</h2>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*B5TsIF4HDMEo_JRuMHOhWw.png" alt=""></p>
+
+<ul>
+  <li>Reliability means the data systems we are designing work correctly and fault-tolerant up to some level.</li>
+  <li>Scalability means data systems are adaptable to growth in a linear way.</li>
+  <li>Maintainability means that data systems remain easier to maintain.</li>
+</ul>
+
+<p>Second data architecture principle is that the data systems remain reliable, scalable and maintainable over time.</p>
+
+<h2 id="use-right-tools">
+<a class="anchor" href="#use-right-tools" aria-hidden="true"><span class="octicon octicon-link"></span></a>Use Right Tools</h2>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*lfW4KerKIMivkID8Cc9noA.png" alt=""></p>
+
+<p>We need to use the right tool at each data layer by aligning the choice to the data structure, latency and throughput requirements and access patterns.</p>
+
+<h2 id="cloud-nativeagnostic">
+<a class="anchor" href="#cloud-nativeagnostic" aria-hidden="true"><span class="octicon octicon-link"></span></a>Cloud-Native/Agnostic</h2>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*_I3Ge-AIWtFBvyH7_21IUw.png" alt="">
+Whether you have the data on-premise or you are using single/multiple cloud service providers, each decision has its own pros &amp; cons.</p>
+
+<h2 id="be-cost-conscious">
+<a class="anchor" href="#be-cost-conscious" aria-hidden="true"><span class="octicon octicon-link"></span></a>Be Cost-Conscious</h2>
+<p>Cost of building complex and ever-evolving data systems can be huge, we need to make sure we use available resources efficiently.</p>
+<ul>
+  <li>Efficient consumption of services</li>
+  <li>Select cost-conscious options</li>
+  <li>Enforce policies and controls</li>
+</ul>
+
+<h2 id="data-lake-basics">
+<a class="anchor" href="#data-lake-basics" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data Lake Basics</h2>
+<p>Data Lake is becoming the defacto standard in modern data platforms, let’s have a look at what it is and how it helps to build modern data systems.</p>
+
+<h3 id="data-lake-definition">
+<a class="anchor" href="#data-lake-definition" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data Lake Definition</h3>
+<ul>
+  <li>An architectural approach</li>
+  <li>Massive heterogeneous data stored centrally</li>
+  <li>Available to the diverse group of users</li>
+  <li>To be categorized, processed, analyzed &amp; consumed</li>
+</ul>
+
+<h3 id="data-lake-characteristics">
+<a class="anchor" href="#data-lake-characteristics" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data Lake Characteristics</h3>
+<ul>
+  <li>Structured, semi-structured &amp; unstructured data</li>
+  <li>Scaled out as required</li>
+  <li>The diverse set of storage, analytics and ML/AI tools</li>
+  <li>Designed for low-cost storage and analytics</li>
+</ul>
+
+<h2 id="high-level-architecture">
+<a class="anchor" href="#high-level-architecture" aria-hidden="true"><span class="octicon octicon-link"></span></a>High-Level Architecture</h2>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*ydcHHJxlQZJc7bRsFEy-qw.png" alt=""></p>
+
+<p>A typical data analytics platform takes business raw data as input and provides actionable insights. It has four layers: ingest, store, process/analyse &amp; serve.
+Let’s have a look at each data layer in detail:</p>
+
+<h2 id="data-characteristics">
+<a class="anchor" href="#data-characteristics" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data Characteristics</h2>
+
+<h3 id="ingest">
+<a class="anchor" href="#ingest" aria-hidden="true"><span class="octicon octicon-link"></span></a>Ingest</h3>
+<ul>
+  <li>Data can be ingested from a variety of data sources like web/mobile apps, databases, application logging, messaging and IOT devices.
+<img src="https://cdn-images-1.medium.com/max/800/1*gqnD79N34Epji2EZklZ0eg.png" alt="">
+</li>
+  <li>Data can be hot, warm or cold based on its velocity, request rates and latency requirements:
+<img src="https://cdn-images-1.medium.com/max/800/1*xMOM4kkrQZ4WosF9x0kwXQ.png" alt="">
+</li>
+  <li>Data can be categorized based on data structures and access-pattern requirements. Based on these characteristics, we decide how to store and process each type of data.
+<img src="https://cdn-images-1.medium.com/max/800/1*rPI43SQbQCvb6H70PeId8A.png" alt="">
+    <h3 id="storage">
+<a class="anchor" href="#storage" aria-hidden="true"><span class="octicon octicon-link"></span></a>Storage</h3>
+  </li>
+  <li>How we are going to store data depends mainly on two major factors:</li>
+  <li>What is the structure of the data?</li>
+  <li>What is the frequency and usage of data?
+<img src="https://cdn-images-1.medium.com/max/800/1*AKhZoJXjcb5ue9rfgWXe3Q.png" alt="">
+    <h3 id="analytics-types">
+<a class="anchor" href="#analytics-types" aria-hidden="true"><span class="octicon octicon-link"></span></a>Analytics Types</h3>
+    <p>There can be different kind of analytics you may need to perform based on the structure and access-patterns of data.</p>
+  </li>
+  <li>Message/Stream Analysis</li>
+  <li>Interactive Analysis</li>
+  <li>Batch Analysis</li>
+  <li>Machine Learning/AI</li>
+  <li>ETL Processing</li>
+</ul>
+
+<p>Store and Process/Analyse steps can be performed iteratively as after processing or analysing the results, you may need to store data in the processed form before acting further.
+<img src="https://cdn-images-1.medium.com/max/800/1*zRYSvV-JLCwG3rIf6etUdg.png" alt=""></p>
+<h3 id="serve">
+<a class="anchor" href="#serve" aria-hidden="true"><span class="octicon octicon-link"></span></a>Serve</h3>
+<p>There may be various ways of serving insights to end-user (business, data scientists or developers).</p>
+<ul>
+  <li>Applications &amp; APIs</li>
+  <li>Analysis &amp; Visualization</li>
+  <li>Notebooks</li>
+  <li>IDEs</li>
+</ul>
+
+<h2 id="putting-it-all-together">
+<a class="anchor" href="#putting-it-all-together" aria-hidden="true"><span class="octicon octicon-link"></span></a>Putting It All Together</h2>
+<p>Now let’s combine what we have discussed till now, you may notice that ‘Security and Governance’ process needs to be applied across the data layers along with Data Catalog.
+<img src="https://cdn-images-1.medium.com/max/800/1*-H4qKZwKOxYHtIgyRLh8fw.png" alt=""></p>
+<h2 id="product-driven-data-architecture">
+<a class="anchor" href="#product-driven-data-architecture" aria-hidden="true"><span class="octicon octicon-link"></span></a>Product-Driven Data Architecture</h2>
+<p>While data lake is the defacto standard these days, still there are few issues that are to be addressed like ubiquitous data and source proliferation, innovation agenda and consumer proliferation, coupled pipeline decomposition.
+Recently, Zhamak Dehghani has proposed a data architecture to move beyond a monolithic data lake to a distributed data mesh which can possibly address above mentioned concerns.
+<img src="https://cdn-images-1.medium.com/max/800/1*GOP7DOIVIOZ_oBVnRksWbg.png" alt="">
+https://martinfowler.com/articles/data-monolith-to-mesh.html</p>
+
+<h2 id="reference-architecture">
+<a class="anchor" href="#reference-architecture" aria-hidden="true"><span class="octicon octicon-link"></span></a>Reference Architecture</h2>
+<p>Before signing off, let’s also have a look at reference data architecture from leading cloud services providers like Azure, AWS and GCP.</p>
+
+<h3 id="reference-architecture--azure">
+<a class="anchor" href="#reference-architecture--azure" aria-hidden="true"><span class="octicon octicon-link"></span></a>Reference Architecture — Azure</h3>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*SZ896yzUQfJlYuclLUf8Ow.png" alt=""></p>
+<h3 id="reference-architecture--aws">
+<a class="anchor" href="#reference-architecture--aws" aria-hidden="true"><span class="octicon octicon-link"></span></a>Reference Architecture — AWS</h3>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*sMSQEc9_L8wm2DpxzsknEg.png" alt=""></p>
+<h3 id="reference-architecture--gcp">
+<a class="anchor" href="#reference-architecture--gcp" aria-hidden="true"><span class="octicon octicon-link"></span></a>Reference Architecture — GCP</h3>
+<p><img src="https://cdn-images-1.medium.com/max/800/1*LihkT8HW_U5b8c4V14-n2A.png" alt=""></p>
+
+<p>I hope you find this post useful, stay tuned for more, any feedback would be highly appreciated.</p>
+
+<hr>
+
+<p><a href="https://www.ankitrathi.com/"><em>Ankit Rathi</em></a> <em>is an AI architect, published author &amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.</em></p>
+
+<p><em>Why don’t you connect with Ankit on</em> <a href="https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw"><em>YouTube</em></a><em>,</em> <a href="https://twitter.com/rathiankit"><em>Twitter</em></a><em>,</em> <a href="https://www.linkedin.com/in/ankitrathi/"><em>LinkedIn</em></a> <em>or</em> <a href="https://instagram.com/ankitrathi/"><em>Instagram</em></a><em>?</em></p>
+
+  </div><a class="u-url" href="/data-and-ai/markdown/2020/04/15/Architecting-Modern-Data-Platforms.html" hidden></a>
+</article>
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/data-and-ai/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="/data-and-ai/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/data-and-ai/assets/minima-social-icons.svg#rss"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+      </div>
+      <div class="footer-col">
+        <p>From Data To Actionable Insights</p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"><li><a rel="me" href="https://github.com/ankit-rathi" title="ankit-rathi"><svg class="svg-icon grey"><use xlink:href="/data-and-ai/assets/minima-social-icons.svg#github"></use></svg></a></li><li><a rel="me" href="https://twitter.com/rathiankit" title="rathiankit"><svg class="svg-icon grey"><use xlink:href="/data-and-ai/assets/minima-social-icons.svg#twitter"></use></svg></a></li></ul>
+</div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
