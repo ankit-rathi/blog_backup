@@ -1,23 +1,12 @@
-Title: DS/AI-SSH: Understanding the Big Picture
-Date: 2019-03-21 17:33
-Author: ankitrathi
-Category: Uncategorized
-Slug: ds-ai-ssh-understanding-the-big-picture
-Status: published
+---
+toc: true
+layout: post
+description: How to build your career in DS/AI?
+categories: [markdown]
+title:  Understanding the Big Picture
+---
 
 ![Photo by [Joshua Ness](https://unsplash.com/photos/Fd1YZE641t8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/big-picture?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*PQOXpeZhjL0hNwCz-gzAKw.png)
-
-*This is the 2nd post of blog post series ‘*[*DS/AI: Self-Starter Handbook*](https://medium.com/data-deft/data-science-self-starter-handbook-preview-236061f83925)*’, this post covers the big picture of this series i.e. what topics upcoming posts will cover and how all of this will help you in your learning curve.*
-
--   *Navigating the landscape*
--   *Working on building blocks*
--   *Utilizing the resources*
--   *Building your portfolio*
--   *Networking & landing job*
--   *Putting it all together*
--   *Appendix*
-
-------------------------------------------------------------------------
 
 When you start learning a new skill, the first thing is to look at the big picture and where your would-be skills fit in the field. It gives you a context of what role you can play or are expected to play. And when the skill and field are evolving & overwhelmingly large, you are so engrossed in the details that most probably you tend to miss the purpose.
 
@@ -103,4 +92,6 @@ In this section, you will get to know what are the frequently asked questions by
 
 ------------------------------------------------------------------------
 
-*Thank you for reading my post. I regularly write about Data & Technology on* [*LinkedIn*](https://www.linkedin.com/today/posts/ankitrathi) *&* [*Medium*](https://medium.com/@rathi.ankit)*. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to listen to me on* [*SoundCloud*](https://soundcloud.com/ankitrathi)*.*
+[*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
+
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
