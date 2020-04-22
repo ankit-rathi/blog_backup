@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: DS/AI Self-Starter Series
+description: How to stay relevant in this ever-evolving field?
 categories: [markdown]
 title:  Making Career Future-Proof
 ---
