@@ -6,11 +6,13 @@ categories: [markdown]
 title:  Data & AI Platforms — Open Source Vs Managed Services 
 ---
 
+![](https://cdn-images-1.medium.com/max/1500/1*Svz8nTTFVj8OAdZMhrCiiQ.png)
+
 While designing and building Data & AI platforms, you may need to evaluate the options available. Whether your platform would be on-premise or you could use cloud/s services or you would take a hybrid approach.
 In any case, you may need to look and evaluate various tools & services for your ingestion, storage, process/analysis and serving layers.
 In this post, I have mapped open-source and popular managed cloud services to make our evaluation process a bit easier.
 
-
+## To be continued...
 
 ------------------------------------------------------------------------
 
