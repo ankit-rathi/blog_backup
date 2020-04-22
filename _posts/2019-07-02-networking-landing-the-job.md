@@ -1,23 +1,12 @@
-Title: DS/AI-SSH: Networking & Landing the Job
-Date: 2019-07-02 18:28
-Author: ankitrathi
-Category: Uncategorized
-Tags: Artificial Intelligence, Data Science, Job Hunting, Job Search, Networking
-Slug: ds-ai-ssh-networking-landing-the-job
-Status: published
+---
+toc: true
+layout: post
+description: How to build your career in DS/AI?
+categories: [markdown]
+title:  Networking & Landing the Job
+---
 
 ![Photo by [MD Duran](https://unsplash.com/@mdesign85?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/networking?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*YMYV5DQd21fgF5S-m6QFOg.jpeg)
-
-*In the last post, we learnt how to build a portfolio in order to work on DS/AI field.*
-
-*This is the 7th post of blog post series ‘*[*DS/AI: Self-Starter Handbook*](https://medium.com/data-deft/data-science-self-starter-handbook-preview-236061f83925)*’, this post cover all the aspects related to networking and job search. Following topics are covered here:*
-
--   *Building the Network*
--   *CV Preparation*
--   *Searching the Job*
--   *Cracking the Interview*
-
-------------------------------------------------------------------------
 
 So you have done all your homework, you traverse through the DS/AI landscape, you built required concepts and learnt relevant tools and you have started working on your portfolio as well.
 
@@ -201,6 +190,6 @@ You can ask for feedback, but know that many hiring managers would not be able t
 
 ------------------------------------------------------------------------
 
-*In the next post, we will cover how you can make your career future-proof in DS/AI.*
+[*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
 
-*Thank you for reading my post. I regularly write about Data & Technology on* [*LinkedIn*](https://www.linkedin.com/today/posts/ankitrathi) *&* [*Medium*](https://medium.com/@rathi.ankit)*. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to listen to me on* [*SoundCloud*](https://soundcloud.com/ankitrathi)*.*
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
