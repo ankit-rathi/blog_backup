@@ -1,22 +1,13 @@
-Title: DS/AI-SSH: Putting it All Together
-Date: 2019-07-04 13:58
-Author: ankitrathi
-Category: Uncategorized
-Tags: Artificial Intelligence, Data Science, Datadeft, Machine Learning, Predictive Analytics
-Slug: ds-ai-ssh-putting-it-all-together
-Status: published
+---
+toc: true
+layout: post
+description: How to build your career in DS/AI?
+categories: [markdown]
+title:  Putting it All Together
+---
 
 ![Photo by [Javier Allegue Barros](https://unsplash.com/@soymeraki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/together?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*KBVQpK_ETpyoQgr99F5AtQ.jpeg)
 
-*In the last post, we learnt how to work on the building blocks in order to work on Data Science.*
-
-*This is the 9th post of blog post series ‘*[*DS/AI: Self-Starter Handbook*](https://medium.com/data-deft/data-science-self-starter-handbook-preview-236061f83925)*’, this post details out how DS/AI starters can make their career future-proof. Following topics are covered here:*
-
--   *Avoid Being a Junkie*
--   *Learn to Solve*
--   *Just Enough Approach*
-
-------------------------------------------------------------------------
 
 Now that you have covered each and everything from the content perspective. Let's reflect on what you have learnt and after that, I will give you few tips to overcome some learning obstacles.
 
@@ -92,4 +83,7 @@ I believe all the content provided in this series is helpful to you. If you like
 
 ------------------------------------------------------------------------
 
-*Thank you for reading my post. I regularly write about Data & Technology on* [*LinkedIn*](https://www.linkedin.com/today/posts/ankitrathi) *&* [*Medium*](https://medium.com/@rathi.ankit)*. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to listen to me on* [*SoundCloud*](https://soundcloud.com/ankitrathi)*.*
+
+[*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
+
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
