@@ -1,22 +1,12 @@
-Title: DS/AI-SSH: Working on Building Blocks
-Date: 2019-04-14 06:59
-Author: ankitrathi
-Category: Uncategorized
-Tags: Artificial Intelligence, Data Science, Datadeft, Machine Learning
-Slug: ds-ai-ssh-working-on-building-blocks
-Status: published
+---
+toc: true
+layout: post
+description: What skills you need to acquire to get into DS/AI?
+categories: [markdown]
+title:  Working on Building Blocks
+---
 
 ![](https://cdn-images-1.medium.com/max/1200/1*jQQ7PSA9MQXa0FTdS19EHA.png)
-
-*In the last post we learnt how to navigate the DS/AI landscape to understand which sub-field exists where and what is its significance.*
-
-*This is the 4th post of blog post series ‘*[*DS/AI: Self-Starter Handbook*](https://medium.com/data-deft/data-science-self-starter-handbook-preview-236061f83925)*’, this post outlines of the building blocks that DS/AI starters should work on. Following topics are covered here:*
-
--   *Concepts to learn*
--   *Process to follow*
--   *Tools to master*
-
-------------------------------------------------------------------------
 
 There are few core skills of every job. To perform that job, you need to be aware of core concepts, you need to be aware of the end to end process and you need to learn how to use related tools to perform that job. Data science in no different job, it has its own core concepts,processes and tools.
 
@@ -186,6 +176,8 @@ Keras allows for easy and fast prototyping (through user-friendliness, modularit
 
 ------------------------------------------------------------------------
 
-*In the next post, we will cover the resources to build your knowledge base on the topics outlined in this post.*
 
-*Thank you for reading my post. I regularly write about Data & Technology on* [*LinkedIn*](https://www.linkedin.com/today/posts/ankitrathi) *&* [*Medium*](https://medium.com/@rathi.ankit)*. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to listen to me on* [*SoundCloud*](https://soundcloud.com/ankitrathi)*.*
+[*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
+
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
+
