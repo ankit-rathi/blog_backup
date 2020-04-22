@@ -1,25 +1,12 @@
-Title: DS/AI-SSH: Utilizing the Resources
-Date: 2019-05-06 11:09
-Author: ankitrathi
-Category: Uncategorized
-Tags: Artificial Intelligence, Data Science, Datadeft, Machine Learning
-Slug: ds-ai-ssh-utilizing-the-resources
-Status: published
+---
+toc: true
+layout: post
+description: How to build your career in DS/AI?
+categories: [markdown]
+title:  Utilizing the Resources
+---
 
 ![Photo by [Markus Spiske](https://unsplash.com/photos/Q0mDOn9gWk8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/resources?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*6AyOAQu0Q9ivgvfeY9MIRQ.jpeg)
-
-*In the last post, we learnt how to work on the building blocks in order to work on Data Science.*
-
-*This is the 5th post of blog post series ‘*[*DS/AI: Self-Starter Handbook*](https://medium.com/data-deft/data-science-self-starter-handbook-preview-236061f83925)*’, this post outlines the resources (mainly free except books) that DS/AI starters should refer. Following topics are covered here:*
-
--   *Books to refer*
--   *Courses to attend*
--   *Blogs to follow*
--   *Podcasts to listen*
--   *YouTube channels*
--   *Useful GitHub Repos*
-
-------------------------------------------------------------------------
 
 After getting to know DS/AI landscape and its building blocks in previous posts, you may ask which are the resources to refer, how do I know if a book or course is worth to spend time and/or money?
 
@@ -265,6 +252,6 @@ The focus here is on depth rather than breadth. Three areas are chosen — H
 
 ------------------------------------------------------------------------
 
-*In the next post, we will cover how you can build your portfolio in data science to highlight your knowledge and skills.*
+[*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
 
-*Thank you for reading my post. I regularly write about Data & Technology on* [*LinkedIn*](https://www.linkedin.com/today/posts/ankitrathi) *&* [*Medium*](https://medium.com/@rathi.ankit)*. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to listen to me on* [*SoundCloud*](https://soundcloud.com/ankitrathi)*.*
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
