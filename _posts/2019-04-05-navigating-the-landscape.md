@@ -1,24 +1,12 @@
-Title: DS/AI-SSH: Navigating the Landscape
-Date: 2019-04-05 14:07
-Author: ankitrathi
-Category: Uncategorized
-Tags: Artificial Intelligence, Data Science, Datadeft, Machine Learning
-Slug: ds-ai-ssh-navigating-the-landscape
-Status: published
+---
+toc: true
+layout: post
+description: How to get into DS/AI field?
+categories: [markdown]
+title:  Navigating the Landscape
+---
 
 ![Photo by [Rob Bates](https://unsplash.com/photos/0eLg8OTuCw0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/landscape?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*nRXKoM94e_l4rXhhJ1AYmA.jpeg)
-
-*In the last post, we learnt the big picture of this blog series, to know what is covered in which post.*
-
-*This is the 3rd post of blog post series ‘*[*DS/AI: Self-Starter Handbook*](https://medium.com/data-deft/data-science-self-starter-handbook-preview-236061f83925)*’, this post navigates the landscape of DS/AI for starters. Following topics are covered here:*
-
--   *Multi-disciplinary Field*
--   *Various Terminologies*
--   *Interconnection*
--   *Data Science Roles*
--   *Academia Vs Industry*
-
-------------------------------------------------------------------------
 
 DS/AI is a complex and evolving field. The first challenge a DS/AI aspirant faces is understanding the landscape and how he could navigate through it. Consider this, if you are travelling to a new city, and if you don’t have the map, you will have trouble to navigate the city and you will need to ask a lot of random people during your travel without knowing how much they know about the place. Similarly, all the newcomers to data science have this trouble, and there are two ways to deal with this, arrange the map (or a guide) or travel yourself and learn with experience.
 
@@ -157,6 +145,7 @@ Further, companies are often hesitant to hire people coming straight from academ
 
 ------------------------------------------------------------------------
 
-*In the next post, we will learn about the building blocks of DS-AI field.*
+[*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
 
-*Thank you for reading my post. I regularly write about Data & Technology on* [*LinkedIn*](https://www.linkedin.com/today/posts/ankitrathi) *&* [*Medium*](https://medium.com/@rathi.ankit)*. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to listen to me on* [*SoundCloud*](https://soundcloud.com/ankitrathi)*.*
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
+
