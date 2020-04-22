@@ -346,17 +346,6 @@
   
 
   
-      ,"page1": {
-          "title": "About Me",
-          "content": "Ankit Rathi is a data &amp; AI architect, published author &amp; well-known speaker. His interest lies primarily in building end to end AI applications/products following best practices of Data Engineering and Architecture. . Visit ankitrathi.com to know more… .",
-          "url": "https://ankit-rathi.github.io/data-and-ai/about/",
-          "relUrl": "/about/",
-          "date": ""
-      }
-      
-  
-
-  
 
   
   
@@ -378,7 +367,7 @@
   
 
   
-      ,"page10": {
+      ,"page9": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://ankit-rathi.github.io/data-and-ai/robots.txt",
