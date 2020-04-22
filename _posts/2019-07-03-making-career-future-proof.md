@@ -1,25 +1,12 @@
-Title: DS/AI-SSH: Making Career Future-Proof
-Date: 2019-07-03 17:51
-Author: ankitrathi
-Category: Uncategorized
-Tags: Artificial Intelligence, Data Science, Education, Future Proofing, Machine Learning
-Slug: ds-ai-ssh-making-career-future-proof
-Status: published
+---
+toc: true
+layout: post
+description: DS/AI Self-Starter Series
+categories: [markdown]
+title:  Making Career Future-Proof
+---
 
 ![Photo by [Linus Ekenstam](https://unsplash.com/@linusekenstam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/future-proof?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*5HbmG34OlWmWJsMs-tXjvA.jpeg)
-
-*In the last post, we learnt how to network and look for a job in DS/AI field.*
-
-*This is the 8th post of blog post series ‘*[*DS/AI: Self-Starter Handbook*](https://medium.com/data-deft/data-science-self-starter-handbook-preview-236061f83925)*’, this post details out how DS/AI starters can make their career future-proof. Following topics are covered here:*
-
--   *Build ‘Evolve’ Mindset*
--   *Hone Core Skills*
--   *Develop Soft Skills*
--   *Maintain Digital Portfolio*
--   *Expand Network Globally*
--   *Monitor Industry Trends*
-
-------------------------------------------------------------------------
 
 This blog-post talks about how you can make you DS/AI career future proof. Lets first understand, why this is required? So what exactly does it mean to future proof your career?
 
@@ -31,7 +18,7 @@ Follow these six steps and you will secure your place in the workforce alongside
 
 ![](https://cdn-images-1.medium.com/max/800/1*CL73ClpACXZd8XqJ5gbtLg.png)
 
-### *Build ‘Evolve’ Mindset*
+## *Build ‘Evolve’ Mindset*
 
 ![](https://cdn-images-1.medium.com/max/800/1*r5h-xeKGrVOIZbZYBhoXJQ.png)
 
@@ -45,7 +32,7 @@ First, you can prepare for the future like you are doing today and be ready to c
 
 One of the best ways to build the confidence necessary for this new technology-driven world is to level-up your digital skill-set.
 
-### *Hone Core Skills*
+## *Hone Core Skills*
 
 ![Photo by [Jo Szczepanska](https://unsplash.com/@joszczepanska?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/1445889/essential-skills?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/800/1*VAscktGgY5aT4-BuKhvn5Q.jpeg)
 
@@ -57,7 +44,7 @@ You should continue to acquire new relevant skills as well— especially ones wh
 
 The best way professionals can do this is by enrolling in online courses or you can also learn on your own. Like degrees, don’t focus on collecting training certificates but try to gain hands-on learning as much as you can.
 
-### *Develop Soft Skills*
+## *Develop Soft Skills*
 
 ![Photo by [Tim Gouw](https://unsplash.com/@punttim?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/collections/1276243/soft-skills?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/800/1*z_8tiXSzygrOwlWXC0wxUw.jpeg)
 
@@ -67,7 +54,7 @@ You may be able to train a robot to automate the technical skills of your job, b
 
 The key is to consciously try to improve on your soft-skills. Fortunately, you can also hone your soft skills with online classes so you can be more proactive in this department too.
 
-### Maintain Digital Portfolio
+## Maintain Digital Portfolio
 
 ![Photo by [Joanna Kosinska](https://unsplash.com/@joannakosinska?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/photos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/800/1*9NM7A9rdbJQUiyCiYkZX6Q.jpeg)
 
@@ -79,7 +66,7 @@ This guarantees that you never forget to highlight something and you’ll always
 
 It is also a great idea to keep your performance reviews here, both the good ones and the bad. You can always refer back to these anytime you need a pick-me-up or if you want to narrow down your specific areas needing improvement.
 
-### Expand Network Globally
+## Expand Network Globally
 
 ![Photo by [MD Duran](https://unsplash.com/@mdesign85?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/networking?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/800/1*YMYV5DQd21fgF5S-m6QFOg.jpeg)
 
@@ -91,7 +78,7 @@ To stay in touch with these global members of your team, you will want to become
 
 If you get an opportunity to relocate or take on an international project, go for it and give you a leg up on your competition, it will go a long way to future-proofing your career too.
 
-### *Monitor Industry Trends*
+## *Monitor Industry Trends*
 
 ![Photo by [Stephen Dawson](https://unsplash.com/@srd844?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/trends?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/800/1*Cc8exApLG6iB4ftp_l_qBQ.jpeg)
 
@@ -109,6 +96,7 @@ Either way, follow these steps and you’ll ensure your career — both now 
 
 ------------------------------------------------------------------------
 
-*In the next post, we will put together all that we have learnt and review if we are where we planned to reach.*
 
-*Thank you for reading my post. I regularly write about Data & Technology on* [*LinkedIn*](https://www.linkedin.com/today/posts/ankitrathi) *&* [*Medium*](https://medium.com/@rathi.ankit)*. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also, feel free to listen to me on* [*SoundCloud*](https://soundcloud.com/ankitrathi)*.*
+[*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
+
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
