@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-24T06:49:33-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">AI Sells, Data Delivers!</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/25/AI-Sells-Data-Delivers.html" rel="alternate" type="text/html" title="AI Sells, Data Delivers!" /><published>2020-04-25T00:00:00-05:00</published><updated>2020-04-25T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/25/AI-Sells-Data-Delivers</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/25/AI-Sells-Data-Delivers.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*oneAF1ru_QWnIb775r0wmw.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-26T02:52:25-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">AI Sells, Data Delivers!</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/25/AI-Sells-Data-Delivers.html" rel="alternate" type="text/html" title="AI Sells, Data Delivers!" /><published>2020-04-25T00:00:00-05:00</published><updated>2020-04-25T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/25/AI-Sells-Data-Delivers</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/25/AI-Sells-Data-Delivers.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*oneAF1ru_QWnIb775r0wmw.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -119,7 +119,7 @@ I hope you find this post useful, stay tuned for more, any feedback would be hig
 
 &lt;p&gt;Whether you are responsible for data, systems or application architecture, you need to define some principles to help you navigate the fast-paced modern world. Data Architecture Principles are the foundation for data architecture that will allow your business to run at an optimized level today, and into the future.&lt;/p&gt;
 
-&lt;h2 id=&quot;adhere-to-adda-accessibility-definition-decoupling-agility&quot;&gt;Adhere to ADDA (Accessibility, Definition, Decoupling, Agility)&lt;/h2&gt;
+&lt;h3 id=&quot;adhere-to-adda-accessibility-definition-decoupling-agility&quot;&gt;Adhere to ADDA (Accessibility, Definition, Decoupling, Agility)&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*nUhGoJeLJvDz8B8mcAlgig.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -139,7 +139,7 @@ I hope you find this post useful, stay tuned for more, any feedback would be hig
 
 &lt;p&gt;So the first data architecture principle is to make sure that business data is accessible, defined, decoupled and agile.&lt;/p&gt;
 
-&lt;h2 id=&quot;design-for-rsm-reliability-scalability-maintainability&quot;&gt;Design for RSM (Reliability, Scalability, Maintainability)&lt;/h2&gt;
+&lt;h3 id=&quot;design-for-rsm-reliability-scalability-maintainability&quot;&gt;Design for RSM (Reliability, Scalability, Maintainability)&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*B5TsIF4HDMEo_JRuMHOhWw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -150,16 +150,16 @@ I hope you find this post useful, stay tuned for more, any feedback would be hig
 
 &lt;p&gt;Second data architecture principle is that the data systems remain reliable, scalable and maintainable over time.&lt;/p&gt;
 
-&lt;h2 id=&quot;use-right-tools&quot;&gt;Use Right Tools&lt;/h2&gt;
+&lt;h3 id=&quot;use-right-tools&quot;&gt;Use Right Tools&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*lfW4KerKIMivkID8Cc9noA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We need to use the right tool at each data layer by aligning the choice to the data structure, latency and throughput requirements and access patterns.&lt;/p&gt;
 
-&lt;h2 id=&quot;cloud-nativeagnostic&quot;&gt;Cloud-Native/Agnostic&lt;/h2&gt;
+&lt;h3 id=&quot;cloud-nativeagnostic&quot;&gt;Cloud-Native/Agnostic&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*_I3Ge-AIWtFBvyH7_21IUw.png&quot; alt=&quot;&quot; /&gt;
 Whether you have the data on-premise or you are using single/multiple cloud service providers, each decision has its own pros &amp;amp; cons.&lt;/p&gt;
 
-&lt;h2 id=&quot;be-cost-conscious&quot;&gt;Be Cost-Conscious&lt;/h2&gt;
+&lt;h3 id=&quot;be-cost-conscious&quot;&gt;Be Cost-Conscious&lt;/h3&gt;
 &lt;p&gt;Cost of building complex and ever-evolving data systems can be huge, we need to make sure we use available resources efficiently.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Efficient consumption of services&lt;/li&gt;
