@@ -12,7 +12,7 @@ title:  Architecting Modern Data Platforms
 
 Whether you are responsible for data, systems or application architecture, you need to define some principles to help you navigate the fast-paced modern world. Data Architecture Principles are the foundation for data architecture that will allow your business to run at an optimized level today, and into the future.
 
-## Adhere to ADDA (Accessibility, Definition, Decoupling, Agility)
+### Adhere to ADDA (Accessibility, Definition, Decoupling, Agility)
 ![](https://cdn-images-1.medium.com/max/800/1*nUhGoJeLJvDz8B8mcAlgig.png)
 
 - Data Accessibility is critical for the success of any business. Easily accessible data enables you to move quickly, focus on the product, and build a data-informed pipeline where data leads to better decisions and actions.
@@ -25,7 +25,7 @@ Whether you are responsible for data, systems or application architecture, you n
 
 So the first data architecture principle is to make sure that business data is accessible, defined, decoupled and agile.
 
-## Design for RSM (Reliability, Scalability, Maintainability)
+### Design for RSM (Reliability, Scalability, Maintainability)
 ![](https://cdn-images-1.medium.com/max/800/1*B5TsIF4HDMEo_JRuMHOhWw.png)
 
 - Reliability means the data systems we are designing work correctly and fault-tolerant up to some level.
@@ -34,16 +34,16 @@ So the first data architecture principle is to make sure that business data is a
 
 Second data architecture principle is that the data systems remain reliable, scalable and maintainable over time.
 
-## Use Right Tools
+### Use Right Tools
 ![](https://cdn-images-1.medium.com/max/800/1*lfW4KerKIMivkID8Cc9noA.png)
 
 We need to use the right tool at each data layer by aligning the choice to the data structure, latency and throughput requirements and access patterns.
 
-## Cloud-Native/Agnostic
+### Cloud-Native/Agnostic
 ![](https://cdn-images-1.medium.com/max/800/1*_I3Ge-AIWtFBvyH7_21IUw.png)
 Whether you have the data on-premise or you are using single/multiple cloud service providers, each decision has its own pros & cons.
 
-## Be Cost-Conscious
+### Be Cost-Conscious
 Cost of building complex and ever-evolving data systems can be huge, we need to make sure we use available resources efficiently.
 - Efficient consumption of services
 - Select cost-conscious options
