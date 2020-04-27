@@ -18,7 +18,7 @@ AI is leaping all around us everywhere we look, both in areas that border on sci
 Apart from the context of the domain where AI is being applied, there are three main components of AI:
 ![](https://cdn-images-1.medium.com/max/1200/1*nqj3UWtlGvTq8oy2m0c10w.png)
 
-Three Components of AIThe first one is the AI algorithm itself. Open-source machine learning libraries like Keras, Theano and TensorFlow have shed a lot of the low-level complexity involved in designing and building AI applications. These tools are free, well documented and supported by vibrant communities. The availability of these tools has made building AI applications far more accessible to developers.
+The first one is the AI algorithm itself. Open-source machine learning libraries like Keras, Theano and TensorFlow have shed a lot of the low-level complexity involved in designing and building AI applications. These tools are free, well documented and supported by vibrant communities. The availability of these tools has made building AI applications far more accessible to developers.
 
 The second one is computing power, both in the form of raw CPU power and large scale data storage solutions. Cloud services like Amazon Web Services, Google Cloud, Microsoft Azure and others make renting servers, virtual machines and big data tools are as simple as pushing a few buttons.
 
@@ -58,40 +58,40 @@ AI applications improve as they gain more experience (means more data) but prese
 ## Preparing data for AI
 While your organisation may not be at the stage where you are able to start building AI applications, at the least you should be preparing for a future where your data will be utilised to power smart solutions. Treat every new initiative or project as an opportunity to build a foundation for future data models.
 
-## Data Collection
+### Data Collection
 This aspect has become crucial in light of the GDPR legislation. Are there clear and followed guidelines about what and why data is collected when a new feature or product is being developed? Does that data have a purpose or is it being collected just like that?
 
-## Data Format
+### Data Format
 When you are collecting data, is it being saved in a usable format across all our data collection touchpoints? Are the field names the same? Is the same level of validation and error checking applied across products?
 
-## Data Storage
+### Data Storage
 Data needs to be flowing into data stores and be available in real-time to all areas of the business. Given that AI applications usually become more reliable the more they can correlate different sources of information, siloed data sets that are hard to access become an obstacle to discovering value in an organisation's data.
 
-## Data Literacy
+### Data Literacy
 AI is basically biased in how it was created, trained, programmed. One of the most significant things for AI to be successful is that executives and decision-makers have the data literacy to beat up the model, to challenge the model, to massage the model and to fully understand what the underlying assumptions are to make sure the answer it produces actually matches the terrain that you want to operate in. What's vital to get the best predictive models and forward-looking insights is that the data informing them comes from a variety of external sources.
 
-## More Data
+### More Data
 Just like humans, AI applications improve with more experience. Data provides examples essential to train models that can perform predictions and classifications. A good example of this is in image recognition. The availability of data through ImageNet transformed the pace of change in image understanding and led to computers reaching human-level performance. A general rule of thumb is that you need 10 times as much data as the number of parameters (i.e., degrees of freedom) in the model being built. The more complicated the task, the more data needed.
 
-## Data Understanding
+### Data Understanding
 For cooking the perfect meal, it's great to know the tastes of your diners. Similarly, data is essential to tailoring an AI model to the wants of specific users. We need to learn how users use their applications and search content in order to generate meaningful personalized recommendations.
 
 By knowing what content users read, download and collect, we can give them advice on potential content of interest. Furthermore, techniques such as collaborative filtering, which make suggestions based on the similarity between users, improve with access to more data; the more user data one has, the more likely it is that the algorithm can find a similar a user.
 
-## Diverse Data
+### Diverse Data
 A key problem in building AI models is overfitting - this is, where the model focuses too specifically on the examples given. For instance, if a model is trying to learn to recognize chairs and has only been shown standard dining chairs with four legs, it may learn that chairs are defined by having four legs. If the model is then shown a desk chair with just one pillar, it wouldn't recognize it. Having diverse data helps combat this problem.
 
 During training, the AI model can view more examples of different types of things. This is particularly valuable in working with data about people, where there can be the potential for algorithmic bias against people from diverse backgrounds. This point was made by Prof. Dame Wendy Hall in her interview at the World Summit AI. Prof. Hall focused on the need to make sure that AI was trained on diverse datasets. A good example of combating this through data is the lengths that Apple went to in training their new Face ID recognition algorithm.
 
-## External Data
+### External Data
 As the race to implement AI tools at an enterprise-level reaches new heights, it's important to note that the data informing those tools is of paramount importance. Relying only on internal information to inform algorithms will produce insights gleaned only from the information you already have. Rather, it's vital that decision-makers also look to insights from external data for a much more comprehensive and unbiased view of their customers and industry landscape.
 
-## Hypothesis Testing
+### Hypothesis Testing
 Even in cases where techniques can be used that require less training data, more data makes it easier to test AI systems. An example of this is A/B testing. This is where a developer takes a small amount of traffic to a site and tests to see whether a new recommendation engine or search algorithm performs better on that small set of traffic.
 
 The more traffic (means data), the easier it is to test multiple algorithms or variants. At the World AI Summit, Netflix explained how they use A/B testing to select artwork that maximizes the engagement with films and TV series on Netflix.
 
-## Data Reusability
+### Data Reusability
 Finally, it is usually the case that data can be reused for different applications. For example, a technique called transfer learning allows data developed for one domain to be applied to another domain. Moreover, recent work has revealed that background knowledge can further improve on tasks like object detection in images. Recent work from Google has shown how training using data designated for a different task like image recognition can help performance on another completely different task like language translation.
 
 ## Conclusion
