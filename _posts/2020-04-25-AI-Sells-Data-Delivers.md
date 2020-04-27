@@ -11,8 +11,9 @@ title: "AI Sells, Data Delivers!"
 ---
 
 ## Context
-The world is advancing at a faster pace and new technologies are coming up to reshape the business world and society. One of these emerging technologies is Artificial Intelligence (AI). Artificial Intelligence has gained momentum in the world like other technologies such as the Internet of Things (IoT), Blockchain, 3D printing, Robotics etc.
-AI is leaping all around us everywhere we look, both in areas that border on science fiction, like self-driving cars to the more ordinary tasks like what show should I watch on Netflix/Amazon. AI is continuing to have an enormous influence on almost every walk of life, from businesses to civilisation. With these technologies, the business will gain the vigour needed to solve problems that humans can't possibly solve.
+The world has advanced at a faster pace and new technologies are reshaping the business world and society. One of these emerging technologies, Artificial Intelligence (AI), has gained immense momentum in the world like other technologies such as the IoT, Blockchain, 3D printing, Robotics etc.
+
+AI is all around us these days, both in areas that border on science fiction, like self-driving cars to the more ordinary tasks like what show should you watch or purchase next. AI is influencing almost every walk of life, from businesses to society. With these technologies, the business will gain more agility needed to solve problems that humans can’t possibly solve.
   
 ## Three Components of AI
 Apart from the context of the domain where AI is being applied, there are three main components of AI:
@@ -42,7 +43,10 @@ During the global launch of the Outside Insight book, author and Meltwater CEO J
 
 Similarly, Monica Rogati's Data Science Hierarchy of Needs is a pyramid showing what's necessary to add intelligence to the production system. At the bottom is the need to gather the right data, in the right formats and systems, and in the right quantity. Any application of AI and ML will only be as good as the quality of data collected.
 
-Source: https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007In the growing AI market, International Data Corporation (IDC) predicts global spending is expected to increase 50% per year, to a total of $57.6 billion by 2021. Business leaders are catching on to the importance of implementing an AI strategy globally. However, it's not enough just to introduce AI-driven tools; you need the right data inputs to find valuable insights.
+![](https://cdn-images-1.medium.com/max/1200/0*gMTiDUjK4OFz2KHA.jpg)
+Source: https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007
+
+In the growing AI market, International Data Corporation (IDC) predicts global spending is expected to increase 50% per year, to a total of $57.6 billion by 2021. Business leaders are catching on to the importance of implementing an AI strategy globally. However, it's not enough just to introduce AI-driven tools; you need the right data inputs to find valuable insights.
 
 ## Importance of Data
 A lot has been written about AI recently, but one element that is often not stressed is the value data plays in allowing AI to function. Take self-driving cars - probably the most recognized application of AI. Building a self-driving car requires a humongous amount of data ranging from signals from infrared sensors, images from digital cameras, and high-resolution maps. NVIDIA estimates that one self-driving car generates 1 TB per hour of raw data. All that data is then used in the development of the AI models that actually drive the car.
