@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-30T04:15:44-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">From Data To Actionable Insights</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/30/From-Data-To-Actionable-Insights.html" rel="alternate" type="text/html" title="From Data To Actionable Insights" /><published>2020-04-30T00:00:00-05:00</published><updated>2020-04-30T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/30/From-Data-To-Actionable-Insights</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/30/From-Data-To-Actionable-Insights.html">&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/2000/1*vJu3xpSgK6X0T_jfUnh5_A.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-30T04:21:10-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">From Data To Actionable Insights</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/30/From-Data-To-Actionable-Insights.html" rel="alternate" type="text/html" title="From Data To Actionable Insights" /><published>2020-04-30T00:00:00-05:00</published><updated>2020-04-30T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/30/From-Data-To-Actionable-Insights</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/30/From-Data-To-Actionable-Insights.html">&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/2000/1*vJu3xpSgK6X0T_jfUnh5_A.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Data is the new oil, AI is the new electricity.&lt;/p&gt;
@@ -55,7 +55,7 @@ To draw insights from data, we may need to clean, impute, analyse, transform, ag
 &lt;p&gt;Apart from raw data, we may need to store intermediate data or derived insights in order to consume it later. Hence processing, analysis and storage functions may be used iteratively.&lt;/p&gt;
 
 &lt;h2 id=&quot;data-service&quot;&gt;Data Service&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*qVM7MkscynGujkc0Z0opGQ.png&quot; alt=&quot;&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*zyfDIQmeGwoDrkKie5Q6bA.png&quot; alt=&quot;&quot; /&gt;
 Actionable insights have to be consumed by business stakeholders and customers. Data service function takes care of hosting these insights. The type of data service can be APIs, KPI reports/dashboards, notebooks and development environments.&lt;/p&gt;
 
 &lt;h2 id=&quot;cloud-services&quot;&gt;Cloud Services&lt;/h2&gt;
@@ -65,7 +65,7 @@ All the above functions (as well as DevOps &amp;amp; Governance functions) can b
 &lt;p&gt;Type of cloud services is available as follows: IaaS, PaaS &amp;amp; SaaS. Major cloud providers in Data &amp;amp; AI area are AWS, Azure &amp;amp; GCP. We will learn more about these terms in upcoming posts.&lt;/p&gt;
 
 &lt;h2 id=&quot;devops&quot;&gt;DevOps&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*2fGS-Ja0FBLpZkOMS9RbOA.png&quot; alt=&quot;&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*RoVBPnm9SAYPfB6ibAI2Rw.png&quot; alt=&quot;&quot; /&gt;
 The term DevOps is a combination of two words namely Development and Operations. DevOps is a function that allows a single team to manage the entire application development life cycle, that is, development, testing, deployment, and monitoring.&lt;/p&gt;
 
 &lt;p&gt;The ultimate goal of DevOps is to decrease the duration of the system’s development life cycle while delivering features, fixes, and updates frequently in close synchronization with business objectives.&lt;/p&gt;
@@ -75,7 +75,7 @@ The term DevOps is a combination of two words namely Development and Operations.
 &lt;p&gt;Notable tools in DevOps area are Git, Jenkins, Kubernetes, Chef, Nagios etc.&lt;/p&gt;
 
 &lt;h2 id=&quot;governance&quot;&gt;Governance&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*2fGS-Ja0FBLpZkOMS9RbOA.png&quot; alt=&quot;&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*LTMRYLWKLJG8B2aGNcTgVg.png&quot; alt=&quot;&quot; /&gt;
 Data governance is a function to manage the availability, usability, integrity and security of the data in enterprise systems, based on internal data standards and policies that also control data usage. Effective data governance ensures that data is consistent and trustworthy and doesn’t get misused.&lt;/p&gt;
 
 &lt;p&gt;This function also includes other concepts such as Data Stewardship, Data Quality, and others to help an enterprise gain better control over its data assets, including methods, technologies, and behaviours around the proper management of data.&lt;/p&gt;
