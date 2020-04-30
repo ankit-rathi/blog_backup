@@ -8,7 +8,7 @@ title: From Data To Actionable Insights
 
 ![](https://miro.medium.com/max/2000/1*vJu3xpSgK6X0T_jfUnh5_A.png)
 
-> ## Data is the new oil, AI is the new electricity.
+> Data is the new oil, AI is the new electricity.
 
 You may keep hearing these terms of late. As Data & AI field is gaining immense traction, every organization or business is looking to make the most of the opportunities available to them.
 
@@ -18,7 +18,7 @@ If you are working on a one-off project in the AI/ML area, it is fine to just ge
 
 In this article, I would like to show you the typical design of data-intensive applications using a data platform.
 
-> *Data & AI being a vast field having many sub-fields, a single post is not enough to explain each component to sufficient depth, so I will cover the in-depth view of each component/function in upcoming posts.*
+> Data & AI being a vast field having many sub-fields, a single post is not enough to explain each component to sufficient depth, so I will cover the in-depth view of each component/function in upcoming posts.
 
 
 ## Data & Actionable Insights
