@@ -1,9 +1,9 @@
 ---
 toc: true
 layout: post
-description: Importance of data in the age of fancy AI algorithms
+description: A series of blog-posts on Data & AI Platform Concepts
 categories: [markdown]
-title: "AI Sells, Data Delivers!"
+title: From Data To Actionable Insights
 ---
 
 ![](https://miro.medium.com/max/2000/1*vJu3xpSgK6X0T_jfUnh5_A.png)
