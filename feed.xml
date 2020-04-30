@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-27T02:43:29-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">AI Sells, Data Delivers!</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/25/AI-Sells-Data-Delivers.html" rel="alternate" type="text/html" title="AI Sells, Data Delivers!" /><published>2020-04-25T00:00:00-05:00</published><updated>2020-04-25T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/25/AI-Sells-Data-Delivers</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/25/AI-Sells-Data-Delivers.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*oneAF1ru_QWnIb775r0wmw.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-04-30T04:09:29-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">AI Sells, Data Delivers!</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/30/From-Data-To-Actionable-Insights.html" rel="alternate" type="text/html" title="AI Sells, Data Delivers!" /><published>2020-04-30T00:00:00-05:00</published><updated>2020-04-30T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/30/From-Data-To-Actionable-Insights</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/30/From-Data-To-Actionable-Insights.html">&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/2000/1*vJu3xpSgK6X0T_jfUnh5_A.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;h2 id=&quot;data-is-the-new-oil-ai-is-the-new-electricity&quot;&gt;Data is the new oil, AI is the new electricity.&lt;/h2&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You may keep hearing these terms of late. As Data &amp;amp; AI field is gaining immense traction, every organization or business is looking to make the most of the opportunities available to them.&lt;/p&gt;
+
+&lt;p&gt;Many of you may be working on relevant projects as well, where you collect, store, process, analyse data, and serve the insights to business stakeholders. Some of you may be using the latest ML/AI techniques in your projects and may be aware of CRISP-DM technique.&lt;/p&gt;
+
+&lt;p&gt;If you are working on a one-off project in the AI/ML area, it is fine to just get the work done but if you have many use-cases, it makes sense to have a streamlined approach, for data ingestion, storage, processing and service, so that common resources (data, pipelines, infra etc) can be used across use cases. That’s where design, architecture &amp;amp; governance come into the picture.&lt;/p&gt;
+
+&lt;p&gt;In this article, I would like to show you the typical design of data-intensive applications using a data platform.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Data &amp;amp; AI being a vast field having many sub-fields, a single post is not enough to explain each component to sufficient depth, so I will cover the in-depth view of each component/function in upcoming posts.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;data--actionable-insights&quot;&gt;Data &amp;amp; Actionable Insights&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*T1WfVLbR0uwfNzBEhQBmtw.png&quot; alt=&quot;&quot; /&gt;
+On the highest level of abstraction, you can see a data &amp;amp; AI system as a black box, where data goes in and actionable insights come out. Let’s look at what’s there in this black-box.&lt;/p&gt;
+
+&lt;h2 id=&quot;core--support-functions&quot;&gt;Core &amp;amp; Support Functions&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*AX1iXOcu0SFMKPVd21rvLA.png&quot; alt=&quot;&quot; /&gt;
+If you look into this black-box, you can see that there are some core functions and some support functions to transform data into actionable insights. Core functions work on data while support functions manage and optimize core functions.&lt;/p&gt;
+
+&lt;h2 id=&quot;understanding-the-big-picture&quot;&gt;Understanding the Big Picture&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*yqeLNbPxe1BlrQk-z0__Iw.png&quot; alt=&quot;&quot; /&gt;
+In a typical data analytics platform, there are four core functions and three support functions. Core functions provide functional requirements while support functions facilitate the non-functional requirements.&lt;/p&gt;
+
+&lt;p&gt;As part of core functions, data is ingested, stored, processed, analysed and served to business stakeholders to fulfil Data &amp;amp; AI use cases.&lt;/p&gt;
+
+&lt;p&gt;Support functions take care of infrastructure, security, performance, scalability and delivery aspects of these use cases.&lt;/p&gt;
+
+&lt;p&gt;Let’s have a look at each one of them:&lt;/p&gt;
+
+&lt;h2 id=&quot;data-ingestion&quot;&gt;Data Ingestion&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*CrN_yrcBei0le6t_4mHf2g.png&quot; alt=&quot;&quot; /&gt;
+Data Ingestion deals with all the challenges related to incoming data. Its a framework that makes it easier to collect and integrate data from different types of data sources and support different types of data transport protocols.&lt;/p&gt;
+
+&lt;p&gt;Some of the challenges faced here are: multiple source ingestion, managing streaming/real-time data, speed of ingestion, change detection.&lt;/p&gt;
+
+&lt;h2 id=&quot;data-storage&quot;&gt;Data Storage&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*DQF7xxPaLroHsoCCahxHWw.png&quot; alt=&quot;&quot; /&gt;
+Once you have ingested data into your platform, you need to store it somewhere. There are different types of storages/databases and we select specific storages/databases keeping various factors in mind like data type, ingestion type, processing and request types.&lt;/p&gt;
+
+&lt;p&gt;Notable storage types used in typical data platforms are file storage, Databases, Data Warehouses, Data Lakes, Delta Lakes, Data Mesh etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;data-processing--analysis&quot;&gt;Data Processing &amp;amp; Analysis&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*qVM7MkscynGujkc0Z0opGQ.png&quot; alt=&quot;&quot; /&gt;
+To draw insights from data, we may need to clean, impute, analyse, transform, aggregate it. We may need to build meaningful features in order to build useful models. All these activities are taken care of in this function.&lt;/p&gt;
+
+&lt;p&gt;Data engineering, Big Data processing, Business Intelligence, Machine Learning and Artificial Intelligence capabilities are applied to the data as part of this function.&lt;/p&gt;
+
+&lt;p&gt;Apart from raw data, we may need to store intermediate data or derived insights in order to consume it later. Hence processing, analysis and storage functions may be used iteratively.&lt;/p&gt;
+
+&lt;h2 id=&quot;data-service&quot;&gt;Data Service&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*qVM7MkscynGujkc0Z0opGQ.png&quot; alt=&quot;&quot; /&gt;
+Actionable insights have to be consumed by business stakeholders and customers. Data service function takes care of hosting these insights. The type of data service can be APIs, KPI reports/dashboards, notebooks and development environments.&lt;/p&gt;
+
+&lt;h2 id=&quot;cloud-services&quot;&gt;Cloud Services&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*2fGS-Ja0FBLpZkOMS9RbOA.png&quot; alt=&quot;&quot; /&gt;
+All the above functions (as well as DevOps &amp;amp; Governance functions) can be built on-premise as well as on-cloud. Due to various benefits in terms of infrastructure, platform &amp;amp; application, the cloud has become go to support function for almost all the technology requirements.&lt;/p&gt;
+
+&lt;p&gt;Type of cloud services is available as follows: IaaS, PaaS &amp;amp; SaaS. Major cloud providers in Data &amp;amp; AI area are AWS, Azure &amp;amp; GCP. We will learn more about these terms in upcoming posts.&lt;/p&gt;
+
+&lt;h2 id=&quot;devops&quot;&gt;DevOps&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*2fGS-Ja0FBLpZkOMS9RbOA.png&quot; alt=&quot;&quot; /&gt;
+The term DevOps is a combination of two words namely Development and Operations. DevOps is a function that allows a single team to manage the entire application development life cycle, that is, development, testing, deployment, and monitoring.&lt;/p&gt;
+
+&lt;p&gt;The ultimate goal of DevOps is to decrease the duration of the system’s development life cycle while delivering features, fixes, and updates frequently in close synchronization with business objectives.&lt;/p&gt;
+
+&lt;p&gt;It consists of various stages such as continuous development, continuous integration, continuous testing, continuous deployment, and continuous monitoring.&lt;/p&gt;
+
+&lt;p&gt;Notable tools in DevOps area are Git, Jenkins, Kubernetes, Chef, Nagios etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;governance&quot;&gt;Governance&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*2fGS-Ja0FBLpZkOMS9RbOA.png&quot; alt=&quot;&quot; /&gt;
+Data governance is a function to manage the availability, usability, integrity and security of the data in enterprise systems, based on internal data standards and policies that also control data usage. Effective data governance ensures that data is consistent and trustworthy and doesn’t get misused.&lt;/p&gt;
+
+&lt;p&gt;This function also includes other concepts such as Data Stewardship, Data Quality, and others to help an enterprise gain better control over its data assets, including methods, technologies, and behaviours around the proper management of data.&lt;/p&gt;
+
+&lt;h2 id=&quot;putting-it-all-together&quot;&gt;Putting It All Together&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*vR8dBkIDd_E6OvISB4vFNw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;so-this-post-though-it-was-a-high-level-view-we-learnt-about-how-actionable-insights-are-generated-from-data-i-believe-you-found-this-post-helpful-we-will-dive-deeper-into-the-above-componentsfunctions-in-upcoming-posts&quot;&gt;So this post, though it was a high-level view, we learnt about how actionable insights are generated from data. I believe you found this post helpful, we will dive deeper into the above components/functions in upcoming posts.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;Ankit Rathi&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt; &lt;a href=&quot;https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw&quot;&gt;&lt;em&gt;YouTube&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;or&lt;/em&gt; &lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">AI Sells, Data Delivers!</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/25/AI-Sells-Data-Delivers.html" rel="alternate" type="text/html" title="AI Sells, Data Delivers!" /><published>2020-04-25T00:00:00-05:00</published><updated>2020-04-25T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/25/AI-Sells-Data-Delivers</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/25/AI-Sells-Data-Delivers.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*oneAF1ru_QWnIb775r0wmw.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1567,422 +1657,4 @@ Status: published&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;Ankit Rathi&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;or&lt;/em&gt; &lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Want to learn more? visit www.ankitrathi.com Artificial Intelligence (AI) is a complex and evolving field. The first challenge an AI aspirant faces is understanding the landscape and how he could navigate through it. Consider this, if you are travelling to a new city, and if you don’t have the map, you will have trouble to navigate the city and you will need to ask a lot of random people during your travel without knowing how much they know about the place. Similarly, all the newcomers to AI have this trouble, and there are two ways to deal with this, arrange the map (or a guide) or travel yourself and learn with experience. Note: AI &amp;amp; DS/AI terms are used interchangeably in the article where DS means Data Science. This post intends to serve as a map of Artificial Intelligence field. You might have heard data science, machine learning, deep learning, artificial intelligence etc terminology but might not be fully aware of these terms, what to use when and how these topics are interconnected. After going through this post, you should be able to understand what is where in the AI field. Multi-disciplinary field AI is a multidisciplinary field with sub-fields of study in Math/Statistics, CS/IT &amp;amp; Business/Domain knowledge. Math/Statistics is required to understand the data and relationship between data elements. CS/IT skills are required to process the data to generate insights. And Business or domain knowledge is required to apply above to skills in the context of a business problem. Computer Science/IT Programming is an essential skill to become a data scientist but one needs not be a hard-core programmer to learn AI. Having familiarity with basic concepts of programming will ease the process of learning AI programming tools like Python/R. These basic concepts of programming should help a candidate get a long way on the journey to pursue a career in AI as it is all about writing efficient code to analyse big data and not being a master of programming. Individuals should learn the basics of programming in Python/R (or any relevant language) before they begin to work on AI problems/projects. Maths &amp;amp; Statistics AI teams have people from diverse backgrounds like chemical engineering, physics, economics, statistics, mathematics, operations research, computer science, etc. You will find many data scientists with a bachelor’s degree in statistics and machine learning but it is not a requirement to learn AI. However, having familiarity with the basic concepts of Math and Statistics like Linear Algebra, Calculus, Probability, etc. is important to learn AI. Domain/Business Knowledge Subsequently, the business knowledge that the data scientists would need to have would be related to the domain that the project/analysis is in. For instance, if the data scientist is working for a credit card department in a bank, it will need to understand the specific business definitions, regulations, accounting policies &amp;amp; international standards, processes etc. This is the part that is more specific to the organization the data scientist is deployed in. In my view, one thing to take care while the hiring data scientists is not to give huge preference to domain knowledge. This may severely limit the supply of AI talents to the organization. You would have a better chance of getting more value from AI by looking for those that are strong in math &amp;amp; programming, being able to convert business objectives to mathematical models. Based on my observation, this is a much more difficult skill to find or train, as compared to domain knowledge. Various Terminologies As an AI starter, you will come across many similar terminologies. First thing you need to do is to understand what each term means and where each fits in the bigger picture. Data Science, Business Intelligence, Data Mining, Machine Learning, Deep Learning, Artificial Intelligence; let’s have a look at Wikipedia definition for each term &amp;amp; later see how these are interconnected. Data Science Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured, like data mining. Business Intelligence Business intelligence comprises the strategies and technologies used by enterprises for the data analysis of business information. BI technologies provide historical, current and predictive views of business operations. Data Mining Data mining is the process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems. Machine Learning Machine learning is the scientific study of algorithms and statistical models that computer systems use to progressively improve their performance on a specific task. Deep Learning Deep learning is part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms. Artificial Intelligence Artificial intelligence, sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals. Interconnection Data mining uses statistics and other programming languages to find hidden patterns in the data to explain a certain phenomenon. It helps in building a perception about the data using both math and programming. Machine Learning deploys data mining techniques as well as other algorithms to develop models of what is happening behind some data to forecast future outcomes. Artificial Intelligence uses models developed by Machine Learning and other algorithms to lead to intelligent behaviour. AI is very much programming based. Data Mining demonstrates patterns Machine Learning forecasts with models Artificial Intelligence shapes behaviours So you see that these terms are different but still inter-connected. Roles in Artificial Intelligence Before looking into the skill-set of a data scientist, let’s have a look at various roles required to work and deliver a AI project, after all, it’s a teamwork. Every role has its own skills that are critical to AI projects at various stages. Data Scientist A data scientist is someone who knows how to extract meaning from and interpret data, which requires both tools and methods from statistics and machine learning. She spends a lot of time in the process of collecting, cleaning, and munging data. Domain knowledge is also an integral part of the skill. Machine Learning/AI Engineer Machine learning/AI engineers are sophisticated programmers who develop machines and systems that can learn and apply knowledge without specific domain requirement. Data Analyst Data analysts translate numbers into plain English. Every business collects data, whether it’s sales figures, market research, logistics, or transportation costs. A data analyst’s job is to take that data and use it to help companies make better business decisions. There are many different types of data analysts in the field, including operations analysts, marketing analysts, financial analysts, etc. Data Engineer Data Engineers are responsible for the creation and maintenance of analytics infrastructure that enables almost every other function in the data world. They are responsible for the development, construction, maintenance and testing of architectures, such as databases and large-scale processing systems. Data Architect Data architects build complex computer database systems for companies, either for the general public or for individual companies. They work with a team that looks at the needs of the database, the data that is available and creates a blueprint for creating, testing and maintaining that data architecture. Analytics Manager The analytics manager coordinates the different tasks that must be completed by their team for an AI project. Tasks may include researching and creating effective methods to collect data, analyzing information, and recommending solutions to business. Business Analyst AI business analyst converts the business problem statement to an AI problem statement which means what data needs to be analyzed to arrive at the insights. The data would then be reviewed with the technology team and results would be delivered to the business team in the form of insights and data patterns. The business analyst should also be knowledgeable enough to apply various predictive modelling techniques and right model selection for generating insights for the problem at hand. Quality Analyst The job of quality analyst includes checking the quality of the training data-set, preparing data-sets for testing, running statistics on human-labelled data-sets, evaluating precision and recall on the resulting ML model, reporting on unexpected patterns in outputs, and implementing necessary tools to automate repetitive parts of the work. Experience in software testing with data quality or DS/ML focus, understanding of statistics, exposure to AI / Machine Learning techniques and coding proficiency in Python, are some of the skills required for the job. To work on AI projects in any of the above mentioned roles, one needs to have an understanding of the core concepts at a high level but depth is required in the specific area you would be working in. Academia Vs Industry Academia and Industry are different fields with different people and culture. People working in Academia for longer tenure may find it difficult to adjust to industry culture and vice versa. There is also an academic trap when your career trajectory is so specialized for academia that you’re unprepared for a job outside of it. The academic trap happens in all areas of study, but for this post, we focus only on AI students who want to leave academia for AI positions. Further, companies are often hesitant to hire people coming straight from academia for various reasons like: In academia, individuals prefer writing papers over internships, making grants over learning programming languages, and not doing the things that could help you in the industry but not academia. The things that are important for academic hirings, such as papers, talks, and grants, are not as important in the industry. Working as a data scientist within a corporation requires an understanding of how the business world works, including how quickly deliverable need to be made, how to craft a good presentation, and how to word an email to make a request. In academia, you are encouraged to find the most innovative and elegant solution. In industry, you are encouraged to spend as little time as possible to find an analytical solution that just fits the need. Salary expectations for advanced degree holders are higher than someone with only an undergraduate degree. This also pushes away recruiters as the industry works in a different way, culture is simply different than the academic one. People coming from academia need to learn these lessons at their first job, which means that there is a lot of risk for the hiring company. Ankit Rathi is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture. Why don’t you connect with Ankit on Twitter, LinkedIn or Instagram?</summary></entry><entry><title type="html">AI For Everyone Course Review &amp;amp; Key Takeaways</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2019/11/16/ai-for-everyone-course-review-key-takeaways.html" rel="alternate" type="text/html" title="AI For Everyone Course Review &amp; Key Takeaways" /><published>2019-11-16T00:00:00-06:00</published><updated>2019-11-16T00:00:00-06:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2019/11/16/ai-for-everyone-course-review-key-takeaways</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2019/11/16/ai-for-everyone-course-review-key-takeaways.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/0*nvcqeUmzwF-AhSq4.jpeg&quot; alt=&quot;Courtesy: &amp;lt;https://www.deeplearning.ai/ai-for-everyone/&amp;gt;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Want to learn more? visit &lt;a href=&quot;http://www.ankitrathi.com&quot;&gt;www.ankitrathi.com&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I am working in ML/AI field for 6 years now and apart from technical skills that I acquired while working on the projects, I have also discussed various aspects of ML/AI with my non-technical colleagues, who have mostly been senior manager, VPs or CXOs.&lt;/p&gt;
-
-&lt;p&gt;When I heard about “AI For Everyone” course, I was a bit reluctant in attending it as I thought I know most of the generic stuff that might have been talked in the course.&lt;/p&gt;
-
-&lt;p&gt;Recently, one of my colleagues discussed with me a few topics covered in this course which intrigued me to get a fresh perspective on these topics. So, I recently attended this course on Coursera.&lt;/p&gt;
-
-&lt;p&gt;My motivation to write this blog is to make sure that I have understood key aspects of this course and am able to make my non-technical colleagues and project stakeholders understand the benefits &amp;amp; limitations of using AI.&lt;/p&gt;
-
-&lt;p&gt;This blog will also serve as a refresher for the professionals who have already attended it or are working in AI field but couldn’t attend the course due to time limitation.&lt;/p&gt;
-
-&lt;h3 id=&quot;review-of-thecourse&quot;&gt;Review of the Course&lt;/h3&gt;
-
-&lt;p&gt;“AI For Everyone” is a short non-technical course which helps to bridge the gap among corporate professionals who are going to be impacted by AI transformation now or in the near future. Even the professionals without programming background understand the capabilities and limitations of today’s AI, what it takes to incorporate AI into your company’s strategy, how some of the fear regarding AI is overhyped and finally many serious questions like how AI will impact repetitive automation-prone jobs.&lt;/p&gt;
-
-&lt;p&gt;Key aspects of this course are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A non-technical overview of AI field&lt;/li&gt;
-  &lt;li&gt;Mainly for non-technical staff including executives (VPs &amp;amp; CXOs)&lt;/li&gt;
-  &lt;li&gt;Refresher for AI starters &amp;amp; enthusiasts&lt;/li&gt;
-  &lt;li&gt;Brings all stakeholders for AI projects on the same page&lt;/li&gt;
-  &lt;li&gt;Mostly covers benefits &amp;amp; limitations of AI&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In my view, the most important benefit of this course is that it brings all the professionals on the same page about what is AI? What are its capabilities? Which really fills a lot of gaps for the people joining AI projects from different background and reduces the friction while working together.&lt;/p&gt;
-
-&lt;h3 id=&quot;outline-of-thecourse&quot;&gt;Outline of the Course&lt;/h3&gt;
-
-&lt;p&gt;Let’s have a look at what we are going to learn in this course:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;First week: AI technology, what is AI and what is machine learning? What’s supervised learning, that is learning inputs, outputs, or A to B mappings. As well as what is data science, and how data feeds into all of these technologies? What AI can and cannot do?&lt;/li&gt;
-  &lt;li&gt;Second week: What it feels like to build an AI project? What is the workflow of machine learning projects, of collecting data, building a system and deploying it, as well as the workflow of data science projects? How to carry out technical diligence to make sure a project is feasible, together with business diligence to make sure that the project is valuable before you commit to taking on a specific AI project?&lt;/li&gt;
-  &lt;li&gt;Third week: How such AI projects could fit in the context of our company? Examples of complex AI products, such as a smart speaker, a self-driving car. What are the roles and responsibilities of large AI teams? The AI transmission playbook, what are the five-steps for helping a company become a great AI company?&lt;/li&gt;
-  &lt;li&gt;Last week: AI and Society. What are the limitations of AI beyond just technical ones? How AI is affecting developing economies and jobs worldwide?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;week-1-what-isai&quot;&gt;Week 1: What is AI?&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*gkfny80zfEf6KHYmvQYN2w.png&quot; alt=&quot;Courtesy: &amp;lt;https://www.deeplearning.ai/ai-for-everyone/&amp;gt;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This week’s content contains all the essentials for understanding AI, its capabilities, limitations, and how to implement it in a company’s automated processes to become an AI company.&lt;/p&gt;
-
-&lt;h4 id=&quot;introduction&quot;&gt;Introduction&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;AI is creating value in almost all the sectors&lt;/li&gt;
-  &lt;li&gt;Artificial Intelligence can be categorized broadly into two streams: ANI &amp;amp; AGI&lt;/li&gt;
-  &lt;li&gt;Artificial General Intelligence (AGI): Machine can do whatever a human can do&lt;/li&gt;
-  &lt;li&gt;Artificial Narrow Intelligence (ANI): Machine can do very specific tasks like driving cars, playing asked music, searching web etc&lt;/li&gt;
-  &lt;li&gt;What we know how to develop today are ANIs, each specialized in one task&lt;/li&gt;
-  &lt;li&gt;AGI doesn’t exist yet (at least for a long time from now)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;machine-learning&quot;&gt;Machine Learning&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;AI has really taken off recently due to the rise of neural networks and deep learning&lt;/li&gt;
-  &lt;li&gt;In the majority of the cases: AI → Machine Learning → Supervised Learning&lt;/li&gt;
-  &lt;li&gt;Supervised Learning learns the mapping between input A to output B&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;what-isdata&quot;&gt;What is data&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We know that Supervised Learning learns the mapping between input A to output B&lt;/li&gt;
-  &lt;li&gt;Examples of input A &amp;amp; output B from which ML algorithms learn is called data&lt;/li&gt;
-  &lt;li&gt;Data is often unique to your business, can be structured (tables, hierarchy etc), unstructured ( text, voice and image) or semi-structured&lt;/li&gt;
-  &lt;li&gt;Data can be obtained by: manual labeling, observing behaviours or download from websites/partnerships&lt;/li&gt;
-  &lt;li&gt;Pre-process the data before using it for AI models: garbage in, garbage out&lt;/li&gt;
-  &lt;li&gt;Most of the data problems are related to incorrect labels &amp;amp; missing values&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;the-terminology-ofai&quot;&gt;The terminology of AI&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Business Intelligence (BI) helps interpret past data, BI is mainly used for reporting or Descriptive Analytics.&lt;/li&gt;
-  &lt;li&gt;Data Science is the science of extracting knowledge and insights from data which often ends up being captured in a deck.&lt;/li&gt;
-  &lt;li&gt;Machine Learning is the field of study that gives computers the ability to learn without being explicitly programmed.&lt;/li&gt;
-  &lt;li&gt;The Machine Learning which is a subset of the AI ​​itself contains subsets of which the most powerful is the Deep Learning (DL&lt;strong&gt;).&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Originally inspired by neural networks of the brain, DL models are composed of several layers of computational units (artificial neurons), each capable of detecting more and more complicated characteristics of a training dataset&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;what-makes-an-aicompany&quot;&gt;What makes an AI company?&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Any company + deep learning != AI company&lt;/li&gt;
-  &lt;li&gt;Strategic data acquisition&lt;/li&gt;
-  &lt;li&gt;Unified data warehouse&lt;/li&gt;
-  &lt;li&gt;Pervasive automation&lt;/li&gt;
-  &lt;li&gt;New roles &amp;amp; division of labour&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;5-steps-to-becoming-an-aicompany&quot;&gt;5 steps to becoming an AI company&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Execute pilot projects to gain momentum&lt;/li&gt;
-  &lt;li&gt;Build an in-house AI team&lt;/li&gt;
-  &lt;li&gt;Provide broad AI training&lt;/li&gt;
-  &lt;li&gt;Develop an AI strategy&lt;/li&gt;
-  &lt;li&gt;Develop internal &amp;amp; external communications&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;what-machine-learning-can-and-cannotdo&quot;&gt;What Machine Learning can and cannot do&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ML/AI can’t do everything&lt;/li&gt;
-  &lt;li&gt;Expectations are inflated due to media, academics &amp;amp; only positive reports about AI&lt;/li&gt;
-  &lt;li&gt;Imperfect rule: Whatever we could do with a second of thought can probably be automated using AI&lt;/li&gt;
-  &lt;li&gt;Technical diligence is required to assess the feasibility of the project&lt;/li&gt;
-  &lt;li&gt;It is still harder to contextualize the responses for AI models&lt;/li&gt;
-  &lt;li&gt;ML tends to work well in learning a simple concept with lots of available data&lt;/li&gt;
-  &lt;li&gt;ML tends to work poorly in learning a complex concept, especially from small amount of data or if performing on new type of data&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;intuitive-explanation-of-deeplearning&quot;&gt;Intuitive explanation of deep learning&lt;/h4&gt;
-
-&lt;h3 id=&quot;week-2-building-aiprojects&quot;&gt;Week 2: Building AI Projects&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*FgHHmzBXNJsYWypLJWCN6w.png&quot; alt=&quot;Courtesy: &amp;lt;https://www.deeplearning.ai/ai-for-everyone/&amp;gt;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The content of this week contains all the essentials for developing an AI project (large or small) and understanding how all jobs will be impacted by AI.&lt;/p&gt;
-
-&lt;h4 id=&quot;workflow-of-a-machine-learningproject&quot;&gt;Workflow of a Machine Learning project&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Collect data&lt;/li&gt;
-  &lt;li&gt;Train model (iterate until its good enough)&lt;/li&gt;
-  &lt;li&gt;Deploy model (get data back, maintain/update model)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;workflow-of-a-data-scienceproject&quot;&gt;Workflow of a Data Science project&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Collect data&lt;/li&gt;
-  &lt;li&gt;Analyse data (iterate until its good enough)&lt;/li&gt;
-  &lt;li&gt;Suggest hypotheses/actions (deploy changes, re-analyse periodically)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;every-job-function-needs-to-learn-to-usedata&quot;&gt;Every job function needs to learn to use data&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Increasing sales: optimizing sales funnel &amp;amp; automated lead sorting&lt;/li&gt;
-  &lt;li&gt;Default detection: optimizing manufacturing line &amp;amp; automated visual inspection&lt;/li&gt;
-  &lt;li&gt;Recruitment assistance: optimizing recruitment funnel &amp;amp; automated resume screening&lt;/li&gt;
-  &lt;li&gt;Product recommendation: A/B testing &amp;amp; customized product recommendation&lt;/li&gt;
-  &lt;li&gt;Precision agriculture: crop analytics &amp;amp; precise weed killing&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;how-to-choose-an-aiproject&quot;&gt;How to choose an AI project&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;organize a cross-functional brainstorming with both the AI and domain teams&lt;/li&gt;
-  &lt;li&gt;Cross-section between ‘What AI can do’ &amp;amp; ‘What is valuable for your business’&lt;/li&gt;
-  &lt;li&gt;Which either increase revenue or reduce costs or both&lt;/li&gt;
-  &lt;li&gt;Use/buy standard AI models and develop only which don’t exist or offer extra business value&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;method-i&quot;&gt;&lt;strong&gt;Method I&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Automation of processes/tasks rather than jobs&lt;/li&gt;
-  &lt;li&gt;Selection of activities with the greatest impact on the company’s business&lt;/li&gt;
-  &lt;li&gt;Selection of the main pain points in the company’s business&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;method-ii&quot;&gt;Method II&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Technical diligence in terms of state of the art AI capability, data requirements &amp;amp; time and people required to create, train &amp;amp; deploy AI models&lt;/li&gt;
-  &lt;li&gt;Business diligence in terms of cost reduction, revenue increment &amp;amp; new product/business opportunity&lt;/li&gt;
-  &lt;li&gt;Ethical considerations&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;working-with-an-aiteam&quot;&gt;Working with an AI team&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Instead of hiring AI specialist, train IT engineers in AI&lt;/li&gt;
-  &lt;li&gt;Domain team must define the performance rate to be achieved by the AI ​​model&lt;/li&gt;
-  &lt;li&gt;Not realistic to ask the AI ​​team to obtain a 100% performance rate&lt;/li&gt;
-  &lt;li&gt;Due to limitations of ML, insufficient data, mislabelled data&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;technical-tools-for-aiteams&quot;&gt;Technical tools for AI teams&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;AI ​​evolves largely in the Open Source world&lt;/li&gt;
-  &lt;li&gt;Free ML/DL high-quality frameworks&lt;/li&gt;
-  &lt;li&gt;Academic research papers in ML/DL&lt;/li&gt;
-  &lt;li&gt;Refer Arxiv for research publications&lt;/li&gt;
-  &lt;li&gt;Refer GitHub for Open Source repositories&lt;/li&gt;
-  &lt;li&gt;AI ​​team must also have the significant computational capacity (GPU)&lt;/li&gt;
-  &lt;li&gt;Can be local or by prominent cloud providers (AWS, Azure &amp;amp; GCP)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;big-data-is-not-alwaysrequired&quot;&gt;&lt;strong&gt;Big data is not always required&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Having more data almost never hurts&lt;/li&gt;
-  &lt;li&gt;Data makes some businesses defensible&lt;/li&gt;
-  &lt;li&gt;But with small data, you can still make progress&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;week-3-building-ai-in-yourcompany&quot;&gt;Week 3: Building AI in your Company&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*8giUXsK_AECrx54NUbHt6A.png&quot; alt=&quot;Courtesy: &amp;lt;https://www.deeplearning.ai/ai-for-everyone/&amp;gt;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This week’s content contains all the essential elements for developing AI in an organization (association, public organization, company).&lt;/p&gt;
-
-&lt;h4 id=&quot;case-study-smartspeaker&quot;&gt;Case study: Smart speaker&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Typical examples: Amazon Echo/Alexa, Google Home, Apple Siri, Baidu DuerOS&lt;/li&gt;
-  &lt;li&gt;Steps to process the voice command:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;— Trigger word/wakeword detection&lt;/p&gt;
-
-&lt;p&gt;— Speech recognition&lt;/p&gt;
-
-&lt;p&gt;— Intent recognition&lt;/p&gt;
-
-&lt;p&gt;— Execute task&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Usually, there is one AI team per process&lt;/li&gt;
-  &lt;li&gt;Execution of the task may be more complex to be broken down in further sub-tasks&lt;/li&gt;
-  &lt;li&gt;Example tasks: play music, volume up/down, make call, current time etc&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;case-study-self-driving-car&quot;&gt;Case study: Self-driving car&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;There are 3 main steps for a self-driving car to decide on its route and speed&lt;/li&gt;
-  &lt;li&gt;But there are many other localization processes that are necessary for the decision&lt;/li&gt;
-  &lt;li&gt;Key steps: Car detection → Pedestrian detection → Motion planning&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;example-roles-of-an-aiteam&quot;&gt;Example roles of an AI team&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Software Engineer&lt;/strong&gt;: 50% or more of the team, in charge of developing software&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;ML Engineer&lt;/strong&gt;: responsible for creating and training ML models&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;ML Researcher&lt;/strong&gt;: in charge of following the evolution of state-of-the-art, doing research and possibly publishing the results of its research&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Applied ML Scientist&lt;/strong&gt;: in charge of adapting already published models to the specific projects of its company.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Data Scientist:&lt;/strong&gt; responsible for examining the data and providing the insights to AI team/executives&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Data Engineer:&lt;/strong&gt; in charge of organizing and saving data in an accessible, secure and cost-effective way&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;AI Product Manager:&lt;/strong&gt; help AI team in deciding what to build, what’s feasible &amp;amp; valuable&lt;/li&gt;
-  &lt;li&gt;Start with a small team and expand based on the progress&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ai-transformation-playbook&quot;&gt;AI Transformation Playbook&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Execute pilot projects to gain momentum&lt;/li&gt;
-  &lt;li&gt;Build an in-house AI team&lt;/li&gt;
-  &lt;li&gt;Provide broad AI training&lt;/li&gt;
-  &lt;li&gt;Develop an AI strategy&lt;/li&gt;
-  &lt;li&gt;Develop internal &amp;amp; external communications&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ai-pitfalls-toavoid&quot;&gt;AI pitfalls to avoid&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Don’t expect AI to solve each and everything&lt;/li&gt;
-  &lt;li&gt;Don’t depend solely on the technical team to come up with AI use-cases&lt;/li&gt;
-  &lt;li&gt;Don’t expect the AI project to work the first time&lt;/li&gt;
-  &lt;li&gt;Don’t expect traditional planning &amp;amp; processes to apply without any changes&lt;/li&gt;
-  &lt;li&gt;Don’t think you need superstar AI engineer to succeed&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;taking-your-first-step-inai&quot;&gt;Taking your first step in AI&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Get colleagues to learn about AI&lt;/li&gt;
-  &lt;li&gt;Start brainstorming about projects&lt;/li&gt;
-  &lt;li&gt;Hire a few ML/AI people to help&lt;/li&gt;
-  &lt;li&gt;Hire or appoint an AI leader&lt;/li&gt;
-  &lt;li&gt;Discuss with CXOs/Board about possibilities of AI transformations&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;survey-of-major-ai-applications&quot;&gt;Survey of major AI applications&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Computer Vision: Image classification, Object recognition, Object detection, Image segmentation, Tracking&lt;/li&gt;
-  &lt;li&gt;Natural Language Processing: Text classification, Information retrieval, Name entity recognition, Machine translation&lt;/li&gt;
-  &lt;li&gt;Speech: Speech recognition, Trigger word/wakeword detection, Speaker ID, Speech synthesis&lt;/li&gt;
-  &lt;li&gt;Robotics: Perception, Motion planning, Control&lt;/li&gt;
-  &lt;li&gt;General Machine Learning: Unstructured data (image, audio, text), Structured data&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;survey-of-major-ai-techniques&quot;&gt;Survey of major AI techniques&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Unsupervised learning&lt;/li&gt;
-  &lt;li&gt;Transfer learning&lt;/li&gt;
-  &lt;li&gt;Reinforcement learning&lt;/li&gt;
-  &lt;li&gt;Generative Adversarial Network (GANs)&lt;/li&gt;
-  &lt;li&gt;Knowledge Graph&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;week-4-ai-andsociety&quot;&gt;Week 4: AI and Society&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*XIsCsSMya6ahjOyLwI1TSQ.png&quot; alt=&quot;Courtesy: &amp;lt;https://www.deeplearning.ai/ai-for-everyone/&amp;gt;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This week’s content contains all the essentials to understand the impacts of AI on our society.&lt;/p&gt;
-
-&lt;h4 id=&quot;a-realistic-view-ofai&quot;&gt;A realistic view of AI&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Too optimistic: Sentient/super-intelligent AI killer robots coming soon&lt;/li&gt;
-  &lt;li&gt;Too pessimistic: AI cannot do everything, so an AI winter is coming&lt;/li&gt;
-  &lt;li&gt;Just right: AI can’t do each and everything, but will transform industries&lt;/li&gt;
-  &lt;li&gt;Performance limitations: with unavailability of data, less or irrelevant data or randomness of patterns can limit the performance&lt;/li&gt;
-  &lt;li&gt;Model explainability: explainable models are more accepted in business &amp;amp; society&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;discrimination-bias&quot;&gt;Discrimination / Bias&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;AI model may develop gender and ethnic biases&lt;/li&gt;
-  &lt;li&gt;Problem comes from the training data which contain these biases&lt;/li&gt;
-  &lt;li&gt;Examples such as:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;— Hiring tool discriminating against women&lt;/p&gt;
-
-&lt;p&gt;— Facial recognition working better for light-skinned individuals&lt;/p&gt;
-
-&lt;p&gt;— Bank loan approvals&lt;/p&gt;
-
-&lt;p&gt;— Toxic effect of reinforcing unhealthy stereotypes&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Combating bias:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;— Technical solutions: removing bias in training data, using more inclusive data&lt;/p&gt;
-
-&lt;p&gt;— Transparency and/or auditing processes&lt;/p&gt;
-
-&lt;p&gt;— Having a diverse workforce&lt;/p&gt;
-
-&lt;h4 id=&quot;adversarial-attacks&quot;&gt;Adversarial attacks&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;AL models are sensitive to adversarial attacks&lt;/li&gt;
-  &lt;li&gt;Which are deliberate actions to fool an AI model&lt;/li&gt;
-  &lt;li&gt;It is possible by changing the values ​​of a few pixels of an image to fool a classifier&lt;/li&gt;
-  &lt;li&gt;While visually we (humans) can not detect the changes&lt;/li&gt;
-  &lt;li&gt;Adversarial defence do exist, but incur some cost&lt;/li&gt;
-  &lt;li&gt;Endless race between forgers and authorities&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;adverse-uses&quot;&gt;Adverse uses&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;DeepFakes: Synthesize video of people doing things they never did&lt;/li&gt;
-  &lt;li&gt;Undermining of democracy &amp;amp; privacy&lt;/li&gt;
-  &lt;li&gt;Generating fake comments&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ai-and-developing-nations&quot;&gt;AI and developing nations&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Developing economies can ‘leapfrog’ by using technology developed by others&lt;/li&gt;
-  &lt;li&gt;Like mobile phones, mobile payments, online education&lt;/li&gt;
-  &lt;li&gt;Use applied AI in specific industries&lt;/li&gt;
-  &lt;li&gt;Public-private partnerships to accelerate development&lt;/li&gt;
-  &lt;li&gt;Invent in AI education of citizen&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ai-andjobs&quot;&gt;AI and jobs&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Automation of activities by AI already has an impact on employment&lt;/li&gt;
-  &lt;li&gt;But job created by AI should be much higher than job displaced by 2030&lt;/li&gt;
-  &lt;li&gt;We should assess what are the tasks in our day-to-day job which can be automated&lt;/li&gt;
-  &lt;li&gt;Possibility of conditional basic income&lt;/li&gt;
-  &lt;li&gt;Building a lifelong learning society&lt;/li&gt;
-  &lt;li&gt;Political solutions to support AI transformation in society&lt;/li&gt;
-  &lt;li&gt;We should all complement our current knowledge with an AI knowledge&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h4&gt;
-
-&lt;p&gt;Let’s recap what we have learnt in this course:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;First week: AI technology, what is AI and what is machine learning? What’s supervised learning, that is learning inputs, outputs, or A to B mappings. As well as what is data science, and how data feeds into all of these technologies? What AI can and cannot do?&lt;/li&gt;
-  &lt;li&gt;Second week: What it feels like to build an AI project? What is the workflow of machine learning projects, of collecting data, building a system and deploying it, as well as the workflow of data science projects? How to carry out technical diligence to make sure a project is feasible, together with business diligence to make sure that the project is valuable before you commit to taking on a specific AI project?&lt;/li&gt;
-  &lt;li&gt;Third week: How such AI projects could fit in the context of our company? Examples of complex AI products, such as a smart speaker, a self-driving car. What are the roles and responsibilities of large AI teams? The AI transmission playbook, what are the five-steps for helping a company become a great AI company?&lt;/li&gt;
-  &lt;li&gt;Last week: AI and Society. What are the limitations of AI beyond just technical ones? How AI is affecting developing economies and jobs worldwide?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We have learned a lot in these four weeks, but AI is a complex topic, so the key is to keep learning, keep evolving.&lt;/p&gt;
-
-&lt;h4 id=&quot;references&quot;&gt;References&lt;/h4&gt;
-
-&lt;p&gt;[embed]https://www.deeplearning.ai/ai-for-everyone/[/embed]&lt;br /&gt;
-[embed]https://www.deeplearning.ai/ai-for-everyone/[/embed]&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;If you liked the content, check out my post on ‘How to launch your DS/AI Career in 12 weeks?’&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;[embed]https://www.deeplearning.ai/ai-for-everyone/[/embed]&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;Ankit Rathi&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;or&lt;/em&gt; &lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Want to learn more? visit www.ankitrathi.com I am working in ML/AI field for 6 years now and apart from technical skills that I acquired while working on the projects, I have also discussed various aspects of ML/AI with my non-technical colleagues, who have mostly been senior manager, VPs or CXOs. When I heard about “AI For Everyone” course, I was a bit reluctant in attending it as I thought I know most of the generic stuff that might have been talked in the course. Recently, one of my colleagues discussed with me a few topics covered in this course which intrigued me to get a fresh perspective on these topics. So, I recently attended this course on Coursera. My motivation to write this blog is to make sure that I have understood key aspects of this course and am able to make my non-technical colleagues and project stakeholders understand the benefits &amp;amp; limitations of using AI. This blog will also serve as a refresher for the professionals who have already attended it or are working in AI field but couldn’t attend the course due to time limitation. Review of the Course “AI For Everyone” is a short non-technical course which helps to bridge the gap among corporate professionals who are going to be impacted by AI transformation now or in the near future. Even the professionals without programming background understand the capabilities and limitations of today’s AI, what it takes to incorporate AI into your company’s strategy, how some of the fear regarding AI is overhyped and finally many serious questions like how AI will impact repetitive automation-prone jobs. Key aspects of this course are: A non-technical overview of AI field Mainly for non-technical staff including executives (VPs &amp;amp; CXOs) Refresher for AI starters &amp;amp; enthusiasts Brings all stakeholders for AI projects on the same page Mostly covers benefits &amp;amp; limitations of AI In my view, the most important benefit of this course is that it brings all the professionals on the same page about what is AI? What are its capabilities? Which really fills a lot of gaps for the people joining AI projects from different background and reduces the friction while working together. Outline of the Course Let’s have a look at what we are going to learn in this course: First week: AI technology, what is AI and what is machine learning? What’s supervised learning, that is learning inputs, outputs, or A to B mappings. As well as what is data science, and how data feeds into all of these technologies? What AI can and cannot do? Second week: What it feels like to build an AI project? What is the workflow of machine learning projects, of collecting data, building a system and deploying it, as well as the workflow of data science projects? How to carry out technical diligence to make sure a project is feasible, together with business diligence to make sure that the project is valuable before you commit to taking on a specific AI project? Third week: How such AI projects could fit in the context of our company? Examples of complex AI products, such as a smart speaker, a self-driving car. What are the roles and responsibilities of large AI teams? The AI transmission playbook, what are the five-steps for helping a company become a great AI company? Last week: AI and Society. What are the limitations of AI beyond just technical ones? How AI is affecting developing economies and jobs worldwide? Week 1: What is AI? This week’s content contains all the essentials for understanding AI, its capabilities, limitations, and how to implement it in a company’s automated processes to become an AI company. Introduction AI is creating value in almost all the sectors Artificial Intelligence can be categorized broadly into two streams: ANI &amp;amp; AGI Artificial General Intelligence (AGI): Machine can do whatever a human can do Artificial Narrow Intelligence (ANI): Machine can do very specific tasks like driving cars, playing asked music, searching web etc What we know how to develop today are ANIs, each specialized in one task AGI doesn’t exist yet (at least for a long time from now) Machine Learning AI has really taken off recently due to the rise of neural networks and deep learning In the majority of the cases: AI → Machine Learning → Supervised Learning Supervised Learning learns the mapping between input A to output B What is data We know that Supervised Learning learns the mapping between input A to output B Examples of input A &amp;amp; output B from which ML algorithms learn is called data Data is often unique to your business, can be structured (tables, hierarchy etc), unstructured ( text, voice and image) or semi-structured Data can be obtained by: manual labeling, observing behaviours or download from websites/partnerships Pre-process the data before using it for AI models: garbage in, garbage out Most of the data problems are related to incorrect labels &amp;amp; missing values The terminology of AI Business Intelligence (BI) helps interpret past data, BI is mainly used for reporting or Descriptive Analytics. Data Science is the science of extracting knowledge and insights from data which often ends up being captured in a deck. Machine Learning is the field of study that gives computers the ability to learn without being explicitly programmed. The Machine Learning which is a subset of the AI ​​itself contains subsets of which the most powerful is the Deep Learning (DL). Originally inspired by neural networks of the brain, DL models are composed of several layers of computational units (artificial neurons), each capable of detecting more and more complicated characteristics of a training dataset What makes an AI company? Any company + deep learning != AI company Strategic data acquisition Unified data warehouse Pervasive automation New roles &amp;amp; division of labour 5 steps to becoming an AI company Execute pilot projects to gain momentum Build an in-house AI team Provide broad AI training Develop an AI strategy Develop internal &amp;amp; external communications What Machine Learning can and cannot do ML/AI can’t do everything Expectations are inflated due to media, academics &amp;amp; only positive reports about AI Imperfect rule: Whatever we could do with a second of thought can probably be automated using AI Technical diligence is required to assess the feasibility of the project It is still harder to contextualize the responses for AI models ML tends to work well in learning a simple concept with lots of available data ML tends to work poorly in learning a complex concept, especially from small amount of data or if performing on new type of data Intuitive explanation of deep learning Week 2: Building AI Projects The content of this week contains all the essentials for developing an AI project (large or small) and understanding how all jobs will be impacted by AI. Workflow of a Machine Learning project Collect data Train model (iterate until its good enough) Deploy model (get data back, maintain/update model) Workflow of a Data Science project Collect data Analyse data (iterate until its good enough) Suggest hypotheses/actions (deploy changes, re-analyse periodically) Every job function needs to learn to use data Increasing sales: optimizing sales funnel &amp;amp; automated lead sorting Default detection: optimizing manufacturing line &amp;amp; automated visual inspection Recruitment assistance: optimizing recruitment funnel &amp;amp; automated resume screening Product recommendation: A/B testing &amp;amp; customized product recommendation Precision agriculture: crop analytics &amp;amp; precise weed killing How to choose an AI project organize a cross-functional brainstorming with both the AI and domain teams Cross-section between ‘What AI can do’ &amp;amp; ‘What is valuable for your business’ Which either increase revenue or reduce costs or both Use/buy standard AI models and develop only which don’t exist or offer extra business value Method I Automation of processes/tasks rather than jobs Selection of activities with the greatest impact on the company’s business Selection of the main pain points in the company’s business Method II Technical diligence in terms of state of the art AI capability, data requirements &amp;amp; time and people required to create, train &amp;amp; deploy AI models Business diligence in terms of cost reduction, revenue increment &amp;amp; new product/business opportunity Ethical considerations Working with an AI team Instead of hiring AI specialist, train IT engineers in AI Domain team must define the performance rate to be achieved by the AI ​​model Not realistic to ask the AI ​​team to obtain a 100% performance rate Due to limitations of ML, insufficient data, mislabelled data Technical tools for AI teams AI ​​evolves largely in the Open Source world Free ML/DL high-quality frameworks Academic research papers in ML/DL Refer Arxiv for research publications Refer GitHub for Open Source repositories AI ​​team must also have the significant computational capacity (GPU) Can be local or by prominent cloud providers (AWS, Azure &amp;amp; GCP) Big data is not always required Having more data almost never hurts Data makes some businesses defensible But with small data, you can still make progress Week 3: Building AI in your Company This week’s content contains all the essential elements for developing AI in an organization (association, public organization, company). Case study: Smart speaker Typical examples: Amazon Echo/Alexa, Google Home, Apple Siri, Baidu DuerOS Steps to process the voice command: — Trigger word/wakeword detection — Speech recognition — Intent recognition — Execute task Usually, there is one AI team per process Execution of the task may be more complex to be broken down in further sub-tasks Example tasks: play music, volume up/down, make call, current time etc Case study: Self-driving car There are 3 main steps for a self-driving car to decide on its route and speed But there are many other localization processes that are necessary for the decision Key steps: Car detection → Pedestrian detection → Motion planning Example roles of an AI team Software Engineer: 50% or more of the team, in charge of developing software ML Engineer: responsible for creating and training ML models ML Researcher: in charge of following the evolution of state-of-the-art, doing research and possibly publishing the results of its research Applied ML Scientist: in charge of adapting already published models to the specific projects of its company. Data Scientist: responsible for examining the data and providing the insights to AI team/executives Data Engineer: in charge of organizing and saving data in an accessible, secure and cost-effective way AI Product Manager: help AI team in deciding what to build, what’s feasible &amp;amp; valuable Start with a small team and expand based on the progress AI Transformation Playbook Execute pilot projects to gain momentum Build an in-house AI team Provide broad AI training Develop an AI strategy Develop internal &amp;amp; external communications AI pitfalls to avoid Don’t expect AI to solve each and everything Don’t depend solely on the technical team to come up with AI use-cases Don’t expect the AI project to work the first time Don’t expect traditional planning &amp;amp; processes to apply without any changes Don’t think you need superstar AI engineer to succeed Taking your first step in AI Get colleagues to learn about AI Start brainstorming about projects Hire a few ML/AI people to help Hire or appoint an AI leader Discuss with CXOs/Board about possibilities of AI transformations Survey of major AI applications Computer Vision: Image classification, Object recognition, Object detection, Image segmentation, Tracking Natural Language Processing: Text classification, Information retrieval, Name entity recognition, Machine translation Speech: Speech recognition, Trigger word/wakeword detection, Speaker ID, Speech synthesis Robotics: Perception, Motion planning, Control General Machine Learning: Unstructured data (image, audio, text), Structured data Survey of major AI techniques Unsupervised learning Transfer learning Reinforcement learning Generative Adversarial Network (GANs) Knowledge Graph Week 4: AI and Society This week’s content contains all the essentials to understand the impacts of AI on our society. A realistic view of AI Too optimistic: Sentient/super-intelligent AI killer robots coming soon Too pessimistic: AI cannot do everything, so an AI winter is coming Just right: AI can’t do each and everything, but will transform industries Performance limitations: with unavailability of data, less or irrelevant data or randomness of patterns can limit the performance Model explainability: explainable models are more accepted in business &amp;amp; society Discrimination / Bias AI model may develop gender and ethnic biases Problem comes from the training data which contain these biases Examples such as: — Hiring tool discriminating against women — Facial recognition working better for light-skinned individuals — Bank loan approvals — Toxic effect of reinforcing unhealthy stereotypes Combating bias: — Technical solutions: removing bias in training data, using more inclusive data — Transparency and/or auditing processes — Having a diverse workforce Adversarial attacks AL models are sensitive to adversarial attacks Which are deliberate actions to fool an AI model It is possible by changing the values ​​of a few pixels of an image to fool a classifier While visually we (humans) can not detect the changes Adversarial defence do exist, but incur some cost Endless race between forgers and authorities Adverse uses DeepFakes: Synthesize video of people doing things they never did Undermining of democracy &amp;amp; privacy Generating fake comments AI and developing nations Developing economies can ‘leapfrog’ by using technology developed by others Like mobile phones, mobile payments, online education Use applied AI in specific industries Public-private partnerships to accelerate development Invent in AI education of citizen AI and jobs Automation of activities by AI already has an impact on employment But job created by AI should be much higher than job displaced by 2030 We should assess what are the tasks in our day-to-day job which can be automated Possibility of conditional basic income Building a lifelong learning society Political solutions to support AI transformation in society We should all complement our current knowledge with an AI knowledge Conclusion Let’s recap what we have learnt in this course: First week: AI technology, what is AI and what is machine learning? What’s supervised learning, that is learning inputs, outputs, or A to B mappings. As well as what is data science, and how data feeds into all of these technologies? What AI can and cannot do? Second week: What it feels like to build an AI project? What is the workflow of machine learning projects, of collecting data, building a system and deploying it, as well as the workflow of data science projects? How to carry out technical diligence to make sure a project is feasible, together with business diligence to make sure that the project is valuable before you commit to taking on a specific AI project? Third week: How such AI projects could fit in the context of our company? Examples of complex AI products, such as a smart speaker, a self-driving car. What are the roles and responsibilities of large AI teams? The AI transmission playbook, what are the five-steps for helping a company become a great AI company? Last week: AI and Society. What are the limitations of AI beyond just technical ones? How AI is affecting developing economies and jobs worldwide? We have learned a lot in these four weeks, but AI is a complex topic, so the key is to keep learning, keep evolving. References [embed]https://www.deeplearning.ai/ai-for-everyone/[/embed] [embed]https://www.deeplearning.ai/ai-for-everyone/[/embed] If you liked the content, check out my post on ‘How to launch your DS/AI Career in 12 weeks?’ [embed]https://www.deeplearning.ai/ai-for-everyone/[/embed] Ankit Rathi is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture. Why don’t you connect with Ankit on Twitter, LinkedIn or Instagram?</summary></entry></feed>
+&lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;or&lt;/em&gt; &lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Want to learn more? visit www.ankitrathi.com Artificial Intelligence (AI) is a complex and evolving field. The first challenge an AI aspirant faces is understanding the landscape and how he could navigate through it. Consider this, if you are travelling to a new city, and if you don’t have the map, you will have trouble to navigate the city and you will need to ask a lot of random people during your travel without knowing how much they know about the place. Similarly, all the newcomers to AI have this trouble, and there are two ways to deal with this, arrange the map (or a guide) or travel yourself and learn with experience. Note: AI &amp;amp; DS/AI terms are used interchangeably in the article where DS means Data Science. This post intends to serve as a map of Artificial Intelligence field. You might have heard data science, machine learning, deep learning, artificial intelligence etc terminology but might not be fully aware of these terms, what to use when and how these topics are interconnected. After going through this post, you should be able to understand what is where in the AI field. Multi-disciplinary field AI is a multidisciplinary field with sub-fields of study in Math/Statistics, CS/IT &amp;amp; Business/Domain knowledge. Math/Statistics is required to understand the data and relationship between data elements. CS/IT skills are required to process the data to generate insights. And Business or domain knowledge is required to apply above to skills in the context of a business problem. Computer Science/IT Programming is an essential skill to become a data scientist but one needs not be a hard-core programmer to learn AI. Having familiarity with basic concepts of programming will ease the process of learning AI programming tools like Python/R. These basic concepts of programming should help a candidate get a long way on the journey to pursue a career in AI as it is all about writing efficient code to analyse big data and not being a master of programming. Individuals should learn the basics of programming in Python/R (or any relevant language) before they begin to work on AI problems/projects. Maths &amp;amp; Statistics AI teams have people from diverse backgrounds like chemical engineering, physics, economics, statistics, mathematics, operations research, computer science, etc. You will find many data scientists with a bachelor’s degree in statistics and machine learning but it is not a requirement to learn AI. However, having familiarity with the basic concepts of Math and Statistics like Linear Algebra, Calculus, Probability, etc. is important to learn AI. Domain/Business Knowledge Subsequently, the business knowledge that the data scientists would need to have would be related to the domain that the project/analysis is in. For instance, if the data scientist is working for a credit card department in a bank, it will need to understand the specific business definitions, regulations, accounting policies &amp;amp; international standards, processes etc. This is the part that is more specific to the organization the data scientist is deployed in. In my view, one thing to take care while the hiring data scientists is not to give huge preference to domain knowledge. This may severely limit the supply of AI talents to the organization. You would have a better chance of getting more value from AI by looking for those that are strong in math &amp;amp; programming, being able to convert business objectives to mathematical models. Based on my observation, this is a much more difficult skill to find or train, as compared to domain knowledge. Various Terminologies As an AI starter, you will come across many similar terminologies. First thing you need to do is to understand what each term means and where each fits in the bigger picture. Data Science, Business Intelligence, Data Mining, Machine Learning, Deep Learning, Artificial Intelligence; let’s have a look at Wikipedia definition for each term &amp;amp; later see how these are interconnected. Data Science Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured, like data mining. Business Intelligence Business intelligence comprises the strategies and technologies used by enterprises for the data analysis of business information. BI technologies provide historical, current and predictive views of business operations. Data Mining Data mining is the process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems. Machine Learning Machine learning is the scientific study of algorithms and statistical models that computer systems use to progressively improve their performance on a specific task. Deep Learning Deep learning is part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms. Artificial Intelligence Artificial intelligence, sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals. Interconnection Data mining uses statistics and other programming languages to find hidden patterns in the data to explain a certain phenomenon. It helps in building a perception about the data using both math and programming. Machine Learning deploys data mining techniques as well as other algorithms to develop models of what is happening behind some data to forecast future outcomes. Artificial Intelligence uses models developed by Machine Learning and other algorithms to lead to intelligent behaviour. AI is very much programming based. Data Mining demonstrates patterns Machine Learning forecasts with models Artificial Intelligence shapes behaviours So you see that these terms are different but still inter-connected. Roles in Artificial Intelligence Before looking into the skill-set of a data scientist, let’s have a look at various roles required to work and deliver a AI project, after all, it’s a teamwork. Every role has its own skills that are critical to AI projects at various stages. Data Scientist A data scientist is someone who knows how to extract meaning from and interpret data, which requires both tools and methods from statistics and machine learning. She spends a lot of time in the process of collecting, cleaning, and munging data. Domain knowledge is also an integral part of the skill. Machine Learning/AI Engineer Machine learning/AI engineers are sophisticated programmers who develop machines and systems that can learn and apply knowledge without specific domain requirement. Data Analyst Data analysts translate numbers into plain English. Every business collects data, whether it’s sales figures, market research, logistics, or transportation costs. A data analyst’s job is to take that data and use it to help companies make better business decisions. There are many different types of data analysts in the field, including operations analysts, marketing analysts, financial analysts, etc. Data Engineer Data Engineers are responsible for the creation and maintenance of analytics infrastructure that enables almost every other function in the data world. They are responsible for the development, construction, maintenance and testing of architectures, such as databases and large-scale processing systems. Data Architect Data architects build complex computer database systems for companies, either for the general public or for individual companies. They work with a team that looks at the needs of the database, the data that is available and creates a blueprint for creating, testing and maintaining that data architecture. Analytics Manager The analytics manager coordinates the different tasks that must be completed by their team for an AI project. Tasks may include researching and creating effective methods to collect data, analyzing information, and recommending solutions to business. Business Analyst AI business analyst converts the business problem statement to an AI problem statement which means what data needs to be analyzed to arrive at the insights. The data would then be reviewed with the technology team and results would be delivered to the business team in the form of insights and data patterns. The business analyst should also be knowledgeable enough to apply various predictive modelling techniques and right model selection for generating insights for the problem at hand. Quality Analyst The job of quality analyst includes checking the quality of the training data-set, preparing data-sets for testing, running statistics on human-labelled data-sets, evaluating precision and recall on the resulting ML model, reporting on unexpected patterns in outputs, and implementing necessary tools to automate repetitive parts of the work. Experience in software testing with data quality or DS/ML focus, understanding of statistics, exposure to AI / Machine Learning techniques and coding proficiency in Python, are some of the skills required for the job. To work on AI projects in any of the above mentioned roles, one needs to have an understanding of the core concepts at a high level but depth is required in the specific area you would be working in. Academia Vs Industry Academia and Industry are different fields with different people and culture. People working in Academia for longer tenure may find it difficult to adjust to industry culture and vice versa. There is also an academic trap when your career trajectory is so specialized for academia that you’re unprepared for a job outside of it. The academic trap happens in all areas of study, but for this post, we focus only on AI students who want to leave academia for AI positions. Further, companies are often hesitant to hire people coming straight from academia for various reasons like: In academia, individuals prefer writing papers over internships, making grants over learning programming languages, and not doing the things that could help you in the industry but not academia. The things that are important for academic hirings, such as papers, talks, and grants, are not as important in the industry. Working as a data scientist within a corporation requires an understanding of how the business world works, including how quickly deliverable need to be made, how to craft a good presentation, and how to word an email to make a request. In academia, you are encouraged to find the most innovative and elegant solution. In industry, you are encouraged to spend as little time as possible to find an analytical solution that just fits the need. Salary expectations for advanced degree holders are higher than someone with only an undergraduate degree. This also pushes away recruiters as the industry works in a different way, culture is simply different than the academic one. People coming from academia need to learn these lessons at their first job, which means that there is a lot of risk for the hiring company. Ankit Rathi is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture. Why don’t you connect with Ankit on Twitter, LinkedIn or Instagram?</summary></entry></feed>
