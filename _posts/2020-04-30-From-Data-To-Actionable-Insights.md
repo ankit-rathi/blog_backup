@@ -60,7 +60,7 @@ Data engineering, Big Data processing, Business Intelligence, Machine Learning a
 Apart from raw data, we may need to store intermediate data or derived insights in order to consume it later. Hence processing, analysis and storage functions may be used iteratively.
 
 ## Data Service
-![](https://miro.medium.com/max/1400/1*qVM7MkscynGujkc0Z0opGQ.png)
+![](https://miro.medium.com/max/1400/1*zyfDIQmeGwoDrkKie5Q6bA.png)
 Actionable insights have to be consumed by business stakeholders and customers. Data service function takes care of hosting these insights. The type of data service can be APIs, KPI reports/dashboards, notebooks and development environments.
 
 ## Cloud Services
@@ -70,7 +70,7 @@ All the above functions (as well as DevOps & Governance functions) can be built 
 Type of cloud services is available as follows: IaaS, PaaS & SaaS. Major cloud providers in Data & AI area are AWS, Azure & GCP. We will learn more about these terms in upcoming posts.
 
 ## DevOps
-![](https://miro.medium.com/max/1400/1*2fGS-Ja0FBLpZkOMS9RbOA.png)
+![](https://miro.medium.com/max/1400/1*RoVBPnm9SAYPfB6ibAI2Rw.png)
 The term DevOps is a combination of two words namely Development and Operations. DevOps is a function that allows a single team to manage the entire application development life cycle, that is, development, testing, deployment, and monitoring.
 
 The ultimate goal of DevOps is to decrease the duration of the system’s development life cycle while delivering features, fixes, and updates frequently in close synchronization with business objectives.
@@ -80,7 +80,7 @@ It consists of various stages such as continuous development, continuous integra
 Notable tools in DevOps area are Git, Jenkins, Kubernetes, Chef, Nagios etc.
 
 ## Governance
-![](https://miro.medium.com/max/1400/1*2fGS-Ja0FBLpZkOMS9RbOA.png)
+![](https://miro.medium.com/max/1400/1*LTMRYLWKLJG8B2aGNcTgVg.png)
 Data governance is a function to manage the availability, usability, integrity and security of the data in enterprise systems, based on internal data standards and policies that also control data usage. Effective data governance ensures that data is consistent and trustworthy and doesn’t get misused.
 
 This function also includes other concepts such as Data Stewardship, Data Quality, and others to help an enterprise gain better control over its data assets, including methods, technologies, and behaviours around the proper management of data.
