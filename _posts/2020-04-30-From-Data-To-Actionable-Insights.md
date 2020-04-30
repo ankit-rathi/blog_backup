@@ -90,6 +90,7 @@ This function also includes other concepts such as Data Stewardship, Data Qualit
 ![](https://miro.medium.com/max/1400/1*vR8dBkIDd_E6OvISB4vFNw.png)
 
 So this post, though it was a high-level view, we learnt about how actionable insights are generated from data. I believe you found this post helpful, we will dive deeper into the above components/functions in upcoming posts.
+
 ---
 [*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
 
