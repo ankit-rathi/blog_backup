@@ -6,14 +6,6 @@ categories: [markdown]
 title: Building Blocks of Artificial Intelligence
 ---
 
-Title: Building Blocks of Artificial Intelligence
-Date: 2019-12-27 17:10
-Author: ankitrathi
-Category: Uncategorized
-Tags: Artificial Intelligence, Building Blocks, Data Science, Machine Learning, Towards Data Science
-Slug: building-blocks-of-artificial-intelligence
-Status: published
-
 ![](https://cdn-images-1.medium.com/max/1200/1*jQQ7PSA9MQXa0FTdS19EHA.png)
 
 There are a few core skills in every job. To perform that job, you need to be aware of core concepts, you need to be aware of the end to end process and you need to learn how to use related tools to perform that job. Artificial Intelligence is no different, it has its own core concepts, processes and tools.
@@ -177,4 +169,4 @@ So this is all that I needed to cover in this article. Now you know what concept
 
 [*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
 
-*Why don’t you connect with Ankit on* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
