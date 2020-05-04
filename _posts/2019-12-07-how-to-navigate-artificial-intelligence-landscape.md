@@ -8,8 +8,6 @@ title: How to Navigate Artificial Intelligence Landscape?
 
 ![Photo by [Rob Bates](https://unsplash.com/photos/0eLg8OTuCw0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/landscape?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/0*QNdQhs_T3ffa6B0m.jpeg)
 
-> Want to learn more? visit [www.ankitrathi.com](http://www.ankitrathi.com)
-
 Artificial Intelligence (AI) is a complex and evolving field. The first challenge an AI aspirant faces is understanding the landscape and how he could navigate through it. Consider this, if you are travelling to a new city, and if you don’t have the map, you will have trouble to navigate the city and you will need to ask a lot of random people during your travel without knowing how much they know about the place. Similarly, all the newcomers to AI have this trouble, and there are two ways to deal with this, arrange the map (or a guide) or travel yourself and learn with experience.
 
 > *Note: AI & DS/AI terms are used interchangeably in the article where DS means Data Science.*
@@ -28,15 +26,15 @@ Math/Statistics is required to understand the data and relationship between data
 
 ![](https://cdn-images-1.medium.com/max/800/0*VR8Sy8nm4EcQKn_6.png)
 
-## Computer Science/IT
+### Computer Science/IT
 
 Programming is an essential skill to become a data scientist but one needs not be a hard-core programmer to learn AI. Having familiarity with basic concepts of programming will ease the process of learning AI programming tools like Python/R. These basic concepts of programming should help a candidate get a long way on the journey to pursue a career in AI as it is all about writing efficient code to analyse big data and not being a master of programming. Individuals should learn the basics of programming in Python/R (or any relevant language) before they begin to work on AI problems/projects.
 
-## Maths & Statistics
+### Maths & Statistics
 
 AI teams have people from diverse backgrounds like chemical engineering, physics, economics, statistics, mathematics, operations research, computer science, etc. You will find many data scientists with a bachelor’s degree in statistics and machine learning but it is not a requirement to learn AI. However, having familiarity with the basic concepts of Math and Statistics like Linear Algebra, Calculus, Probability, etc. is important to learn AI.
 
-## Domain/Business Knowledge
+### Domain/Business Knowledge
 
 Subsequently, the business knowledge that the data scientists would need to have would be related to the domain that the project/analysis is in. For instance, if the data scientist is working for a credit card department in a bank, it will need to understand the specific business definitions, regulations, accounting policies & international standards, processes etc. This is the part that is more specific to the organization the data scientist is deployed in.
 
@@ -96,7 +94,7 @@ Before looking into the skill-set of a data scientist, let’s have a look at va
 
 ![](https://cdn-images-1.medium.com/max/800/0*zGdwTKLtbyzDuKJP.png)
 
-## Data Scientist
+### Data Scientist
 
 A data scientist is someone who knows how to extract meaning from and interpret data, which requires both tools and methods from statistics and machine learning. She spends a lot of time in the process of collecting, cleaning, and munging data. Domain knowledge is also an integral part of the skill.
 
