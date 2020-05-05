@@ -64,6 +64,7 @@ To manage the operational load, even databases were made available in parallel, 
 DWH and ETL layer allowed the consolidation of data, analysis and reporting for analytical users.
 
 > A data warehouse (DWH)is designed to support business decisions by allowing data consolidation, analysis and reporting at different aggregate levels.
+
 > The process of extracting data from source systems and bringing it into the data warehouse is commonly called ETL, which stands for extraction, transformation, and loading.
 
 ## Data Mining & OLAP
@@ -89,7 +90,9 @@ To further reduce the latency, change data capture (CDC) pattern introduced to t
 As analytics needs of organizations increased with less and less time-to-market as well as latency requirements, Data Lake was introduced to make the most of the rapidly evolving technologies like Hadoop and Spark.
 
 > A data lake is usually a single store of all enterprise data including raw copies of source system data and transformed data used for tasks such as reporting, visualization, advanced analytics and machine learning.
+
 > Apache Hadoop is a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation. It provides a software framework for distributed storage and processing of big data using the MapReduce programming model.
+
 > Apache Spark is an open-source distributed general-purpose cluster-computing framework. Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance.
 
 ## Data Science (ML/AI)
@@ -97,7 +100,9 @@ As analytics needs of organizations increased with less and less time-to-market 
 Due to recent advancement in the field of Artificial Intelligence, along with traditional analytics needs like BI, organizations started looking to leverage ML/DL use cases to gain competitive advantage.
 
 > Data Science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data.
+
 > Machine Learning is the study of computer algorithms that improve automatically through experience. It is seen as a subset of artificial intelligence.
+
 > Artificial Intelligence, sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and animals.
 
 ## Lambda Architecture
