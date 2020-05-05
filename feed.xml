@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-05-05T00:13:10-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">A Brief History of Data Systems</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/05/A-Brief-History-of-Data-Systems.html" rel="alternate" type="text/html" title="A Brief History of Data Systems" /><published>2020-05-05T00:00:00-05:00</published><updated>2020-05-05T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/05/A-Brief-History-of-Data-Systems</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/05/A-Brief-History-of-Data-Systems.html">&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1500/1*qb6OpIgxPAZcvN54UCa1Bg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-05-05T00:14:55-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">A Brief History of Data Systems</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/05/A-Brief-History-of-Data-Systems.html" rel="alternate" type="text/html" title="A Brief History of Data Systems" /><published>2020-05-05T00:00:00-05:00</published><updated>2020-05-05T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/05/A-Brief-History-of-Data-Systems</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/05/A-Brief-History-of-Data-Systems.html">&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1500/1*qb6OpIgxPAZcvN54UCa1Bg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;context&quot;&gt;Context&lt;/h2&gt;
 &lt;p&gt;Many a time it happens when our business or customer wants to implement Big Data approaches exploiting AI use cases. But they completely get lost in the number of buzzwords like Data Lake, Lambda Architecture etc.&lt;/p&gt;
@@ -64,8 +64,11 @@ To manage the operational load, even databases were made available in parallel, 
 DWH and ETL layer allowed the consolidation of data, analysis and reporting for analytical users.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;A data warehouse (DWH)is designed to support business decisions by allowing data consolidation, analysis and reporting at different aggregate levels.
-The process of extracting data from source systems and bringing it into the data warehouse is commonly called ETL, which stands for extraction, transformation, and loading.&lt;/p&gt;
+  &lt;p&gt;A data warehouse (DWH)is designed to support business decisions by allowing data consolidation, analysis and reporting at different aggregate levels.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The process of extracting data from source systems and bringing it into the data warehouse is commonly called ETL, which stands for extraction, transformation, and loading.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;data-mining--olap&quot;&gt;Data Mining &amp;amp; OLAP&lt;/h2&gt;
@@ -97,9 +100,15 @@ To further reduce the latency, change data capture (CDC) pattern introduced to t
 As analytics needs of organizations increased with less and less time-to-market as well as latency requirements, Data Lake was introduced to make the most of the rapidly evolving technologies like Hadoop and Spark.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;A data lake is usually a single store of all enterprise data including raw copies of source system data and transformed data used for tasks such as reporting, visualization, advanced analytics and machine learning.
-Apache Hadoop is a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation. It provides a software framework for distributed storage and processing of big data using the MapReduce programming model.
-Apache Spark is an open-source distributed general-purpose cluster-computing framework. Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance.&lt;/p&gt;
+  &lt;p&gt;A data lake is usually a single store of all enterprise data including raw copies of source system data and transformed data used for tasks such as reporting, visualization, advanced analytics and machine learning.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apache Hadoop is a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation. It provides a software framework for distributed storage and processing of big data using the MapReduce programming model.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Apache Spark is an open-source distributed general-purpose cluster-computing framework. Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;data-science-mlai&quot;&gt;Data Science (ML/AI)&lt;/h2&gt;
@@ -107,9 +116,15 @@ Apache Spark is an open-source distributed general-purpose cluster-computing fra
 Due to recent advancement in the field of Artificial Intelligence, along with traditional analytics needs like BI, organizations started looking to leverage ML/DL use cases to gain competitive advantage.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Data Science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data.
-Machine Learning is the study of computer algorithms that improve automatically through experience. It is seen as a subset of artificial intelligence.
-Artificial Intelligence, sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and animals.&lt;/p&gt;
+  &lt;p&gt;Data Science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Machine Learning is the study of computer algorithms that improve automatically through experience. It is seen as a subset of artificial intelligence.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Artificial Intelligence, sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and animals.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;lambda-architecture&quot;&gt;Lambda Architecture&lt;/h2&gt;
