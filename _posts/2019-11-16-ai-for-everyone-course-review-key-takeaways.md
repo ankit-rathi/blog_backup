@@ -8,8 +8,6 @@ title: AI For Everyone Course Review & Key Takeaways
 
 ![Courtesy: <https://www.deeplearning.ai/ai-for-everyone/>](https://cdn-images-1.medium.com/max/1200/0*nvcqeUmzwF-AhSq4.jpeg)
 
-> Want to learn more? visit [www.ankitrathi.com](http://www.ankitrathi.com)
-
 I am working in ML/AI field for 6 years now and apart from technical skills that I acquired while working on the projects, I have also discussed various aspects of ML/AI with my non-technical colleagues, who have mostly been senior manager, VPs or CXOs.
 
 When I heard about “AI For Everyone” course, I was a bit reluctant in attending it as I thought I know most of the generic stuff that might have been talked in the course.
@@ -339,14 +337,7 @@ We have learned a lot in these four weeks, but AI is a complex topic, so the key
 
 #### References
 
-\[embed\]https://www.deeplearning.ai/ai-for-everyone/\[/embed\]\
-\[embed\]https://www.deeplearning.ai/ai-for-everyone/\[/embed\]
-
-------------------------------------------------------------------------
-
-*If you liked the content, check out my post on ‘How to launch your DS/AI Career in 12 weeks?’*
-
-\[embed\]https://www.deeplearning.ai/ai-for-everyone/\[/embed\]
+[AI For Everyone](https://www.deeplearning.ai/ai-for-everyone/)
 
 ------------------------------------------------------------------------
 
