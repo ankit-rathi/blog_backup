@@ -18,7 +18,7 @@ My motivation to write this blog is to make sure that I have understood key aspe
 
 This blog will also serve as a refresher for the professionals who have already attended it or are working in AI field but couldn’t attend the course due to time limitation.
 
-### Review of the Course
+## Review of the Course
 
 “AI For Everyone” is a short non-technical course which helps to bridge the gap among corporate professionals who are going to be impacted by AI transformation now or in the near future. Even the professionals without programming background understand the capabilities and limitations of today’s AI, what it takes to incorporate AI into your company’s strategy, how some of the fear regarding AI is overhyped and finally many serious questions like how AI will impact repetitive automation-prone jobs.
 
@@ -32,7 +32,7 @@ Key aspects of this course are:
 
 In my view, the most important benefit of this course is that it brings all the professionals on the same page about what is AI? What are its capabilities? Which really fills a lot of gaps for the people joining AI projects from different background and reduces the friction while working together.
 
-### Outline of the Course
+## Outline of the Course
 
 Let’s have a look at what we are going to learn in this course:
 
@@ -41,13 +41,13 @@ Let’s have a look at what we are going to learn in this course:
 -   Third week: How such AI projects could fit in the context of our company? Examples of complex AI products, such as a smart speaker, a self-driving car. What are the roles and responsibilities of large AI teams? The AI transmission playbook, what are the five-steps for helping a company become a great AI company?
 -   Last week: AI and Society. What are the limitations of AI beyond just technical ones? How AI is affecting developing economies and jobs worldwide?
 
-### Week 1: What is AI?
+## Week 1: What is AI?
 
 ![Courtesy: <https://www.deeplearning.ai/ai-for-everyone/>](https://cdn-images-1.medium.com/max/800/1*gkfny80zfEf6KHYmvQYN2w.png)
 
 This week’s content contains all the essentials for understanding AI, its capabilities, limitations, and how to implement it in a company’s automated processes to become an AI company.
 
-#### Introduction
+### Introduction
 
 -   AI is creating value in almost all the sectors
 -   Artificial Intelligence can be categorized broadly into two streams: ANI & AGI
@@ -56,13 +56,13 @@ This week’s content contains all the essentials for understanding AI, its capa
 -   What we know how to develop today are ANIs, each specialized in one task
 -   AGI doesn’t exist yet (at least for a long time from now)
 
-#### Machine Learning
+### Machine Learning
 
 -   AI has really taken off recently due to the rise of neural networks and deep learning
 -   In the majority of the cases: AI → Machine Learning → Supervised Learning
 -   Supervised Learning learns the mapping between input A to output B
 
-#### What is data
+### What is data
 
 -   We know that Supervised Learning learns the mapping between input A to output B
 -   Examples of input A & output B from which ML algorithms learn is called data
@@ -71,7 +71,7 @@ This week’s content contains all the essentials for understanding AI, its capa
 -   Pre-process the data before using it for AI models: garbage in, garbage out
 -   Most of the data problems are related to incorrect labels & missing values
 
-#### The terminology of AI
+### The terminology of AI
 
 -   Business Intelligence (BI) helps interpret past data, BI is mainly used for reporting or Descriptive Analytics.
 -   Data Science is the science of extracting knowledge and insights from data which often ends up being captured in a deck.
@@ -79,7 +79,7 @@ This week’s content contains all the essentials for understanding AI, its capa
 -   The Machine Learning which is a subset of the AI ​​itself contains subsets of which the most powerful is the Deep Learning (DL**).**
 -   Originally inspired by neural networks of the brain, DL models are composed of several layers of computational units (artificial neurons), each capable of detecting more and more complicated characteristics of a training dataset
 
-#### What makes an AI company?
+### What makes an AI company?
 
 -   Any company + deep learning != AI company
 -   Strategic data acquisition
@@ -87,7 +87,7 @@ This week’s content contains all the essentials for understanding AI, its capa
 -   Pervasive automation
 -   New roles & division of labour
 
-#### 5 steps to becoming an AI company
+### 5 steps to becoming an AI company
 
 -   Execute pilot projects to gain momentum
 -   Build an in-house AI team
@@ -95,7 +95,7 @@ This week’s content contains all the essentials for understanding AI, its capa
 -   Develop an AI strategy
 -   Develop internal & external communications
 
-#### What Machine Learning can and cannot do
+### What Machine Learning can and cannot do
 
 -   ML/AI can’t do everything
 -   Expectations are inflated due to media, academics & only positive reports about AI
@@ -105,27 +105,27 @@ This week’s content contains all the essentials for understanding AI, its capa
 -   ML tends to work well in learning a simple concept with lots of available data
 -   ML tends to work poorly in learning a complex concept, especially from small amount of data or if performing on new type of data
 
-#### Intuitive explanation of deep learning
+### Intuitive explanation of deep learning
 
-### Week 2: Building AI Projects
+## Week 2: Building AI Projects
 
 ![Courtesy: <https://www.deeplearning.ai/ai-for-everyone/>](https://cdn-images-1.medium.com/max/800/1*FgHHmzBXNJsYWypLJWCN6w.png)
 
 The content of this week contains all the essentials for developing an AI project (large or small) and understanding how all jobs will be impacted by AI.
 
-#### Workflow of a Machine Learning project
+### Workflow of a Machine Learning project
 
 -   Collect data
 -   Train model (iterate until its good enough)
 -   Deploy model (get data back, maintain/update model)
 
-#### Workflow of a Data Science project
+### Workflow of a Data Science project
 
 -   Collect data
 -   Analyse data (iterate until its good enough)
 -   Suggest hypotheses/actions (deploy changes, re-analyse periodically)
 
-#### Every job function needs to learn to use data
+### Every job function needs to learn to use data
 
 -   Increasing sales: optimizing sales funnel & automated lead sorting
 -   Default detection: optimizing manufacturing line & automated visual inspection
@@ -133,33 +133,33 @@ The content of this week contains all the essentials for developing an AI projec
 -   Product recommendation: A/B testing & customized product recommendation
 -   Precision agriculture: crop analytics & precise weed killing
 
-#### How to choose an AI project
+### How to choose an AI project
 
 -   organize a cross-functional brainstorming with both the AI and domain teams
 -   Cross-section between ‘What AI can do’ & ‘What is valuable for your business’
 -   Which either increase revenue or reduce costs or both
 -   Use/buy standard AI models and develop only which don’t exist or offer extra business value
 
-#### **Method I**
+### **Method I**
 
 -   Automation of processes/tasks rather than jobs
 -   Selection of activities with the greatest impact on the company’s business
 -   Selection of the main pain points in the company’s business
 
-#### Method II
+### Method II
 
 -   Technical diligence in terms of state of the art AI capability, data requirements & time and people required to create, train & deploy AI models
 -   Business diligence in terms of cost reduction, revenue increment & new product/business opportunity
 -   Ethical considerations
 
-#### Working with an AI team
+### Working with an AI team
 
 -   Instead of hiring AI specialist, train IT engineers in AI
 -   Domain team must define the performance rate to be achieved by the AI ​​model
 -   Not realistic to ask the AI ​​team to obtain a 100% performance rate
 -   Due to limitations of ML, insufficient data, mislabelled data
 
-#### Technical tools for AI teams
+### Technical tools for AI teams
 
 -   AI ​​evolves largely in the Open Source world
 -   Free ML/DL high-quality frameworks
@@ -169,19 +169,19 @@ The content of this week contains all the essentials for developing an AI projec
 -   AI ​​team must also have the significant computational capacity (GPU)
 -   Can be local or by prominent cloud providers (AWS, Azure & GCP)
 
-#### **Big data is not always required**
+### **Big data is not always required**
 
 -   Having more data almost never hurts
 -   Data makes some businesses defensible
 -   But with small data, you can still make progress
 
-### Week 3: Building AI in your Company
+## Week 3: Building AI in your Company
 
 ![Courtesy: <https://www.deeplearning.ai/ai-for-everyone/>](https://cdn-images-1.medium.com/max/800/1*8giUXsK_AECrx54NUbHt6A.png)
 
 This week’s content contains all the essential elements for developing AI in an organization (association, public organization, company).
 
-#### Case study: Smart speaker
+### Case study: Smart speaker
 
 -   Typical examples: Amazon Echo/Alexa, Google Home, Apple Siri, Baidu DuerOS
 -   Steps to process the voice command:
@@ -198,13 +198,13 @@ This week’s content contains all the essential elements for developing AI in a
 -   Execution of the task may be more complex to be broken down in further sub-tasks
 -   Example tasks: play music, volume up/down, make call, current time etc
 
-#### Case study: Self-driving car
+### Case study: Self-driving car
 
 -   There are 3 main steps for a self-driving car to decide on its route and speed
 -   But there are many other localization processes that are necessary for the decision
 -   Key steps: Car detection → Pedestrian detection → Motion planning
 
-#### Example roles of an AI team
+### Example roles of an AI team
 
 -   **Software Engineer**: 50% or more of the team, in charge of developing software
 -   **ML Engineer**: responsible for creating and training ML models
@@ -215,7 +215,7 @@ This week’s content contains all the essential elements for developing AI in a
 -   **AI Product Manager:** help AI team in deciding what to build, what’s feasible & valuable
 -   Start with a small team and expand based on the progress
 
-#### AI Transformation Playbook
+### AI Transformation Playbook
 
 -   Execute pilot projects to gain momentum
 -   Build an in-house AI team
@@ -223,7 +223,7 @@ This week’s content contains all the essential elements for developing AI in a
 -   Develop an AI strategy
 -   Develop internal & external communications
 
-#### AI pitfalls to avoid
+### AI pitfalls to avoid
 
 -   Don’t expect AI to solve each and everything
 -   Don’t depend solely on the technical team to come up with AI use-cases
@@ -231,7 +231,7 @@ This week’s content contains all the essential elements for developing AI in a
 -   Don’t expect traditional planning & processes to apply without any changes
 -   Don’t think you need superstar AI engineer to succeed
 
-#### Taking your first step in AI
+### Taking your first step in AI
 
 -   Get colleagues to learn about AI
 -   Start brainstorming about projects
@@ -239,7 +239,7 @@ This week’s content contains all the essential elements for developing AI in a
 -   Hire or appoint an AI leader
 -   Discuss with CXOs/Board about possibilities of AI transformations
 
-#### Survey of major AI applications
+### Survey of major AI applications
 
 -   Computer Vision: Image classification, Object recognition, Object detection, Image segmentation, Tracking
 -   Natural Language Processing: Text classification, Information retrieval, Name entity recognition, Machine translation
@@ -247,7 +247,7 @@ This week’s content contains all the essential elements for developing AI in a
 -   Robotics: Perception, Motion planning, Control
 -   General Machine Learning: Unstructured data (image, audio, text), Structured data
 
-#### Survey of major AI techniques
+### Survey of major AI techniques
 
 -   Unsupervised learning
 -   Transfer learning
@@ -255,13 +255,13 @@ This week’s content contains all the essential elements for developing AI in a
 -   Generative Adversarial Network (GANs)
 -   Knowledge Graph
 
-### Week 4: AI and Society
+## Week 4: AI and Society
 
 ![Courtesy: <https://www.deeplearning.ai/ai-for-everyone/>](https://cdn-images-1.medium.com/max/800/1*XIsCsSMya6ahjOyLwI1TSQ.png)
 
 This week’s content contains all the essentials to understand the impacts of AI on our society.
 
-#### A realistic view of AI
+### A realistic view of AI
 
 -   Too optimistic: Sentient/super-intelligent AI killer robots coming soon
 -   Too pessimistic: AI cannot do everything, so an AI winter is coming
@@ -269,7 +269,7 @@ This week’s content contains all the essentials to understand the impacts of A
 -   Performance limitations: with unavailability of data, less or irrelevant data or randomness of patterns can limit the performance
 -   Model explainability: explainable models are more accepted in business & society
 
-#### Discrimination / Bias
+### Discrimination / Bias
 
 -   AI model may develop gender and ethnic biases
 -   Problem comes from the training data which contain these biases
@@ -291,7 +291,7 @@ This week’s content contains all the essentials to understand the impacts of A
 
 — Having a diverse workforce
 
-#### Adversarial attacks
+### Adversarial attacks
 
 -   AL models are sensitive to adversarial attacks
 -   Which are deliberate actions to fool an AI model
@@ -300,13 +300,13 @@ This week’s content contains all the essentials to understand the impacts of A
 -   Adversarial defence do exist, but incur some cost
 -   Endless race between forgers and authorities
 
-#### Adverse uses
+### Adverse uses
 
 -   DeepFakes: Synthesize video of people doing things they never did
 -   Undermining of democracy & privacy
 -   Generating fake comments
 
-#### AI and developing nations
+### AI and developing nations
 
 -   Developing economies can ‘leapfrog’ by using technology developed by others
 -   Like mobile phones, mobile payments, online education
@@ -314,7 +314,7 @@ This week’s content contains all the essentials to understand the impacts of A
 -   Public-private partnerships to accelerate development
 -   Invent in AI education of citizen
 
-#### AI and jobs
+### AI and jobs
 
 -   Automation of activities by AI already has an impact on employment
 -   But job created by AI should be much higher than job displaced by 2030
@@ -324,7 +324,7 @@ This week’s content contains all the essentials to understand the impacts of A
 -   Political solutions to support AI transformation in society
 -   We should all complement our current knowledge with an AI knowledge
 
-#### Conclusion
+## Conclusion
 
 Let’s recap what we have learnt in this course:
 
@@ -335,7 +335,7 @@ Let’s recap what we have learnt in this course:
 
 We have learned a lot in these four weeks, but AI is a complex topic, so the key is to keep learning, keep evolving.
 
-#### References
+## References
 
 [AI For Everyone](https://www.deeplearning.ai/ai-for-everyone/)
 
