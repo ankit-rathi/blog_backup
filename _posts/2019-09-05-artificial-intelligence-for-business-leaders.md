@@ -18,7 +18,7 @@ Apart from infusing data culture in the organization, most of the decisions in b
 
 Recently I published a book for AI starters and enthusiasts, where I shared a learning framework on how they can get into AI and during my discussions with managers and business leaders, they asked me if a similar framework can be built for business leaders.
 
-### Framework
+## Framework
 
 If we look at the day to day working of managers and leaders, they need not know each and everything of the work & resources they are managing but just enough awareness can make a huge impact on AI initiatives. It helps in setting the right expectations with the customer or business, defining better strategy, anticipating challenges and understanding the concerns of the team.
 
@@ -70,12 +70,6 @@ As you see, the above approach & framework captures what a business leader or ma
 
 ------------------------------------------------------------------------
 
-*If you liked the content, check out my post on ‘How to launch your DS/AI Career in 12 weeks?’*
-
-\[embed\]https://medium.com/\@rathi.ankit/how-to-launch-your-ds-ai-career-in-12-weeks-8a7e6950ffe6\[/embed\]
-
-------------------------------------------------------------------------
-
 [*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
 
-*Why don’t you connect with Ankit on* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
