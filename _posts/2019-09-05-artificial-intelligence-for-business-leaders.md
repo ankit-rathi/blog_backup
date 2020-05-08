@@ -10,7 +10,7 @@ title: Artificial Intelligence for Business Leaders
 
 It is no secret that data is the new oil and AI is the new electricity. Due to the difference AI can make in every walk of life, it is the red hot subject among recent graduates/undergraduates and working professionals in different industries.
 
-It is not only up to the technical team to make AI initiatives a success in the organization. Business value creation in driven top-down so business leaders is equally responsible for the success or failure of AI initiatives.
+It is not only up to the technical team to make AI initiatives a success in the organization. Business value creation is driven top-down so business leaders are equally responsible for the success or failure of AI initiatives.
 
 If you look at the failure rate of AI projects and the challenges faced by AI teams, you can easily figure out that most of the challenges are because of the absence of data culture in an organization. And data culture can’t be inculcated in a day, it takes efforts and leadership needs to drive it as part of their change management program.
 
