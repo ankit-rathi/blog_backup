@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-05-09T07:15:21-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">Becoming Data &amp;amp; AI Specialist on AWS Platform (for free)</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/10/Becoming-Data-AI-Specialist-on-AWS-Platform.html" rel="alternate" type="text/html" title="Becoming Data &amp; AI Specialist on AWS Platform (for free)" /><published>2020-05-10T00:00:00-05:00</published><updated>2020-05-10T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/10/Becoming-Data-AI-Specialist-on-AWS-Platform</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/10/Becoming-Data-AI-Specialist-on-AWS-Platform.html">&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/2000/1*CR5IbBW_wvl24ckGgzHwCA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-05-09T07:29:08-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">Becoming Data &amp;amp; AI Specialist on AWS Platform (for free)</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/10/Becoming-Data-AI-Specialist-on-AWS-Platform.html" rel="alternate" type="text/html" title="Becoming Data &amp; AI Specialist on AWS Platform (for free)" /><published>2020-05-10T00:00:00-05:00</published><updated>2020-05-10T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/10/Becoming-Data-AI-Specialist-on-AWS-Platform</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/10/Becoming-Data-AI-Specialist-on-AWS-Platform.html">&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/2000/1*CR5IbBW_wvl24ckGgzHwCA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The demand for the workforce to be able to operate in the cloud is growing exponentially. Many cloud providers themselves (i.e. AWS, Azure &amp;amp; GCP) offer easy access to the new generation of cloud training, for professionals and enterprise.&lt;/p&gt;
 
@@ -7,19 +7,20 @@
 
 &lt;p&gt;There are plenty of resources available to learn about AWS Data &amp;amp; AI services for free.&lt;/p&gt;
 
-&lt;h2 id=&quot;aws-cloud-practitioner-essentials&quot;&gt;AWS Cloud Practitioner Essentials&lt;/h2&gt;
-&lt;p&gt;This module is comprised of a series of videos that provide high-level information about several AWS Cloud services, including:&lt;/p&gt;
+&lt;h2 id=&quot;aws-cloud-essentials&quot;&gt;AWS Cloud Essentials&lt;/h2&gt;
+&lt;p&gt;Learn about the foundations of getting started in the AWS Cloud. In this course, you learn about the AWS Cloud architecture and the services in the Compute, Storage, Database, Networking, and Security categories. This course can help you can build and validate an overall understanding of the AWS Cloud, key terminology, and help advance your AWS Cloud skills.&lt;/p&gt;
+
+&lt;p&gt;In this course, you will learn to:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Amazon Elastic Cloud Compute (EC2)&lt;/li&gt;
-  &lt;li&gt;Amazon Elastic Block Store (EBS)&lt;/li&gt;
-  &lt;li&gt;Amazon Simple Storage Service (S3)&lt;/li&gt;
-  &lt;li&gt;the AWS Global Infrastructure&lt;/li&gt;
-  &lt;li&gt;Amazon Virtual Private Cloud (VPC)&lt;/li&gt;
-  &lt;li&gt;Security Groups&lt;/li&gt;
+  &lt;li&gt;Describe the AWS Cloud value proposition&lt;/li&gt;
+  &lt;li&gt;Describe the basic global infrastructure of the cloud&lt;/li&gt;
+  &lt;li&gt;Describe and differentiate between AWS service domains&lt;/li&gt;
+  &lt;li&gt;Explain the Shared Responsibility model&lt;/li&gt;
+  &lt;li&gt;Describe AWS pricing&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;You can access this e-Learning session here:
-&lt;a href=&quot;https://www.aws.training/Details/eLearning?id=29700&quot;&gt;https://www.aws.training/Details/eLearning?id=29700&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://www.aws.training/Details/Video?id=49639&quot;&gt;https://www.aws.training/Details/Video?id=49639&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;aws-machine-learning-specialty&quot;&gt;AWS Machine Learning Specialty&lt;/h2&gt;
 &lt;p&gt;This course prepares you to take the AWS Certified Machine Learning — Specialty exam, which validates your ability to design, implement, deploy, and maintain machine learning (ML) solutions.&lt;/p&gt;
