@@ -16,7 +16,7 @@ The AWS Learning Library is a hub of highly-rated resources including learning p
 There are plenty of resources available to learn about AWS Data & AI services for free.
 
 ## AWS Cloud Practitioner Essentials
-This module is comprised of a series of videos that provide high-level information about several AWS Cloud services, including
+This module is comprised of a series of videos that provide high-level information about several AWS Cloud services, including:
 - Amazon Elastic Cloud Compute (EC2)
 - Amazon Elastic Block Store (EBS)
 - Amazon Simple Storage Service (S3)
@@ -25,7 +25,7 @@ This module is comprised of a series of videos that provide high-level informati
 - Security Groups
 
 You can access this e-Learning session here:
-https://www.aws.training/Details/eLearning?id=29700
+[https://www.aws.training/Details/eLearning?id=29700](https://www.aws.training/Details/eLearning?id=29700)
 
 ## AWS Machine Learning Specialty
 This course prepares you to take the AWS Certified Machine Learning — Specialty exam, which validates your ability to design, implement, deploy, and maintain machine learning (ML) solutions.
@@ -39,7 +39,7 @@ In this course, you’ll learn about the logistics of the exam and the mechanics
 You’ll also learn key test-taking strategies and will put them into action, taking multiple study questions. Once you’ve honed your skills, you’ll have the chance to take a quiz that will help you assess your areas of strength and weakness, so that you’ll know what to emphasize in your pre-exam studies.
 
 You can access this e-Learning session here:
-https://www.aws.training/Details/eLearning?id=42183
+[https://www.aws.training/Details/eLearning?id=42183](https://www.aws.training/Details/eLearning?id=42183)
 
 ## AWS Data Analytics Speciality
 The AWS Certified Data Analytics — Specialty exam validates technical skills and experience in designing and implementing AWS services to derive value from data. This course helps you prepare for the exam by exploring the exam’s topic areas and familiarizing you with the question style and exam approach. The course reviews sample exam questions in each topic area and teach you how to interpret the concepts being tested so you can more easily eliminate incorrect responses.
@@ -52,7 +52,7 @@ The course addresses each of the exam’s content domains:
 - Security of the data analysis system
 
 You can access this e-Learning session here:
-https://www.aws.training/Details/eLearning?id=46612
+[https://www.aws.training/Details/eLearning?id=46612](https://www.aws.training/Details/eLearning?id=46612)
 
 ## AWS Database Specialty
 The AWS Certified Database — Specialty exam validates technical skills and experience in designing, deploying, and managing AWS database services. This course helps you prepare for the exam by exploring the exam’s topic areas and familiarizing you with the question style and exam approach. The course reviews sample exam questions in each topic area and teach you how to interpret the concepts being tested so you can more easily eliminate incorrect responses.
@@ -65,7 +65,7 @@ The course addresses each of the exam’s content domains:
 - Database security
 
 You can access this e-Learning session here:
-https://www.aws.training/Details/eLearning?id=47245
+[https://www.aws.training/Details/eLearning?id=47245](https://www.aws.training/Details/eLearning?id=47245)
 
 ## Exploring AWS Free Tier
 You can explore more than 60 products and start building on AWS using the free tier. Three different types of free offers are available depending on the product used. See below for details on each product.
@@ -74,7 +74,7 @@ You can explore more than 60 products and start building on AWS using the free t
 - Trials
 
 You can have a look at these services here:
-https://aws.amazon.com/free/
+[https://aws.amazon.com/free/](https://aws.amazon.com/free/)
 
 In my upcoming posts, I will cover how you can learn about Data & AI services available on GCP & Azure for free.
 
