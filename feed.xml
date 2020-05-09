@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-05-09T07:11:07-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">Becoming Data &amp;amp; AI Specialist on AWS Platform (for free)</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/10/Becoming-Data-AI-Specialist-on-AWS-Platform.html" rel="alternate" type="text/html" title="Becoming Data &amp; AI Specialist on AWS Platform (for free)" /><published>2020-05-10T00:00:00-05:00</published><updated>2020-05-10T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/10/Becoming-Data-AI-Specialist-on-AWS-Platform</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/10/Becoming-Data-AI-Specialist-on-AWS-Platform.html">&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/2000/1*CR5IbBW_wvl24ckGgzHwCA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-05-09T07:15:21-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Blog</title><subtitle>From Data To Actionable Insights</subtitle><entry><title type="html">Becoming Data &amp;amp; AI Specialist on AWS Platform (for free)</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/10/Becoming-Data-AI-Specialist-on-AWS-Platform.html" rel="alternate" type="text/html" title="Becoming Data &amp; AI Specialist on AWS Platform (for free)" /><published>2020-05-10T00:00:00-05:00</published><updated>2020-05-10T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/10/Becoming-Data-AI-Specialist-on-AWS-Platform</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/10/Becoming-Data-AI-Specialist-on-AWS-Platform.html">&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/2000/1*CR5IbBW_wvl24ckGgzHwCA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The demand for the workforce to be able to operate in the cloud is growing exponentially. Many cloud providers themselves (i.e. AWS, Azure &amp;amp; GCP) offer easy access to the new generation of cloud training, for professionals and enterprise.&lt;/p&gt;
 
@@ -8,7 +8,7 @@
 &lt;p&gt;There are plenty of resources available to learn about AWS Data &amp;amp; AI services for free.&lt;/p&gt;
 
 &lt;h2 id=&quot;aws-cloud-practitioner-essentials&quot;&gt;AWS Cloud Practitioner Essentials&lt;/h2&gt;
-&lt;p&gt;This module is comprised of a series of videos that provide high-level information about several AWS Cloud services, including&lt;/p&gt;
+&lt;p&gt;This module is comprised of a series of videos that provide high-level information about several AWS Cloud services, including:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Amazon Elastic Cloud Compute (EC2)&lt;/li&gt;
   &lt;li&gt;Amazon Elastic Block Store (EBS)&lt;/li&gt;
@@ -19,7 +19,7 @@
 &lt;/ul&gt;
 
 &lt;p&gt;You can access this e-Learning session here:
-https://www.aws.training/Details/eLearning?id=29700&lt;/p&gt;
+&lt;a href=&quot;https://www.aws.training/Details/eLearning?id=29700&quot;&gt;https://www.aws.training/Details/eLearning?id=29700&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;aws-machine-learning-specialty&quot;&gt;AWS Machine Learning Specialty&lt;/h2&gt;
 &lt;p&gt;This course prepares you to take the AWS Certified Machine Learning — Specialty exam, which validates your ability to design, implement, deploy, and maintain machine learning (ML) solutions.&lt;/p&gt;
@@ -35,7 +35,7 @@ https://www.aws.training/Details/eLearning?id=29700&lt;/p&gt;
 &lt;p&gt;You’ll also learn key test-taking strategies and will put them into action, taking multiple study questions. Once you’ve honed your skills, you’ll have the chance to take a quiz that will help you assess your areas of strength and weakness, so that you’ll know what to emphasize in your pre-exam studies.&lt;/p&gt;
 
 &lt;p&gt;You can access this e-Learning session here:
-https://www.aws.training/Details/eLearning?id=42183&lt;/p&gt;
+&lt;a href=&quot;https://www.aws.training/Details/eLearning?id=42183&quot;&gt;https://www.aws.training/Details/eLearning?id=42183&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;aws-data-analytics-speciality&quot;&gt;AWS Data Analytics Speciality&lt;/h2&gt;
 &lt;p&gt;The AWS Certified Data Analytics — Specialty exam validates technical skills and experience in designing and implementing AWS services to derive value from data. This course helps you prepare for the exam by exploring the exam’s topic areas and familiarizing you with the question style and exam approach. The course reviews sample exam questions in each topic area and teach you how to interpret the concepts being tested so you can more easily eliminate incorrect responses.&lt;/p&gt;
@@ -50,7 +50,7 @@ https://www.aws.training/Details/eLearning?id=42183&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;You can access this e-Learning session here:
-https://www.aws.training/Details/eLearning?id=46612&lt;/p&gt;
+&lt;a href=&quot;https://www.aws.training/Details/eLearning?id=46612&quot;&gt;https://www.aws.training/Details/eLearning?id=46612&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;aws-database-specialty&quot;&gt;AWS Database Specialty&lt;/h2&gt;
 &lt;p&gt;The AWS Certified Database — Specialty exam validates technical skills and experience in designing, deploying, and managing AWS database services. This course helps you prepare for the exam by exploring the exam’s topic areas and familiarizing you with the question style and exam approach. The course reviews sample exam questions in each topic area and teach you how to interpret the concepts being tested so you can more easily eliminate incorrect responses.&lt;/p&gt;
@@ -65,7 +65,7 @@ https://www.aws.training/Details/eLearning?id=46612&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;You can access this e-Learning session here:
-https://www.aws.training/Details/eLearning?id=47245&lt;/p&gt;
+&lt;a href=&quot;https://www.aws.training/Details/eLearning?id=47245&quot;&gt;https://www.aws.training/Details/eLearning?id=47245&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;exploring-aws-free-tier&quot;&gt;Exploring AWS Free Tier&lt;/h2&gt;
 &lt;p&gt;You can explore more than 60 products and start building on AWS using the free tier. Three different types of free offers are available depending on the product used. See below for details on each product.&lt;/p&gt;
@@ -76,7 +76,7 @@ https://www.aws.training/Details/eLearning?id=47245&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;You can have a look at these services here:
-https://aws.amazon.com/free/&lt;/p&gt;
+&lt;a href=&quot;https://aws.amazon.com/free/&quot;&gt;https://aws.amazon.com/free/&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;In my upcoming posts, I will cover how you can learn about Data &amp;amp; AI services available on GCP &amp;amp; Azure for free.&lt;/p&gt;
 
