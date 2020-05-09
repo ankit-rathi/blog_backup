@@ -15,17 +15,18 @@ The AWS Learning Library is a hub of highly-rated resources including learning p
 
 There are plenty of resources available to learn about AWS Data & AI services for free.
 
-## AWS Cloud Practitioner Essentials
-This module is comprised of a series of videos that provide high-level information about several AWS Cloud services, including:
-- Amazon Elastic Cloud Compute (EC2)
-- Amazon Elastic Block Store (EBS)
-- Amazon Simple Storage Service (S3)
-- the AWS Global Infrastructure
-- Amazon Virtual Private Cloud (VPC)
-- Security Groups
+## AWS Cloud Essentials
+Learn about the foundations of getting started in the AWS Cloud. In this course, you learn about the AWS Cloud architecture and the services in the Compute, Storage, Database, Networking, and Security categories. This course can help you can build and validate an overall understanding of the AWS Cloud, key terminology, and help advance your AWS Cloud skills.
+
+In this course, you will learn to:
+- Describe the AWS Cloud value proposition
+- Describe the basic global infrastructure of the cloud
+- Describe and differentiate between AWS service domains
+- Explain the Shared Responsibility model
+- Describe AWS pricing
 
 You can access this e-Learning session here:
-[https://www.aws.training/Details/eLearning?id=29700](https://www.aws.training/Details/eLearning?id=29700)
+[https://www.aws.training/Details/Video?id=49639](https://www.aws.training/Details/Video?id=49639)
 
 ## AWS Machine Learning Specialty
 This course prepares you to take the AWS Certified Machine Learning — Specialty exam, which validates your ability to design, implement, deploy, and maintain machine learning (ML) solutions.
