@@ -1,32 +1,13 @@
-# Data & AI Platform Guide
+# Data & AI Blog
 
-## Preface
-### About the Author
-### Why This Book
-### Who This Book Is For
-### Roadmap
-### Acknowledgements
+Welcome to ‘Data & AI’ blog by [ankitrathi.com](ankitrathi.com)*
 
-## I Data & AI Platform Foundation
-### 1. Concepts
-### 2. Process
-### 3. Tools & Services
+*an open-source version of ankitrathi.com is [ankit-rathi.github.io](https://ankit-rathi.github.io/)
 
-
-## II Data & AI Platform Layers
-### 4. Ingestion
-### 5. Storage
-### 6. Processing
-### 7. Analysis
-### 8. Service
-
-
-## III Peripherals of Data & AI Platform
-### 9. Cloud Services
-### 10. DevOps
-### 11. Governance
-
-
-## IV Past, Present & Future
-### 12. A Brief History of Data Systems
-### 13. What Future Looks Like
+## Why this blog?
+Here you can find blog-posts related to everything Data & AI:
+- Latest Trends & Techniques
+- Concepts, Processes & Tools
+- Updated Learning Resources
+- Content from Recent ARTalks
+- Excerpts from my Books (published & upcoming)
