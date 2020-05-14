@@ -8,16 +8,6 @@ title: Building Your Portfolio in Data & AI
 
 ![Photo by [Joanna Kosinska](https://unsplash.com/@joannakosinska?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/photos?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*9NM7A9rdbJQUiyCiYkZX6Q.jpeg)
 
-*In the last post, we got to know the resources which we need to refer in order to build the skill-set in DS/AI field.*
-
-*This is the 6th post of blog post series ‘*[*DS/AI: Self-Starter Handbook*](https://medium.com/data-deft/data-science-self-starter-handbook-preview-236061f83925)*’, this post covers how DS/AI starters can build their portfolio. Following topics are covered here:*
-
--   *Working on Public data-sets*
--   *Participating in Competitions*
--   *Contributing on Git-hub*
--   *Publishing your Blog*
-
-------------------------------------------------------------------------
 
 This blog-post talks about how you can build your DS/AI portfolio. Lets first understand, why a portfolio is important in DS/AI field?
 
