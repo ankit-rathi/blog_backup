@@ -1,9 +1,9 @@
 ---
 toc: true
 layout: post
-description: How to build your career in DS/AI?
+description: Putting it All Together
 categories: [markdown]
-title:  Putting it All Together
+title:  Getting into Machine Learning & Artificial Intelligence
 ---
 
 ![Photo by [Javier Allegue Barros](https://unsplash.com/@soymeraki?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/together?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*KBVQpK_ETpyoQgr99F5AtQ.jpeg)
@@ -15,11 +15,11 @@ Now that you have covered each and everything from the content perspective. Let'
 
 You can notice that all these activities can be completed in 12 weeks.
 
-> As I mentioned earlier that you can not be an expert in DS/AI in such a short time but I can ensure that you have all the knowledge, concepts, processes and tools and techniques available to you to tackle any challenge in DS/AI.
+> As I mentioned earlier that you can not be an expert in ML/AI in such a short time but I can ensure that you have all the knowledge, concepts, processes and tools and techniques available to you to tackle any challenge in ML/AI.
 
 After going through the ‘Navigate’ step, you need to focus as much as you can on building your skills in ‘Build’ step, you can start some of the activities of ‘Launch’ step in parallel as it would help you to grasp and apply what you learnt in ‘Build’ step.
 
-On your path to learn and build your skill-set in DS/AI, you will find many obstacles. Some of them I am covering here and what you need to do to overcome those obstacles.
+On your path to learn and build your skill-set in ML/AI, you will find many obstacles. Some of them I am covering here and what you need to do to overcome those obstacles.
 
 ![](https://cdn-images-1.medium.com/max/800/1*pYjSxIvVg-kKSQwtjySqxg.png)
 
@@ -57,7 +57,7 @@ When given the opportunity to actively engage with the information you are learn
 
 Active learning encourages your brain to activate cognitive and sensory networks, which helps process and store new information. One more similar research at Cornell University found that learner attention starts to wane every 10–20 minutes during lectures — which means instructors are continuously fighting to keep attention. Incorporating regular, varied active learning moments is a great solution to recapture an audience.
 
-Similarly, when you are learning DS/AI theory, try to apply as soon as what you have learnt. This will keep you engaged and motivated for a longer period of time.
+Similarly, when you are learning ML/AI theory, try to apply as soon as what you have learnt. This will keep you engaged and motivated for a longer period of time.
 
 ### Just Enough Approach
 
@@ -69,15 +69,15 @@ Unless you apply what you have learnt, there is no benefit of learning. And the 
 
 > I always suggest my students to apply Just Enough Approach while learning DS/AI. This is the path of optimal learning, you learn the concept and solve the problem as well.
 
-As we learnt in this post, there are few obstacles in the path of learning and application of DS/AI and you can overcome them by just being aware that they exist.
+As we learnt in this post, there are few obstacles in the path of learning and application of ML/AI and you can overcome them by just being aware that they exist.
 
 ### Conclusion
 
-We have looked at the overall landscape, what are DS/AI terminologies and what are the roles in DS/AI projects. Then we worked on the building blocks by listing out what are the concepts, processes, and tools you need to learn. After that, we listed the resources we need to refer to during the learning stage.
+We have looked at the overall landscape, what are ML/AI terminologies and what are the roles in ML/AI projects. Then we worked on the building blocks by listing out what are the concepts, processes, and tools you need to learn. After that, we listed the resources we need to refer to during the learning stage.
 
 Post that we learned how to build an impressive portfolio. How we can start building a network and prepare for the interview in order to search and land the job. Then we looked at the ways to make our career future-proof.
 
-> Now you have all the knowledge, concepts, processes & tools with you to tackle any challenge you face in DS/AI field.
+> Now you have all the knowledge, concepts, processes & tools with you to tackle any challenge you face in ML/AI field.
 
 I believe all the content provided in this series is helpful to you. If you liked (or not) the content, I would ask you to provide your feedback to me.
 
