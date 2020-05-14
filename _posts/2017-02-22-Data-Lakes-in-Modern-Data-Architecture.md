@@ -99,8 +99,7 @@ Streaming/Unstructured/Various Sources \>\> Data Lake (Derived/Discovery Sandbox
 
 [DWH Vs DL](http://www.kdnuggets.com/2015/09/data-lake-vs-data-warehouse-key-differences.html)
 
-------------------------------------------------------------------------
+---
+[*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
 
-*Thank you for reading my post. I regularly write about Data & Technology on* [*LinkedIn*](https://www.linkedin.com/today/posts/ankitrathi) *&* [*Medium*](https://medium.com/@rathi.ankit)*. If you would like to read my future posts then simply ‘Connect’ or ‘Follow’. Also feel free to connect on* [*Slideshare*](https://www.slideshare.net/ankitrathi)*.*
-
-*Originally published at* <https://www.linkedin.com/today/posts/ankitrathi> *on February 22, 2017.*
+*Why don’t you connect with Ankit on* [*YouTube*](https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw)*,* [*Twitter*](https://twitter.com/rathiankit)*,* [*LinkedIn*](https://www.linkedin.com/in/ankitrathi/) *or* [*Instagram*](https://instagram.com/ankitrathi/)*?*
