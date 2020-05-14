@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: How to stay relevant in this ever-evolving field?
 categories: [markdown]
-title:  Making Career Future-Proof
+title:  Making Your ML/AI Career Future-Proof
 ---
 
 ![Photo by [Linus Ekenstam](https://unsplash.com/@linusekenstam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/future-proof?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](https://cdn-images-1.medium.com/max/1200/1*5HbmG34OlWmWJsMs-tXjvA.jpeg)
