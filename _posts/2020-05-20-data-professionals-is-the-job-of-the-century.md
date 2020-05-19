@@ -81,6 +81,8 @@ Grab the content on your favorite platform:
 
 ![](https://cdn-images-1.medium.com/max/1200/1*MUUyy7f92vfsLNwbeoGt9A.png)
 
+![](https://cdn-images-1.medium.com/max/1200/1*Rp3a7f2EptbQ7gqm5RAuZA.png)
+
 ---
 [*Ankit Rathi*](https://www.ankitrathi.com/) *is an AI architect, published author & well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.*
 
