@@ -9,9 +9,9 @@ title: Data Professionals, and NOT Data Scientist, is the Job of the Century
 ![](https://cdn-images-1.medium.com/max/1800/1*WeT4WJgyl0gOIH4AP8GjUA.png)
 
 Grab the content on your favorite platform:
-- on YouTube: https://www.youtube.com/watch?v=W_6Q0jLjTdY
-- on SlideShare: https://www.slideshare.net/ankitrathi/data-professionals-job-of-the-century
-- on GitHub Pages: https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/20/data-professionals-is-the-job-of-the-century.html
+- on YouTube: [https://www.youtube.com/watch?v=W_6Q0jLjTdY](https://www.youtube.com/watch?v=W_6Q0jLjTdY)
+- on SlideShare: [https://www.slideshare.net/ankitrathi/data-professionals-job-of-the-century](https://www.slideshare.net/ankitrathi/data-professionals-job-of-the-century)
+- on GitHub Pages: [https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/20/data-professionals-is-the-job-of-the-century.html](https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/20/data-professionals-is-the-job-of-the-century.html)
 
 ![](https://cdn-images-1.medium.com/max/1200/1*fOkMPFN71hazH-YqRQ2jSA.png)
 
