@@ -1,9 +1,9 @@
 ---
 toc: true
 layout: post
-description: And that's how you can also get started...
+description: My perspective on how you should get started...
 categories: [markdown]
-title: How I got started with Data Science?
+title: How to approach Data Science in 2020?
 ---
 
 ![](https://cdn-images-1.medium.com/max/1800/1*AHtMIS0aXmwqASt587CcTg.png)
