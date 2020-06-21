@@ -12,13 +12,13 @@ In this story, I talk about how I got into Data Science field.
 
 Now grab my content on your favorite platform:
 
-LinkedIn: https://www.linkedin.com/pulse/how-i-got-started-datascience-ankit-rathi
+LinkedIn: [https://www.linkedin.com/pulse/how-i-got-started-datascience-ankit-rathi](https://www.linkedin.com/pulse/how-i-got-started-datascience-ankit-rathi)
 
-YouTube: https://www.youtube.com/watch?v=ScDxrlyXPII
+YouTube: [https://www.youtube.com/watch?v=ScDxrlyXPII](https://www.youtube.com/watch?v=ScDxrlyXPII)
 
-SoundCloud: https://soundcloud.com/ankitrathi/how-i-got-started-with-data-science
+SoundCloud: [https://soundcloud.com/ankitrathi/how-i-got-started-with-data-science](https://soundcloud.com/ankitrathi/how-i-got-started-with-data-science)
 
-SlideShare: https://www.slideshare.net/ankitrathi/how-i-got-started-with-data-science
+SlideShare: [https://www.slideshare.net/ankitrathi/how-i-got-started-with-data-science](https://www.slideshare.net/ankitrathi/how-i-got-started-with-data-science)
 
 As many of you may know, I keep writing posts on LinkedIn and on my personal blog regularly on data & AI field.
 
