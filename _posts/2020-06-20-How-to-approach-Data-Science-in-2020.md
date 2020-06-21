@@ -16,7 +16,7 @@ approach the Data Science field in 2020.
 
 Now grab my content on your favorite platform:
 
-LinkedIn: [https://www.linkedin.com/pulse/how-i-got-started-datascience-ankit-rathi](https://www.linkedin.com/pulse/how-i-got-started-datascience-ankit-rathi)
+LinkedIn: [https://www.linkedin.com/pulse/how-approach-data-science-in2020-ankit-rathi](https://www.linkedin.com/pulse/how-approach-data-science-in2020-ankit-rathi)
 
 YouTube: [https://www.youtube.com/watch?v=kjoYtAu2gBo](https://www.youtube.com/watch?v=kjoYtAu2gBo)
 
