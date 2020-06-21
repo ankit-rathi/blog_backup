@@ -1,4 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-06-21T03:41:42-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Stories</title><subtitle>Data &amp; AI Through Visual Storytelling</subtitle><entry><title type="html">How I got started with Data Science?</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/30/How-I-got-started-with-Data-Science.html" rel="alternate" type="text/html" title="How I got started with Data Science?" /><published>2020-05-30T00:00:00-05:00</published><updated>2020-05-30T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/30/How-I-got-started-with-Data-Science</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/30/How-I-got-started-with-Data-Science.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1800/1*X5s608TMQHjCeu7mpk2aqw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-06-21T13:56:39-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Stories</title><subtitle>Data &amp; AI Through Visual Storytelling</subtitle><entry><title type="html">How I got started with Data Science?</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/20/How-to-approach-Data-Science-in-2020.html" rel="alternate" type="text/html" title="How I got started with Data Science?" /><published>2020-06-20T00:00:00-05:00</published><updated>2020-06-20T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/20/How-to-approach-Data-Science-in-2020</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/20/How-to-approach-Data-Science-in-2020.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1800/1*AHtMIS0aXmwqASt587CcTg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Today, I am going to cover the 2nd most frequently question by my readers and
+followers, How they, I mean you can get into Data Science?&lt;/p&gt;
+
+&lt;p&gt;In this episode, I am going to give you my perspective on how you should
+approach the Data Science field in 2020.&lt;/p&gt;
+
+&lt;p&gt;So let’s get started…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*D4YU17gl_XIngOVcrtoM1w.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Data Science is an interdisciplinary field, which means it is an amalgamation of
+Maths, Programming and Business/Domain, I would like to add here Data Literacy
+as well.&lt;/p&gt;
+
+&lt;p&gt;In an end to end solution, many other fields may also come into play like Cloud
+Computing, DevOps and Data Governance.&lt;/p&gt;
+
+&lt;p&gt;Actual proportion and expertise required for each field vary from project to
+project; organizational culture and data maturity also plays its part.&lt;/p&gt;
+
+&lt;p&gt;Hence we often see very different roles and responsibilities with blurred scope
+in job postings by different organizations.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*X_uSn_8rOntN1sftP-5YMA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s have a look at what skills you may need to build in order to get into the
+data science field.&lt;/p&gt;
+
+&lt;p&gt;First and foremost is the Foundation:&lt;br /&gt; -What, Why &amp;amp; How of Data Science
+(ML/DL/AI)&lt;br /&gt; -An understanding of T-shaped Skillset, which is having expertise
+in your area of interest and just enough awareness of other related areas.&lt;/p&gt;
+
+&lt;p&gt;Second, you need to work on the Core skills of Data Science:&lt;br /&gt; Data Literacy
+at the very beginning, which is knowing :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Data Lifecycle (how data moves in an organization)&lt;/li&gt;
+  &lt;li&gt;A typical flow of how data is Ingested, Stored, Processed, Analysed &amp;amp; Served.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Programming Skills&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;SQL&lt;/li&gt;
+  &lt;li&gt;Python&lt;/li&gt;
+  &lt;li&gt;Keras&lt;/li&gt;
+  &lt;li&gt;Tensorflow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Understanding of Mathematics&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Statistics&lt;/li&gt;
+  &lt;li&gt;Linear Algebra&lt;/li&gt;
+  &lt;li&gt;Multivariate Calculus&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Various Machine Learning Algorithms &amp;amp; Deep Learning Framework&lt;/p&gt;
+
+&lt;p&gt;At last, you need to develop just enough understanding of these fields like Data
+Engineering, Cloud Computing, Dev Ops, Data Governance e.g.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;General What, Why &amp;amp; How&lt;/li&gt;
+  &lt;li&gt;Their usage in the context of Data Science&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*URTAK79QZfw9t-ufUChLow.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To cover all the challenges a beginner faces, I have built an end-to-end
+learning framework which smoothly transitions you into a data science
+professional.&lt;/p&gt;
+
+&lt;p&gt;This framework has four phases:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Navigate is the very first phase of your data science journey, where you need to
+understand the overall landscape before diving deep.&lt;/li&gt;
+  &lt;li&gt;Build phase covers all the concepts, processes, tools you need to learn and the
+resources you need to refer to gain the required knowledge.&lt;/li&gt;
+  &lt;li&gt;Launch is the phase where you build your portfolio, network with like-minded
+professionals and start looking for a job.&lt;/li&gt;
+  &lt;li&gt;Excel phase details out how you can stay up to date &amp;amp; excel in this
+ever-evolving field.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I will talk about this framework in detail in upcoming posts.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;Ankit Rathi&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt; &lt;a href=&quot;https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw&quot;&gt;&lt;em&gt;YouTube&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;or&lt;/em&gt; &lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">How I got started with Data Science?</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/30/How-I-got-started-with-Data-Science.html" rel="alternate" type="text/html" title="How I got started with Data Science?" /><published>2020-05-30T00:00:00-05:00</published><updated>2020-05-30T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/30/How-I-got-started-with-Data-Science</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/30/How-I-got-started-with-Data-Science.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1800/1*X5s608TMQHjCeu7mpk2aqw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In this story, I talk about how I got into Data Science field.&lt;/p&gt;
 
@@ -702,23 +795,6 @@ AI applications improve as they gain more experience (means more data) but prese
 &lt;p&gt;Embracing AI with business &amp;amp; society is a journey, not a silver bullet that will solve challenges instantly. It begins with gathering data into simple visualizations and statistical processes that allow you to better understand your data and get your processes under control. From there, you’ll progress through increasingly advanced analytical capabilities, until you achieve that utopian aim of perfect production, where you have AI helping you make products as efficiently and reliably as possible.&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;Ankit Rathi&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt; &lt;a href=&quot;https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw&quot;&gt;&lt;em&gt;YouTube&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;or&lt;/em&gt; &lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Data &amp;amp; AI Platforms — Open Source Vs Managed Services</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/20/Data-AI-Platforms-Open-Source-Vs-Managed-Services.html" rel="alternate" type="text/html" title="Data &amp; AI Platforms — Open Source Vs Managed Services" /><published>2020-04-20T00:00:00-05:00</published><updated>2020-04-20T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/20/Data-AI-Platforms-Open-Source-Vs-Managed-Services</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/20/Data-AI-Platforms-Open-Source-Vs-Managed-Services.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1500/1*Svz8nTTFVj8OAdZMhrCiiQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;While designing and building Data &amp;amp; AI platforms, you may need to evaluate the options available. Whether your platform would be on-premise or you could use cloud/s services or you would take a hybrid approach.
-In any case, you may need to look and evaluate various tools &amp;amp; services for your ingestion, storage, process/analysis and serving layers.
-In this post, I have mapped open-source and popular managed cloud services to make our evaluation process a bit easier.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1500/1*-lxchArCT3aAPsBWjS-cBQ.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;https://cdn-images-1.medium.com/max/1500/1*0wyyPh2jLjFs9-e5YRE4UA.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;https://cdn-images-1.medium.com/max/1500/1*29JnAqIQuw58X1OCYGPROg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I will be comparing these services with their pros and cons and when to use which service in upcoming posts, stay tuned.
-I hope you find this post useful, stay tuned for more, any feedback would be highly appreciated.&lt;/p&gt;
-
-&lt;hr /&gt;
-
 &lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;Ankit Rathi&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt; &lt;a href=&quot;https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw&quot;&gt;&lt;em&gt;YouTube&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;or&lt;/em&gt; &lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
