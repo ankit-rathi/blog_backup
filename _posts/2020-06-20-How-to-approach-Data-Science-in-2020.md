@@ -14,6 +14,17 @@ followers, How they, I mean you can get into Data Science?
 In this episode, I am going to give you my perspective on how you should
 approach the Data Science field in 2020.
 
+Now grab my content on your favorite platform:
+
+LinkedIn: [https://www.linkedin.com/pulse/how-i-got-started-datascience-ankit-rathi](https://www.linkedin.com/pulse/how-i-got-started-datascience-ankit-rathi)
+
+YouTube: [https://www.youtube.com/watch?v=kjoYtAu2gBo](https://www.youtube.com/watch?v=kjoYtAu2gBo)
+
+SoundCloud: [https://soundcloud.com/ankitrathi/how-to-approach-data-science-in-2020](https://soundcloud.com/ankitrathi/how-to-approach-data-science-in-2020)
+
+SlideShare: [https://www.slideshare.net/ankitrathi/how-to-approach-data-science-in-2020](https://www.slideshare.net/ankitrathi/how-to-approach-data-science-in-2020)
+
+
 So let's get started…
 
 ![](https://cdn-images-1.medium.com/max/1200/1*D4YU17gl_XIngOVcrtoM1w.png)
