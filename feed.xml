@@ -1,26 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-06-07T22:46:47-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Stories</title><subtitle>Data &amp; AI Through Visual Storytelling</subtitle><entry><title type="html">How I started my Data Science journey?</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/30/How-I-started-my-Data-Science-journey.html" rel="alternate" type="text/html" title="How I started my Data Science journey?" /><published>2020-05-30T00:00:00-05:00</published><updated>2020-05-30T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/30/How-I-started-my-Data-Science-journey</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/30/How-I-started-my-Data-Science-journey.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1800/1*dtHgg7aKu6pdDEm7MLhpGA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-06-20T23:43:35-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Stories</title><subtitle>Data &amp; AI Through Visual Storytelling</subtitle><entry><title type="html">How I got started with Data Science?</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/30/How-I-got-started-with-Data-Science.html" rel="alternate" type="text/html" title="How I got started with Data Science?" /><published>2020-05-30T00:00:00-05:00</published><updated>2020-05-30T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/30/How-I-got-started-with-Data-Science</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/30/How-I-got-started-with-Data-Science.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1800/1*X5s608TMQHjCeu7mpk2aqw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;It was the end of 2012 as I remember, I was working with an MNC as a data architect. &lt;/p&gt;
+&lt;p&gt;As many of you may know, I keep writing posts on LinkedIn and on my personal blog regularly on data &amp;amp; AI field.&lt;/p&gt;
 
-&lt;p&gt;I was working all things data, from operational systems to data warehouse to business intelligence, end to end data pipeline in an enterprise. &lt;/p&gt;
+&lt;p&gt;The most frequently asked questions by my readers and followers are how I started with Data Science and how they can also get started, so let me cover the first question today.&lt;/p&gt;
 
-&lt;p&gt;I started to have an impression that I know everything about data, and how it moves through the organization. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*KCGeVlKbA3DjIBUBBrN33g.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;One day, while browsing the internet, I came across an article named ‘Data Scientist: The Sexiest Job of the 21st Century’. &lt;/p&gt;
+&lt;p&gt;It was the end of 2012 as I remember, I was working with an MNC as a data architect.&lt;/p&gt;
 
-&lt;p&gt;I got surprised as well as intrigued, what is this? &lt;/p&gt;
+&lt;p&gt;I was working all things data, from operational systems to data warehouse to business intelligence, a kind of end to end data pipeline in an enterprise.&lt;/p&gt;
 
-&lt;p&gt;I heard the term for the first time and since an HBR article claimed it to be the job of the century, I thought of knowing more about it. &lt;/p&gt;
+&lt;p&gt;I started to have an impression that I know everything about data, and how it moves through the organization.&lt;/p&gt;
 
-&lt;p&gt;After doing a little more digging, I came across ‘Machine Learning’ course by Andrew Ng, I finished it end to end in 3 months. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*Tm8RzerSigfgP-Rk73jHvw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Next challenge was to apply what I learnt… &lt;/p&gt;
+&lt;p&gt;One day, while browsing the internet, I came across an article named ‘Data Scientist: The Sexiest Job of the 21st Century’.&lt;/p&gt;
 
-&lt;p&gt;A little more digging got me to Kaggle platform, which used to host few competitions those days, I started playing with (now famous) Titanic problem, Housing Prices problem was added a bit later. &lt;/p&gt;
+&lt;p&gt;I got surprised as well as curious, what is this? I heard the term for the first time and since an HBR article claimed it to be the job of the century, I thought of knowing more about it.&lt;/p&gt;
 
-&lt;p&gt;So that’s how I got into Data Science field, what is your story? &lt;/p&gt;
+&lt;p&gt;After doing a little more digging, I came across ‘Machine Learning’ course by Andrew Ng, I finished it end to end in 3 months.&lt;/p&gt;
 
-&lt;p&gt;I will cover in my upcoming posts, how I got my first Data Science project and went on to become a Kaggle Expert (very few that time).&lt;/p&gt;
+&lt;p&gt;Next challenge was to apply what I learnt…&lt;/p&gt;
+
+&lt;p&gt;A little more digging got me to Kaggle platform, which used to host few competitions those days, I started playing with (now famous) Titanic problem, and Housing Prices problem was added a bit later.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*f-S5V1HYofCtZz7XNrho8Q.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am working as a Data &amp;amp; AI architect now, my primary responsibility is to infuse intelligence in existing products and identify new Data &amp;amp;AI use cases and build products around it.&lt;/p&gt;
+
+&lt;p&gt;I build quick prototypes and if all goes well I work with other data professionals (like data scientists, data engineers, cloud engineers, devops engineers etc) to deliver the product.&lt;/p&gt;
+
+&lt;p&gt;In my free time, I keep experimenting with latest tech-stack, write blog and books, deliver sessions over podcasts and youtube. I also conduct seminars and workshops on Data &amp;amp; AI, and serving as an advisory to several start-ups.&lt;/p&gt;
+
+&lt;p&gt;So that’s how I got into Data Science field, what is your story? Please let me know in the comment section.&lt;/p&gt;
+
+&lt;p&gt;So this was it, I will cover in my upcoming posts, how I got my first Data Science project and became a Kaggle Expert and why I stopped participating in Kaggle competitions.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;Ankit Rathi&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/em&gt;&lt;/p&gt;
