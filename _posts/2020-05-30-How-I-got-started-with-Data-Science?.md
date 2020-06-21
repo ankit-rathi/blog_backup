@@ -8,6 +8,18 @@ title: How I got started with Data Science?
 
 ![](https://cdn-images-1.medium.com/max/1800/1*X5s608TMQHjCeu7mpk2aqw.png)
 
+In this story, I talk about how I got into Data Science field.
+
+Now grab my content on your favorite platform:
+
+LinkedIn: https://www.linkedin.com/pulse/how-i-got-started-datascience-ankit-rathi
+
+YouTube: https://www.youtube.com/watch?v=ScDxrlyXPII
+
+SoundCloud: https://soundcloud.com/ankitrathi/how-i-got-started-with-data-science
+
+SlideShare: https://www.slideshare.net/ankitrathi/how-i-got-started-with-data-science
+
 As many of you may know, I keep writing posts on LinkedIn and on my personal blog regularly on data & AI field.
 
 The most frequently asked questions by my readers and followers are how I started with Data Science and how they can also get started, so let me cover the first question today. 
