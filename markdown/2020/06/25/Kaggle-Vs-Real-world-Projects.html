@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Kaggle Vs Real-world Projects | Data &amp; AI Stories</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Kaggle Vs Real-world Projects" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A constructive critism of Kaggle Competition (or any data science hackathon)" />
+<meta property="og:description" content="A constructive critism of Kaggle Competition (or any data science hackathon)" />
+<link rel="canonical" href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/25/Kaggle-Vs-Real-world-Projects.html" />
+<meta property="og:url" content="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/25/Kaggle-Vs-Real-world-Projects.html" />
+<meta property="og:site_name" content="Data &amp; AI Stories" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-06-25T00:00:00-05:00" />
+<script type="application/ld+json">
+{"description":"A constructive critism of Kaggle Competition (or any data science hackathon)","@type":"BlogPosting","url":"https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/25/Kaggle-Vs-Real-world-Projects.html","dateModified":"2020-06-25T00:00:00-05:00","datePublished":"2020-06-25T00:00:00-05:00","headline":"Kaggle Vs Real-world Projects","mainEntityOfPage":{"@type":"WebPage","@id":"https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/25/Kaggle-Vs-Real-world-Projects.html"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/data-and-ai/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://ankit-rathi.github.io/data-and-ai/feed.xml" title="Data & AI Stories" /><!-- the google_analytics_id gets auto inserted from the config file -->
+
+
+
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-36087136-2','auto');ga('require','displayfeatures');ga('send','pageview');</script>
+
+<link rel="shortcut icon" type="image/x-icon" href="/data-and-ai/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Kaggle Vs Real-world Projects | Data &amp; AI Stories</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Kaggle Vs Real-world Projects" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A constructive critism of Kaggle Competition (or any data science hackathon)" />
+<meta property="og:description" content="A constructive critism of Kaggle Competition (or any data science hackathon)" />
+<link rel="canonical" href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/25/Kaggle-Vs-Real-world-Projects.html" />
+<meta property="og:url" content="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/25/Kaggle-Vs-Real-world-Projects.html" />
+<meta property="og:site_name" content="Data &amp; AI Stories" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-06-25T00:00:00-05:00" />
+<script type="application/ld+json">
+{"description":"A constructive critism of Kaggle Competition (or any data science hackathon)","@type":"BlogPosting","url":"https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/25/Kaggle-Vs-Real-world-Projects.html","dateModified":"2020-06-25T00:00:00-05:00","datePublished":"2020-06-25T00:00:00-05:00","headline":"Kaggle Vs Real-world Projects","mainEntityOfPage":{"@type":"WebPage","@id":"https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/25/Kaggle-Vs-Real-world-Projects.html"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+<link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css"><link type="application/atom+xml" rel="alternate" href="https://ankit-rathi.github.io/data-and-ai/feed.xml" title="Data & AI Stories" /><!-- the google_analytics_id gets auto inserted from the config file -->
+
+
+
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-36087136-2','auto');ga('require','displayfeatures');ga('send','pageview');</script>
+
+
+
+<script>
+function wrap_img(fn) {
+    if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
+        var elements = document.querySelectorAll(".post img");
+        Array.prototype.forEach.call(elements, function(el, i) {
+            if (el.getAttribute("title")) {
+                const caption = document.createElement('figcaption');
+                var node = document.createTextNode(el.getAttribute("title"));
+                caption.appendChild(node);
+                const wrapper = document.createElement('figure');
+                wrapper.className = 'image';
+                el.parentNode.insertBefore(wrapper, el);
+                el.parentNode.removeChild(el);
+                wrapper.appendChild(el);
+                wrapper.appendChild(caption);
+            }
+        });
+    } else { document.addEventListener('DOMContentLoaded', fn); }
+}
+window.onload = wrap_img;
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function(){
+    // add link icon to anchor tags
+    var elem = document.querySelectorAll(".anchor-link")
+    elem.forEach(e => (e.innerHTML = '<i class="fas fa-link fa-xs"></i>'));
+    });
+</script>
+</head><body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/data-and-ai/">Data &amp; AI Stories</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/data-and-ai/search/">Search</a><a class="page-link" href="/data-and-ai/categories/">Tags</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Kaggle Vs Real-world Projects</h1><p class="page-description">A constructive critism of Kaggle Competition (or any data science hackathon)</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2020-06-25T00:00:00-05:00" itemprop="datePublished">
+        Jun 25, 2020
+      </time>
+       • <span class="read-time" title="Estimated read time">
+    
+    
+      5 min read
+    
+</span></p>
+
+    
+      <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i> 
+      
+        <a class="category-tags-link" href="/data-and-ai/categories/#markdown">markdown</a>
+        
+      
+      </p>
+    
+
+    </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <ul class="section-nav">
+</ul><p><img src="https://cdn-images-1.medium.com/max/1800/1*DKCKQSWY3U-WlZUqg5AmgA.png" alt=""></p>
+
+<p>In this article, I am going to cover the difference between Kaggle &amp; Real-world
+projects.</p>
+
+<p>And it’s not just about Kaggle but any data science competition or hackathon for
+that matter…</p>
+
+<p>Kaggle is a really good platform to get started with Data Science and even to
+keep yourself updated with state-of-the-art algorithms and frameworks in data
+science space.</p>
+
+<p>But is it really enough to make you a real-world data scientist? Let’s find out…</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/1200/1*M0maqWwfZvhdux0BlsecbA.png" alt=""></p>
+
+<p>First of all, let’s have a look at the agenda today, we will see what Kaggle
+platform looks like, how Kagglers compete there, what a typical real-world
+project looks like.</p>
+
+<p>A head-to-head comparison between Kaggle competitions and real-world data
+science project, some general differences as well, and concluding thoughts
+towards the end.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/1200/1*n0KvaYtKXk_qGOHr_lku4w.png" alt=""></p>
+
+<p>Kaggle platform has five main sections, you can take part in competitions, some
+sample competitions are also there for beginners.</p>
+
+<p>You can take part in discussion forums, you can also have a look at kernels or
+notebooks from other Kagglers to review their approach.</p>
+
+<p>There is a dataset section as well, where you can hone your data skills by
+munging &amp; exploring the dataset.</p>
+
+<p>And if you are a complete beginner, you can find introductory to intermediate
+level courses as well.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/1200/1*4PcXvrF3Xe_GxkVCjhRBeA.png" alt=""></p>
+
+<p>In a Kaggle competition, you get a well-defined problem statement, with
+evaluation and competition timelines.</p>
+
+<p>You build a baseline, review others’ approaches if they have made their
+notebooks public.</p>
+
+<p>You can engage in discussion forums to understand the competition better.</p>
+
+<p>Based on these findings, you iterate your data science pipeline until the
+deadline.</p>
+
+<p>You also get partially exposed test dataset to give you an idea of how good is
+your solution.</p>
+
+<p>There are public and private leaderboards, public leader-board is real-time and
+based on the exposed part of test dataset, private leader-board is made public
+after the end of the competition, which is based on the hidden part of the test
+dataset.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/1200/1*g767ElPhleXrrW_vSMtRoA.png" alt=""></p>
+
+<p>In a typical real-world project, you identify and evaluate the opportunity, you
+develop a business understanding of the problem you are looking to solve.</p>
+
+<p>You fetch, qualify and analyse available data, build a prototype or POC to get
+the buy-in from project sponsors to convert it into a full-fledged solution or
+product.</p>
+
+<p>You follow CRISP-DM methodology to build the model, and deploy, host and monitor
+the model in production.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/1200/1*BDwdywD5vVXhw_bJVrsomQ.png" alt=""></p>
+
+<p>In a head-to-head comparison, you can see that in Kaggle competitions, problem
+statement is well-defined, while in real-world projects you may need to first
+identify an opportunity and then formulate the problem statement.</p>
+
+<p>In Kaggle, datasets are available, while in real-world, you need to identify and
+fetch relevant data.</p>
+
+<p>In Kaggle, Train-Test-Real datasets are already segregated, while in a
+real-world project, you need to analyse what kind of split best suits for your
+project.</p>
+
+<p>In Kaggle, there are restrictions to using outside data, while in real-world,
+you can keep looking for additional relevant data.</p>
+
+<p>In Kaggle, evaluation criteria is already defined for you, while in real-world,
+you need to explore which evaluation criteria suits the best for your use case.</p>
+
+<p>There are differences between evaluation criteria and business KPIs, so you need
+to be aware of and take care of that as well, I will talk about it in detail
+later.</p>
+
+<p>In Kaggle, you need to submit your results in a specific format, while in
+real-world, you generally deploy and host the model for business stakeholders.</p>
+
+<p>In Kaggle, you get a deadline for the competitions, while in real-world, you can
+continue as long as the project has funds are there or project sponsor wants you
+to.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/1200/1*6TXmGuu2Sf_PZWzMH1hDsA.png" alt=""></p>
+
+<p>Now let’s have a look at the general differences.</p>
+
+<p>In Kaggle competitions, you have a leader-board to know where you stand compared
+to other participants, while in real-world projects, you are the best as long as
+you are not challenged.</p>
+
+<p>In Kaggle, the expectation is to move higher on the leader-board, while in
+real-world, you need to manage the expectations of the project stakeholders.</p>
+
+<p>In Kaggle, you can use all the resources you can, while in real-world you take
+every decision with respect to its business value.</p>
+
+<p>In Kaggle, competition timelines are important, in real-world, time to market is
+an important aspect.</p>
+
+<p>In Kaggle, you can collaborate with other participants to form a team, in
+real-world, you and other team members need to develop a T-shaped skills-set.</p>
+
+<p>Where horizontal line represents the data literacy shared across the team and
+vertical line represents depth in a particular area.</p>
+
+<p>Like a cloud engineer’s horizontal skill is his data literacy and the end-to-end
+understanding of the work being done in the project, while his vertical skill is
+cloud computing.</p>
+
+<p>In Kaggle, models can be as complex as they can, in order to improve accuracy,
+while in real-world, practical deployment aspects are also considered.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/1200/1*dbHX09QD2JPLEqE7hqtfqg.png" alt=""></p>
+
+<p>So what is the takeaway of this session?</p>
+
+<p>In my view, Kaggle is a useful platform, provided it has other components as
+well apart from competitions.</p>
+
+<p>Real-world projects are different in many aspects as we discussed earlier.</p>
+
+<p>Regarding the effectiveness of the Kaggle platform as a learning tool is really
+subjective.</p>
+
+<p>A data science beginner may find it very useful and can also use this platform
+to showcase his skills.</p>
+
+<p>While an experienced data scientist may not have enough time to take part in
+live competitions.</p>
+
+<p>Still, he can visit the platform intermittently to find any competition which
+may relate to the real-world problem he is solving.</p>
+
+<p>So this is it for now, I hope you found this episode useful. Let me know your
+views in the comments section.</p>
+
+<p>If you liked this article, please subscribe to my channel to get an update
+whenever I upload the new content.</p>
+
+<p>Stay tuned, bye for now.</p>
+
+<hr>
+
+<p><a href="https://www.ankitrathi.com/">Ankit Rathi</a> <em>is an AI architect, published author
+&amp; well-known speaker. His interest lies primarily in building end-to-end AI
+applications/products following best practices of Data Engineering and
+Architecture.</em></p>
+
+<p><em>Why don’t you connect with Ankit on</em>
+<a href="https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw">YouTube</a><em>,</em>
+<a href="https://twitter.com/rathiankit">Twitter</a><em>,</em>
+<a href="https://www.linkedin.com/in/ankitrathi/">LinkedIn</a> <em>or</em>
+<a href="https://instagram.com/ankitrathi/">Instagram</a><em>?</em></p>
+
+  </div><a class="u-url" href="/data-and-ai/markdown/2020/06/25/Kaggle-Vs-Real-world-Projects.html" hidden></a>
+</article>
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/data-and-ai/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="/data-and-ai/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/data-and-ai/assets/minima-social-icons.svg#rss"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+      </div>
+      <div class="footer-col">
+        <p>Data &amp; AI Through Visual Storytelling</p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"><li><a rel="me" href="https://github.com/ankit-rathi" title="ankit-rathi"><svg class="svg-icon grey"><use xlink:href="/data-and-ai/assets/minima-social-icons.svg#github"></use></svg></a></li><li><a rel="me" href="https://twitter.com/rathiankit" title="rathiankit"><svg class="svg-icon grey"><use xlink:href="/data-and-ai/assets/minima-social-icons.svg#twitter"></use></svg></a></li></ul>
+</div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
