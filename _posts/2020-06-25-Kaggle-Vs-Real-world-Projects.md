@@ -8,6 +8,13 @@ title: Kaggle Vs Real-world Projects
 
 ![](https://cdn-images-1.medium.com/max/1800/1*DKCKQSWY3U-WlZUqg5AmgA.png)
 
+Now grab my content on your favourite platform:
+[YouTube](https://www.youtube.com/watch?v=IhGpuLFv4Ho) |
+[SoundCloud](https://soundcloud.com/ankitrathi/kaggle-vs-real-world-projects) |
+[SlideShare](https://www.slideshare.net/ankitrathi/kaggle-vs-realworld-projects)
+|
+[LinkedIn](https://www.linkedin.com/pulse/kaggle-vs-real-world-projects-ankit-rathi)
+
 In this article, I am going to cover the difference between Kaggle & Real-world
 projects.
 
