@@ -1,4 +1,178 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-06-24T05:23:34-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Stories</title><subtitle>Data &amp; AI Through Visual Storytelling</subtitle><entry><title type="html">Kaggle Vs Real-world Projects</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/25/Kaggle-Vs-Real-world-Projects.html" rel="alternate" type="text/html" title="Kaggle Vs Real-world Projects" /><published>2020-06-25T00:00:00-05:00</published><updated>2020-06-25T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/25/Kaggle-Vs-Real-world-Projects</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/25/Kaggle-Vs-Real-world-Projects.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1800/1*DKCKQSWY3U-WlZUqg5AmgA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-06-30T00:21:38-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Stories</title><subtitle>Data &amp; AI Through Visual Storytelling</subtitle><entry><title type="html">Data Science is a Team Sport</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/30/Data-Science-is-a-Team-Sport.html" rel="alternate" type="text/html" title="Data Science is a Team Sport" /><published>2020-06-30T00:00:00-05:00</published><updated>2020-06-30T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/30/Data-Science-is-a-Team-Sport</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/30/Data-Science-is-a-Team-Sport.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1800/1*D6V4tGBqId5WK91dLyXjlQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Today, I am going to cover why I consider data science as a team sport?&lt;/p&gt;
+
+&lt;p&gt;From data science use-case identification to the deployment of the models in
+production, so much goes into data science projects.&lt;/p&gt;
+
+&lt;p&gt;It’s really rare to have all these skills in one person to deliver the data
+science project end-to-end.&lt;/p&gt;
+
+&lt;p&gt;And it depends on the ecosystem you are working in, whether its a start-up or an
+enterprise, size of the team, data maturity et cetera…&lt;/p&gt;
+
+&lt;p&gt;So what is it like to work in a data science project? What is the high-level
+process? what roles are involved and who does what?&lt;/p&gt;
+
+&lt;p&gt;Let’s find out…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*7t3V24PhLgl41eTnawzuJQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s have a look at the high-level steps in a data science project.&lt;/p&gt;
+
+&lt;p&gt;Identify&lt;/p&gt;
+
+&lt;p&gt;Most of the time, you may start with defining the problem statement, but many a
+time, you may not have a problem at hand to solve.&lt;/p&gt;
+
+&lt;p&gt;In that case, you may need to first identify the use-cases for data science and
+may also need to qualify those use-cases.&lt;/p&gt;
+
+&lt;p&gt;If you have identified and qualified many use-cases, then you may also need to
+prioritize them based on their return-on-investment (ROI).&lt;/p&gt;
+
+&lt;p&gt;Define&lt;/p&gt;
+
+&lt;p&gt;After identifying the use case, you define the problem statement, you gather
+business or domain aspects and you start building your understanding around the
+data available.&lt;/p&gt;
+
+&lt;p&gt;You design a high-level approach for the solution, discuss and define the
+key-performance-indicators (KPIs) with the business sponsors.&lt;/p&gt;
+
+&lt;p&gt;Assess&lt;/p&gt;
+
+&lt;p&gt;Most of the time, it is worthwhile to start with a prototype or proof of concept
+(POC) rather than involving in a full-fledged project.&lt;/p&gt;
+
+&lt;p&gt;Building prototype is a way to assess the feasibility of the data science
+project before investing heavily, here you do all the steps required in a data
+science project but on a smaller scale.&lt;/p&gt;
+
+&lt;p&gt;Once you have built a prototype and stakeholders give a go-ahead, you start the
+project formally.&lt;/p&gt;
+
+&lt;p&gt;Build&lt;/p&gt;
+
+&lt;p&gt;You collect and explore the data, you validate and clean it, you apply
+transformations to make the data ready-to-be-consumed for core data science
+tasks.&lt;/p&gt;
+
+&lt;p&gt;Then you build the necessary features, split the train, validation and test
+data-set and also train, validate &amp;amp; tune the model.&lt;/p&gt;
+
+&lt;p&gt;Above steps are iterative, which means you would be continuously munging the
+data, building and modifying features; training, validating and tuning the
+models until you get the required results.&lt;/p&gt;
+
+&lt;p&gt;Deploy&lt;/p&gt;
+
+&lt;p&gt;Once your model provides required accuracy, you deploy it in an environment to
+get the feedback from business stakeholders.&lt;/p&gt;
+
+&lt;p&gt;After getting the positive feedback, you build required dashboards for business
+KPIs and make your data science solution live.&lt;/p&gt;
+
+&lt;p&gt;Monitor&lt;/p&gt;
+
+&lt;p&gt;Once your model is in production, you need to monitor the data and model
+performance over the period of time for any performance degradation.&lt;/p&gt;
+
+&lt;p&gt;If a model performance goes down, you do a root-cause-analysis, replicate the
+issue in a different environment and repeat above mentioned steps to identify
+and resolve the issue.&lt;/p&gt;
+
+&lt;p&gt;So this is the end-to-end process of a data science project.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*5wru-CWrU9qF60h2ayjzRA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, let’s have a look at the different roles in data science teams.&lt;/p&gt;
+
+&lt;p&gt;Please note that these roles may vary based on many factors.&lt;/p&gt;
+
+&lt;p&gt;For example, in a start-up, one or two people might be doing all the stuff.&lt;/p&gt;
+
+&lt;p&gt;While in an enterprise, you may even have more specific roles that I have
+mentioned here.&lt;/p&gt;
+
+&lt;p&gt;Business sponsor is the stakeholder who is funding the project. He is involved
+at the starting and at the end of the project.&lt;/p&gt;
+
+&lt;p&gt;Data science leader manages the project and the team to deliver the project as
+per the business sponsor’s expectations.&lt;/p&gt;
+
+&lt;p&gt;Data engineer collects, processes and refines data as per data scientist’s
+requirement, while the data scientist works on core data science tasks of the
+project like feature engineering, training, evaluating model performance et
+cetera.&lt;/p&gt;
+
+&lt;p&gt;DevOps engineer looks at the deployment aspects of the data science project,
+like automating the preparation of the build and its deployment in an
+environment iteratively.&lt;/p&gt;
+
+&lt;p&gt;You may need a cloud engineer for your project if you are using cloud services,
+which are available in the form of IaaS, PaaS and SaaS.&lt;/p&gt;
+
+&lt;p&gt;Once you have deployed the model in production, you need a business intelligence
+(BI) engineer to build a dashboard where business can look at the results and
+measure the performance against the KPIs.&lt;/p&gt;
+
+&lt;p&gt;If you have many data science projects which are sharing and reusing data and
+infrastructure components, you also need a data architect to do it in the most
+efficient way.&lt;/p&gt;
+
+&lt;p&gt;As mentioned in the starting, I would like to repeat here that these roles may
+vary based on many factors in different organizations.&lt;/p&gt;
+
+&lt;p&gt;So here we looked on a high-level, who does what in a data science project.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*DHfSF7OaLmYokhKYY2EkSQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I will cover more details of this aspect in an upcoming episode, where I plan to
+provide a ‘process vs role mapping’ for a data science project.&lt;br /&gt; &lt;br /&gt; You may
+notice here that the data science projects require a variety of skills, which
+are quite uncommon to acquire by a single person unless he is doing it for
+years.&lt;/p&gt;
+
+&lt;p&gt;As a beginner, I would suggest you to build a T-shaped skill-set, which means
+building depth in a particular area, maybe core data science or core data
+engineering tasks.&lt;/p&gt;
+
+&lt;p&gt;And having breadth in all other related areas which we discussed earlier.&lt;/p&gt;
+
+&lt;p&gt;Why I say so? Because I have seen enough data scientists sitting and waiting for
+data to be available in required format, before starting their work.&lt;/p&gt;
+
+&lt;p&gt;Some data scientists find it really difficult to work on cloud, some struggle
+with writing an efficient pipeline or version maintenance.&lt;/p&gt;
+
+&lt;p&gt;Having just enough understanding of these areas can take you a long way, and if
+required you can perform these tasks yourself rather than waiting for an expert.&lt;/p&gt;
+
+&lt;p&gt;In my view, it will help you in getting the job faster and will also make you
+quite effective in the team.&lt;/p&gt;
+
+&lt;p&gt;So, this is it for now.&lt;/p&gt;
+
+&lt;p&gt;I hope you found this article useful.&lt;/p&gt;
+
+&lt;p&gt;Let me know your views in the comments section.&lt;/p&gt;
+
+&lt;p&gt;If you liked this video, please subscribe to my channel to get an update
+whenever I upload the new content.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;Ankit Rathi&lt;/a&gt; &lt;em&gt;is an AI architect, published author
+&amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI
+applications/products following best practices of Data Engineering and
+Architecture.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt;
+&lt;a href=&quot;https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw&quot;&gt;YouTube&lt;/a&gt;&lt;em&gt;,&lt;/em&gt;
+&lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;Twitter&lt;/a&gt;&lt;em&gt;,&lt;/em&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;LinkedIn&lt;/a&gt; &lt;em&gt;or&lt;/em&gt;
+&lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;Instagram&lt;/a&gt;&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Kaggle Vs Real-world Projects</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/25/Kaggle-Vs-Real-world-Projects.html" rel="alternate" type="text/html" title="Kaggle Vs Real-world Projects" /><published>2020-06-25T00:00:00-05:00</published><updated>2020-06-25T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/25/Kaggle-Vs-Real-world-Projects</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/25/Kaggle-Vs-Real-world-Projects.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1800/1*DKCKQSWY3U-WlZUqg5AmgA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Now grab my content on your favourite platform:
 &lt;a href=&quot;https://www.youtube.com/watch?v=IhGpuLFv4Ho&quot;&gt;YouTube&lt;/a&gt; |
@@ -789,96 +963,6 @@ Data Lake and even Delta Lake still have some common failure mode, one of the mo
 &lt;p&gt;Even the latest approaches have inherent drawbacks (i.e. Data Lake, Distributed Data Mesh), the field will keep evolving and will be coming up with advanced methodologies.&lt;/p&gt;
 
 &lt;p&gt;I believe you found this blog-post helpful, do provide your valuable feedback.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;Ankit Rathi&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt; &lt;a href=&quot;https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw&quot;&gt;&lt;em&gt;YouTube&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;or&lt;/em&gt; &lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">From Data To Actionable Insights</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/30/From-Data-To-Actionable-Insights.html" rel="alternate" type="text/html" title="From Data To Actionable Insights" /><published>2020-04-30T00:00:00-05:00</published><updated>2020-04-30T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/30/From-Data-To-Actionable-Insights</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/04/30/From-Data-To-Actionable-Insights.html">&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/2000/1*vJu3xpSgK6X0T_jfUnh5_A.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Data is the new oil, AI is the new electricity.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;You may keep hearing these terms of late. As Data &amp;amp; AI field is gaining immense traction, every organization or business is looking to make the most of the opportunities available to them.&lt;/p&gt;
-
-&lt;p&gt;Many of you may be working on relevant projects as well, where you collect, store, process, analyse data, and serve the insights to business stakeholders. Some of you may be using the latest ML/AI techniques in your projects and may be aware of CRISP-DM technique.&lt;/p&gt;
-
-&lt;p&gt;If you are working on a one-off project in the AI/ML area, it is fine to just get the work done but if you have many use-cases, it makes sense to have a streamlined approach, for data ingestion, storage, processing and service, so that common resources (data, pipelines, infra etc) can be used across use cases. That’s where design, architecture &amp;amp; governance come into the picture.&lt;/p&gt;
-
-&lt;p&gt;In this article, I would like to show you the typical design of data-intensive applications using a data platform.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Data &amp;amp; AI being a vast field having many sub-fields, a single post is not enough to explain each component to sufficient depth, so I will cover the in-depth view of each component/function in upcoming posts.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;data--actionable-insights&quot;&gt;Data &amp;amp; Actionable Insights&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*T1WfVLbR0uwfNzBEhQBmtw.png&quot; alt=&quot;&quot; /&gt;
-On the highest level of abstraction, you can see a data &amp;amp; AI system as a black box, where data goes in and actionable insights come out. Let’s look at what’s there in this black-box.&lt;/p&gt;
-
-&lt;h2 id=&quot;core--support-functions&quot;&gt;Core &amp;amp; Support Functions&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*AX1iXOcu0SFMKPVd21rvLA.png&quot; alt=&quot;&quot; /&gt;
-If you look into this black-box, you can see that there are some core functions and some support functions to transform data into actionable insights. Core functions work on data while support functions manage and optimize core functions.&lt;/p&gt;
-
-&lt;h2 id=&quot;understanding-the-big-picture&quot;&gt;Understanding the Big Picture&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*yqeLNbPxe1BlrQk-z0__Iw.png&quot; alt=&quot;&quot; /&gt;
-In a typical data analytics platform, there are four core functions and three support functions. Core functions provide functional requirements while support functions facilitate the non-functional requirements.&lt;/p&gt;
-
-&lt;p&gt;As part of core functions, data is ingested, stored, processed, analysed and served to business stakeholders to fulfil Data &amp;amp; AI use cases.&lt;/p&gt;
-
-&lt;p&gt;Support functions take care of infrastructure, security, performance, scalability and delivery aspects of these use cases.&lt;/p&gt;
-
-&lt;p&gt;Let’s have a look at each one of them:&lt;/p&gt;
-
-&lt;h2 id=&quot;data-ingestion&quot;&gt;Data Ingestion&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*CrN_yrcBei0le6t_4mHf2g.png&quot; alt=&quot;&quot; /&gt;
-Data Ingestion deals with all the challenges related to incoming data. Its a framework that makes it easier to collect and integrate data from different types of data sources and support different types of data transport protocols.&lt;/p&gt;
-
-&lt;p&gt;Some of the challenges faced here are: multiple source ingestion, managing streaming/real-time data, speed of ingestion, change detection.&lt;/p&gt;
-
-&lt;h2 id=&quot;data-storage&quot;&gt;Data Storage&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*DQF7xxPaLroHsoCCahxHWw.png&quot; alt=&quot;&quot; /&gt;
-Once you have ingested data into your platform, you need to store it somewhere. There are different types of storages/databases and we select specific storages/databases keeping various factors in mind like data type, ingestion type, processing and request types.&lt;/p&gt;
-
-&lt;p&gt;Notable storage types used in typical data platforms are file storage, Databases, Data Warehouses, Data Lakes, Delta Lakes, Data Mesh etc.&lt;/p&gt;
-
-&lt;h2 id=&quot;data-processing--analysis&quot;&gt;Data Processing &amp;amp; Analysis&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*qVM7MkscynGujkc0Z0opGQ.png&quot; alt=&quot;&quot; /&gt;
-To draw insights from data, we may need to clean, impute, analyse, transform, aggregate it. We may need to build meaningful features in order to build useful models. All these activities are taken care of in this function.&lt;/p&gt;
-
-&lt;p&gt;Data engineering, Big Data processing, Business Intelligence, Machine Learning and Artificial Intelligence capabilities are applied to the data as part of this function.&lt;/p&gt;
-
-&lt;p&gt;Apart from raw data, we may need to store intermediate data or derived insights in order to consume it later. Hence processing, analysis and storage functions may be used iteratively.&lt;/p&gt;
-
-&lt;h2 id=&quot;data-service&quot;&gt;Data Service&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*zyfDIQmeGwoDrkKie5Q6bA.png&quot; alt=&quot;&quot; /&gt;
-Actionable insights have to be consumed by business stakeholders and customers. Data service function takes care of hosting these insights. The type of data service can be APIs, KPI reports/dashboards, notebooks and development environments.&lt;/p&gt;
-
-&lt;h2 id=&quot;cloud-services&quot;&gt;Cloud Services&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*2fGS-Ja0FBLpZkOMS9RbOA.png&quot; alt=&quot;&quot; /&gt;
-All the above functions (as well as DevOps &amp;amp; Governance functions) can be built on-premise as well as on-cloud. Due to various benefits in terms of infrastructure, platform &amp;amp; application, the cloud has become go to support function for almost all the technology requirements.&lt;/p&gt;
-
-&lt;p&gt;Type of cloud services is available as follows: IaaS, PaaS &amp;amp; SaaS. Major cloud providers in Data &amp;amp; AI area are AWS, Azure &amp;amp; GCP. We will learn more about these terms in upcoming posts.&lt;/p&gt;
-
-&lt;h2 id=&quot;devops&quot;&gt;DevOps&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*RoVBPnm9SAYPfB6ibAI2Rw.png&quot; alt=&quot;&quot; /&gt;
-The term DevOps is a combination of two words namely Development and Operations. DevOps is a function that allows a single team to manage the entire application development life cycle, that is, development, testing, deployment, and monitoring.&lt;/p&gt;
-
-&lt;p&gt;The ultimate goal of DevOps is to decrease the duration of the system’s development life cycle while delivering features, fixes, and updates frequently in close synchronization with business objectives.&lt;/p&gt;
-
-&lt;p&gt;It consists of various stages such as continuous development, continuous integration, continuous testing, continuous deployment, and continuous monitoring.&lt;/p&gt;
-
-&lt;p&gt;Notable tools in DevOps area are Git, Jenkins, Kubernetes, Chef, Nagios etc.&lt;/p&gt;
-
-&lt;h2 id=&quot;governance&quot;&gt;Governance&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*LTMRYLWKLJG8B2aGNcTgVg.png&quot; alt=&quot;&quot; /&gt;
-Data governance is a function to manage the availability, usability, integrity and security of the data in enterprise systems, based on internal data standards and policies that also control data usage. Effective data governance ensures that data is consistent and trustworthy and doesn’t get misused.&lt;/p&gt;
-
-&lt;p&gt;This function also includes other concepts such as Data Stewardship, Data Quality, and others to help an enterprise gain better control over its data assets, including methods, technologies, and behaviours around the proper management of data.&lt;/p&gt;
-
-&lt;h2 id=&quot;putting-it-all-together&quot;&gt;Putting It All Together&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*vR8dBkIDd_E6OvISB4vFNw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So this post, though it was a high-level view, we learnt about how actionable insights are generated from data. I believe you found this post helpful, we will dive deeper into the above components/functions in upcoming posts.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;Ankit Rathi&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/em&gt;&lt;/p&gt;
