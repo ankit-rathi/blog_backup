@@ -10,6 +10,13 @@ title: Data Science is a Team Sport
 
 Today, I am going to cover why I consider data science as a team sport?
 
+Now grab my content on your favourite platform:
+[YouTube](https://www.youtube.com/watch?v=Svt4cIaXkP4) |
+[SoundCloud](https://soundcloud.com/ankitrathi/data-science-is-a-team-sport) |
+[SlideShare](https://www.slideshare.net/ankitrathi/data-science-is-a-team-sport)
+|
+[LinkedIn](https://www.linkedin.com/pulse/data-science-team-sport-ankit-rathi)
+
 From data science use-case identification to the deployment of the models in
 production, so much goes into data science projects.
 
