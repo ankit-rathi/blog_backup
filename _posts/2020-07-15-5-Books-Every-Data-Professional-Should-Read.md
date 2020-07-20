@@ -11,11 +11,11 @@ title: 5 Books Every Data Professional Should Read
 Today, I am going to cover why I consider data science as a team sport?
 
 Now grab my content on your favourite platform:
-[YouTube](https://www.youtube.com/watch?v=Svt4cIaXkP4) |
+[YouTube](https://www.youtube.com/watch?v=GXj421me3O0) |
 [SoundCloud](https://soundcloud.com/ankitrathi/data-science-is-a-team-sport) |
-[SlideShare](https://www.slideshare.net/ankitrathi/data-science-is-a-team-sport)
+[SlideShare](https://www.slideshare.net/ankitrathi/5-books-every-data-professional-should-read)
 |
-[LinkedIn](https://www.linkedin.com/pulse/data-science-team-sport-ankit-rathi)
+[LinkedIn](https://www.linkedin.com/pulse/5-books-every-data-professional-shouldread-ankit-rathi)
 
 Today, I would like to discuss 5 books every data professional should read.
 
