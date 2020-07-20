@@ -6,7 +6,7 @@ categories: [markdown]
 title: 5 Books Every Data Professional Should Read
 ---
 
-![](https://miro.medium.com/max/1500/1*a0qkaiBiiusxQxTwSV2-aQ.png)
+![](https://miro.medium.com/max/1800/1*a0qkaiBiiusxQxTwSV2-aQ.png)
 
 Today, I am going to cover why I consider data science as a team sport?
 
@@ -23,7 +23,7 @@ These are the books that have shaped my career over the last few years.
 
 And I believe every data professional working on the data projects should keep these books handy, be it a data scientist, data engineer or machine learning engineer.
 
-![](https://miro.medium.com/max/1050/1*vX6ZPmBJB14jasFojhbEwg.png)
+![](https://miro.medium.com/max/800/1*vX6ZPmBJB14jasFojhbEwg.png)
 
 The first book that I recommend is “Data Science for Business” by Foster Provost & Tom Fawcett.
 
@@ -35,7 +35,7 @@ It does not assume any pre-requisites, and I recommend it to all business and te
 
 It may not be very detailed for advanced data science professionals, but if you are just starting out in the data science field, or you are leading a data science team, then this book is for you.
 
-![](https://miro.medium.com/max/1050/1*JT6oAgBi_nL4c6HduSsGrQ.png)
+![](https://miro.medium.com/max/800/1*JT6oAgBi_nL4c6HduSsGrQ.png)
 
 The second book that I would like to suggest is “Naked Statistics” by Charles Wheelan.
 
@@ -49,7 +49,7 @@ It starts with an introduction to the basics and then goes into more advanced to
 
 All along the way, the author explains all of the concepts extremely well and uses examples to get the point across.
 
-![](https://miro.medium.com/max/1050/1*zjOLBGRKPFwD_GV1CNNxsw.png)
+![](https://miro.medium.com/max/800/1*zjOLBGRKPFwD_GV1CNNxsw.png)
 
 Now lets come to the third book, which is “Hands-On Machine Learning with Scikit-Learn, Keras and Tensor Flow” by Aurelien Geron.
 
@@ -61,7 +61,7 @@ Like the second chapter, end-to-end machine learning projects, helps to understa
 
 Choose this book if you know Python. Even if you don’t know Python, with a crash course, you can easily learn Python and the concepts in the book.
 
-![](https://miro.medium.com/max/1050/1*1P6C8Nt7Nj-tefiVdUXmdg.png)
+![](https://miro.medium.com/max/800/1*1P6C8Nt7Nj-tefiVdUXmdg.png)
 
 The fourth book I would recommend is “Designing Data-Intensive Applications” by Martin Kleppmann.
 
@@ -73,7 +73,7 @@ This book is insightful, informative, impartial, extensively researched, and eve
 
 This is highly recommended for the data professionals looking to build real-world data-intensive applications.
 
-![](https://miro.medium.com/max/1050/1*mRVMFAb2zhL2Fb6xa5sTGQ.png)
+![](https://miro.medium.com/max/800/1*mRVMFAb2zhL2Fb6xa5sTGQ.png)
 
 Lets come to the fifth book, which is “Data Science on the Google Cloud Platform” by Valliappa Lakshmanan.
 
