@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-07-02T13:06:47-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Stories</title><subtitle>Data &amp; AI Through Visual Storytelling</subtitle><entry><title type="html">Data Science is a Team Sport</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/30/Data-Science-is-a-Team-Sport.html" rel="alternate" type="text/html" title="Data Science is a Team Sport" /><published>2020-06-30T00:00:00-05:00</published><updated>2020-06-30T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/30/Data-Science-is-a-Team-Sport</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/30/Data-Science-is-a-Team-Sport.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1800/1*D6V4tGBqId5WK91dLyXjlQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-07-20T10:12:09-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data &amp;amp; AI Stories</title><subtitle>Data &amp; AI Through Visual Storytelling</subtitle><entry><title type="html">5 Books Every Data Professional Should Read</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/07/15/5-Books-Every-Data-Professional-Should-Read.html" rel="alternate" type="text/html" title="5 Books Every Data Professional Should Read" /><published>2020-07-15T00:00:00-05:00</published><updated>2020-07-15T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/07/15/5-Books-Every-Data-Professional-Should-Read</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/07/15/5-Books-Every-Data-Professional-Should-Read.html">&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1500/1*a0qkaiBiiusxQxTwSV2-aQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Today, I am going to cover why I consider data science as a team sport?&lt;/p&gt;
+
+&lt;p&gt;Now grab my content on your favourite platform:
+&lt;a href=&quot;https://www.youtube.com/watch?v=Svt4cIaXkP4&quot;&gt;YouTube&lt;/a&gt; |
+&lt;a href=&quot;https://soundcloud.com/ankitrathi/data-science-is-a-team-sport&quot;&gt;SoundCloud&lt;/a&gt; |
+&lt;a href=&quot;https://www.slideshare.net/ankitrathi/data-science-is-a-team-sport&quot;&gt;SlideShare&lt;/a&gt;
+|
+&lt;a href=&quot;https://www.linkedin.com/pulse/data-science-team-sport-ankit-rathi&quot;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Today, I would like to discuss 5 books every data professional should read.&lt;/p&gt;
+
+&lt;p&gt;These are the books that have shaped my career over the last few years.&lt;/p&gt;
+
+&lt;p&gt;And I believe every data professional working on the data projects should keep these books handy, be it a data scientist, data engineer or machine learning engineer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*vX6ZPmBJB14jasFojhbEwg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The first book that I recommend is “Data Science for Business” by Foster Provost &amp;amp; Tom Fawcett.&lt;/p&gt;
+
+&lt;p&gt;As the name suggests, this book covers data science field from business viewpoint.&lt;/p&gt;
+
+&lt;p&gt;It is quite simple, non-mathematical and full of practical anecdotes.&lt;/p&gt;
+
+&lt;p&gt;It does not assume any pre-requisites, and I recommend it to all business and technical managers to orient themselves, into this new way of thinking and business execution.&lt;/p&gt;
+
+&lt;p&gt;It may not be very detailed for advanced data science professionals, but if you are just starting out in the data science field, or you are leading a data science team, then this book is for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*JT6oAgBi_nL4c6HduSsGrQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The second book that I would like to suggest is “Naked Statistics” by Charles Wheelan.&lt;/p&gt;
+
+&lt;p&gt;This book covers nicely what statistics is all about.&lt;/p&gt;
+
+&lt;p&gt;If you are new to the subject, you will get a solid grasp of the basic concepts here.&lt;/p&gt;
+
+&lt;p&gt;It is not a dry textbook and covers the groundwork in a clear, approachable and entertaining way, which is not heavy in maths as well.&lt;/p&gt;
+
+&lt;p&gt;It starts with an introduction to the basics and then goes into more advanced topics.&lt;/p&gt;
+
+&lt;p&gt;All along the way, the author explains all of the concepts extremely well and uses examples to get the point across.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*zjOLBGRKPFwD_GV1CNNxsw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now lets come to the third book, which is “Hands-On Machine Learning with Scikit-Learn, Keras and Tensor Flow” by Aurelien Geron.&lt;/p&gt;
+
+&lt;p&gt;This book is a very practical introduction to machine learning using Python.&lt;/p&gt;
+
+&lt;p&gt;Although the book says it’s for beginners, still even experienced professionals may find it helpful.&lt;/p&gt;
+
+&lt;p&gt;Like the second chapter, end-to-end machine learning projects, helps to understand a few small yet important steps, which we tend to miss or ignore, when we work on a large scale machine learning project.&lt;/p&gt;
+
+&lt;p&gt;Choose this book if you know Python. Even if you don’t know Python, with a crash course, you can easily learn Python and the concepts in the book.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*1P6C8Nt7Nj-tefiVdUXmdg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The fourth book I would recommend is “Designing Data-Intensive Applications” by Martin Kleppmann.&lt;/p&gt;
+
+&lt;p&gt;It is one of those rare books which smoothly blend Theory and Practice, not to mention about the lucid language it uses.&lt;/p&gt;
+
+&lt;p&gt;The most awesome thing about this book, is that it targets the principles, which form the basis of all the buzzwords, that are floating in the tech Industry these days.&lt;/p&gt;
+
+&lt;p&gt;This book is insightful, informative, impartial, extensively researched, and even philosophical.&lt;/p&gt;
+
+&lt;p&gt;This is highly recommended for the data professionals looking to build real-world data-intensive applications.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*mRVMFAb2zhL2Fb6xa5sTGQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lets come to the fifth book, which is “Data Science on the Google Cloud Platform” by Valliappa Lakshmanan.&lt;/p&gt;
+
+&lt;p&gt;This book is a kind of tour to data science and engineering on the cloud.&lt;/p&gt;
+
+&lt;p&gt;Don’t go by the mention of ‘Google Cloud Platform’ in the title, the learnings and insights can be applied to any cloud platform.&lt;/p&gt;
+
+&lt;p&gt;This book gives a clear and balanced view to data engineers, who are looking to derive insights from data.&lt;/p&gt;
+
+&lt;p&gt;By using a common use case and following it end to end throughout the book, author helps readers keep track of what is going on.&lt;/p&gt;
+
+&lt;p&gt;The purpose and process for each service is covered with clarity, and there are explanations of trade-offs and the value added for the choices made.&lt;/p&gt;
+
+&lt;p&gt;So this is my list of books every data professional should read. Did you like this compilation? Let me know in the comments section.&lt;/p&gt;
+
+&lt;p&gt;Lets end this episode here, subscribe to my YouTube channel to get the latest updates.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;Ankit Rathi&lt;/a&gt; &lt;em&gt;is an AI architect, published author
+&amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI
+applications/products following best practices of Data Engineering and
+Architecture.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt;
+&lt;a href=&quot;https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw&quot;&gt;YouTube&lt;/a&gt;&lt;em&gt;,&lt;/em&gt;
+&lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;Twitter&lt;/a&gt;&lt;em&gt;,&lt;/em&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;LinkedIn&lt;/a&gt; &lt;em&gt;or&lt;/em&gt;
+&lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;Instagram&lt;/a&gt;&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Data Science is a Team Sport</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/30/Data-Science-is-a-Team-Sport.html" rel="alternate" type="text/html" title="Data Science is a Team Sport" /><published>2020-06-30T00:00:00-05:00</published><updated>2020-06-30T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/30/Data-Science-is-a-Team-Sport</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/06/30/Data-Science-is-a-Team-Sport.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1800/1*D6V4tGBqId5WK91dLyXjlQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Today, I am going to cover why I consider data science as a team sport?&lt;/p&gt;
 
@@ -796,180 +892,6 @@ ever-evolving field.&lt;/li&gt;
 &lt;p&gt;In my upcoming posts, I will cover how you can learn about Data &amp;amp; AI services available on GCP &amp;amp; Azure for free.&lt;/p&gt;
 
 &lt;p&gt;This is it for now, I hope you liked this article, stay tuned for more.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;Ankit Rathi&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt; &lt;a href=&quot;https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw&quot;&gt;&lt;em&gt;YouTube&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;or&lt;/em&gt; &lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">A Brief History of Data Systems</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/05/A-Brief-History-of-Data-Systems.html" rel="alternate" type="text/html" title="A Brief History of Data Systems" /><published>2020-05-05T00:00:00-05:00</published><updated>2020-05-05T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/05/A-Brief-History-of-Data-Systems</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/05/A-Brief-History-of-Data-Systems.html">&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1500/1*qb6OpIgxPAZcvN54UCa1Bg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;context&quot;&gt;Context&lt;/h2&gt;
-&lt;p&gt;Many a time it happens when our business or customer wants to implement Big Data approaches exploiting AI use cases. But they completely get lost in the number of buzzwords like Data Lake, Lambda Architecture etc.&lt;/p&gt;
-
-&lt;p&gt;In the past, I have prepared material for such business stakeholders and customers to build their foundation on data systems so that they can understand these buzzwords in a simplest non-technical manner.&lt;/p&gt;
-
-&lt;p&gt;Most of the time I ended up explaining how it all started and which approach or design pattern emerged or disappeared for what reason. So in this blog-post, I am trying to provide a brief history of how the data systems have evolved.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Almost all the definitions added here to further explain the terms used have been referenced from Wikipedia.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;single-user&quot;&gt;Single User&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*AHvicv5x0WXYjQK5sLottw.png&quot; alt=&quot;&quot; /&gt;
-Data systems’ journey started with a single user, a simple application running on a single machine.&lt;/p&gt;
-
-&lt;h2 id=&quot;client-server&quot;&gt;Client-Server&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*dQ5r8_lZezy537XAvSWY3A.png&quot; alt=&quot;&quot; /&gt;
-When multiple users needed to access data on the same server, Client-Server architecture followed, a thin client on the user’s machine connected to the server.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Client–server model is a distributed application structure that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;front-end--back-end&quot;&gt;Front End &amp;amp; Back End&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*yAJLS80AY_0nPnZmNLZzIg.png&quot; alt=&quot;&quot; /&gt;
-Over time, to better manage the users &amp;amp; data system, server further divided into front-end and backend, backend dealing with data and frontend tackling with users.&lt;/p&gt;
-
-&lt;h2 id=&quot;database&quot;&gt;Database&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*_tjVhK_vVFX0HsAaBdwJIw.png&quot; alt=&quot;&quot; /&gt;
-Database introduced to manage data efficiently and to allow users to perform multiple tasks with ease.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A database management system (DBMS) stores, organizes and manages a large amount of information within a single software application.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;business-intelligence&quot;&gt;Business Intelligence&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*iGP038MJc0mKxhAFmqqV3w.png&quot; alt=&quot;&quot; /&gt;
-Business Intelligence (BI) function added at the other end of the database to get insights from operational data, till now this was all on a single machine.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Business Intelligence comprises the strategies and technologies used by enterprises for the data analysis of business information. BI technologies provide historical, current, and predictive views of business operations.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;more-users&quot;&gt;More Users&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*8QvkdkxdLbxhRc64V7cJkA.png&quot; alt=&quot;&quot; /&gt;
-As users increased on the operational side, the single machine got split into two to manage different operational and analytical needs of the users.&lt;/p&gt;
-
-&lt;h2 id=&quot;even-more-users&quot;&gt;Even More Users&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*wazIo-VpWaNh0faF0Iutwg.png&quot; alt=&quot;&quot; /&gt;
-As more users increased on the operational side, machines were added in parallel to manage the load.&lt;/p&gt;
-
-&lt;h2 id=&quot;automated-systems&quot;&gt;Automated Systems&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*w62o7HXmvXWlfDVfz5u0BA.png&quot; alt=&quot;&quot; /&gt;
-Addition of automated systems also put pressure on the database, BI layer got split to better manage BI concerns separately.&lt;/p&gt;
-
-&lt;h2 id=&quot;more-users-analytics&quot;&gt;More Users (Analytics)&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*q9hbUPs4YXDut1egCBv3tg.png&quot; alt=&quot;&quot; /&gt;
-To manage the operational load, even databases were made available in parallel, which increased the load on BI, as well as introduced few problems in terms of inconsistency.&lt;/p&gt;
-
-&lt;h2 id=&quot;etl--dwh&quot;&gt;ETL &amp;amp; DWH&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*GSgJyJ7TPgh4KYaYHYCDFQ.png&quot; alt=&quot;&quot; /&gt;
-DWH and ETL layer allowed the consolidation of data, analysis and reporting for analytical users.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A data warehouse (DWH)is designed to support business decisions by allowing data consolidation, analysis and reporting at different aggregate levels.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The process of extracting data from source systems and bringing it into the data warehouse is commonly called ETL, which stands for extraction, transformation, and loading.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;data-mining--olap&quot;&gt;Data Mining &amp;amp; OLAP&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*hTQJa81UrstbTyEB4XVLKw.png&quot; alt=&quot;&quot; /&gt;
-As time progressed, analytical needs increased, data mining (DM) and online analytical processing (OLAP) functions added.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Data mining (DM) is the process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;extract-load-transform-elt&quot;&gt;Extract, Load, Transform (ELT)&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*s1m20XDpuWJb795c4lxLOw.png&quot; alt=&quot;&quot; /&gt;
-To reduce the dependencies on source data systems and minimize the latency, ELT pattern started being used.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Extract, load, transform (ELT) is an alternative to extract, transform, load (ETL) used with data warehouse or data lake implementations.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;change-data-capture-cdc&quot;&gt;Change Data Capture (CDC)&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*V4eWusR-iJDziYCbb4hldA.png&quot; alt=&quot;&quot; /&gt;
-To further reduce the latency, change data capture (CDC) pattern introduced to transfer only the change-log rather actual data.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Change data capture (CDC) is a set of software design patterns used to determine and track the data that has changed so that action can be taken using the changed data.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;data-lake-hadoopspark&quot;&gt;Data Lake (Hadoop/Spark)&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*4yZ-SS7refneWOA8FVqSgQ.png&quot; alt=&quot;&quot; /&gt;
-As analytics needs of organizations increased with less and less time-to-market as well as latency requirements, Data Lake was introduced to make the most of the rapidly evolving technologies like Hadoop and Spark.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A data lake is usually a single store of all enterprise data including raw copies of source system data and transformed data used for tasks such as reporting, visualization, advanced analytics and machine learning.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Apache Hadoop is a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation. It provides a software framework for distributed storage and processing of big data using the MapReduce programming model.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Apache Spark is an open-source distributed general-purpose cluster-computing framework. Spark provides an interface for programming entire clusters with implicit data parallelism and fault tolerance.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;data-science-mlai&quot;&gt;Data Science (ML/AI)&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*FF8RD-yLGLJjLcq_GkFNIQ.png&quot; alt=&quot;&quot; /&gt;
-Due to recent advancement in the field of Artificial Intelligence, along with traditional analytics needs like BI, organizations started looking to leverage ML/DL use cases to gain competitive advantage.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Data Science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Machine Learning is the study of computer algorithms that improve automatically through experience. It is seen as a subset of artificial intelligence.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Artificial Intelligence, sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and animals.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;lambda-architecture&quot;&gt;Lambda Architecture&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*Hgw-w8SRaEueIGo96D7SKQ.png&quot; alt=&quot;&quot; /&gt;
-Along with batch processing and analytics, real-time processing and analytics also started gaining grounds. To eliminate the inconsistencies and overheads, Lambda Architecture was introduced.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Lambda architecture is a data-processing architecture designed to handle massive quantities of data by taking advantage of both batch and stream-processing methods.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;kappa-architecture&quot;&gt;Kappa Architecture&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*XOQxRJ-jCg4gwaAWYuEFWA.png&quot; alt=&quot;&quot; /&gt;
-Lambda Architecture brings some complexities with it, Kappa Architecture is a simplification of Lambda Architecture.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A Kappa Architecture system is like a Lambda Architecture system with the batch processing system removed. To replace batch processing, data is simply fed through the streaming system quickly.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;delta-lake&quot;&gt;Delta Lake&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*N-NLV7xVVmZM17visqfZJw.png&quot; alt=&quot;&quot; /&gt;
-While Data Lakes are prominent in modern data architecture, it has its own problems. One of the major problems is lack of ACID capabilities, this problem has been solved by Delta Lake.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Delta Lake is an open source storage layer that brings reliability to data lakes. Delta Lake provides ACID transactions, scalable metadata handling, and unifies streaming and batch data processing. Delta Lake runs on top of your existing data lake and is fully compatible with Apache Spark APIs.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;distributed-data-mesh&quot;&gt;Distributed Data Mesh&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1050/1*bgIloMVtrlDTIjRDIDZF8g.png&quot; alt=&quot;&quot; /&gt;
-Data Lake and even Delta Lake still have some common failure mode, one of the most talked-about failures is centralized and siloed nature which substantially hampers the capability to make data and its business value made available across the organization.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Distributed Data Mesh is an architectural paradigm that unlocks analytical data at scale; rapidly unlocking access to an ever-growing number of distributed domain data sets, for a proliferation of consumption scenarios such as machine learning, analytics or data-intensive applications across the organization.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;concluding-thoughts&quot;&gt;Concluding Thoughts&lt;/h2&gt;
-
-&lt;p&gt;This is it for now, as you may notice that Data Systems are evolving rapidly of late. In my view, there are two takeaways of this post:&lt;/p&gt;
-
-&lt;p&gt;Not one size fits all, which component or framework to use, it all depends on your specific requirement.&lt;/p&gt;
-
-&lt;p&gt;Even the latest approaches have inherent drawbacks (i.e. Data Lake, Distributed Data Mesh), the field will keep evolving and will be coming up with advanced methodologies.&lt;/p&gt;
-
-&lt;p&gt;I believe you found this blog-post helpful, do provide your valuable feedback.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;Ankit Rathi&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/em&gt;&lt;/p&gt;
