@@ -1,9 +1,9 @@
 ---
 toc: true
 layout: post
-description: Sci-Fi Movies for technologists working in Data Science space.
+description: How to go from problem statement to solution in production?
 categories: [markdown]
-title: 9 Movies Every Data Scientist Should Watch
+title: End-to-End Data Science Process
 ---
 ![](https://cdn-images-1.medium.com/max/1800/1*Sicdft5MMryjrPmtzTo4Fg.png)
 
