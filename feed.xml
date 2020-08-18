@@ -1,4 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-08-06T13:54:49-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data-Driven Intelligence</title><subtitle>Democratizing Data-Driven Intelligence</subtitle><entry><title type="html">9 Movies Every Data Scientist Should Watch</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/08/05/9-Movies-Every-Data-Scientist-Should-Watch.html" rel="alternate" type="text/html" title="9 Movies Every Data Scientist Should Watch" /><published>2020-08-05T00:00:00-05:00</published><updated>2020-08-05T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/08/05/9-Movies-Every-Data-Scientist-Should-Watch</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/08/05/9-Movies-Every-Data-Scientist-Should-Watch.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1800/1*UGXvhKGjcQS04pzwVK8dqw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://ankit-rathi.github.io/data-and-ai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ankit-rathi.github.io/data-and-ai/" rel="alternate" type="text/html" /><updated>2020-08-18T04:40:32-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/feed.xml</id><title type="html">Data-Driven Intelligence</title><subtitle>Democratizing Data-Driven Intelligence</subtitle><entry><title type="html">9 Movies Every Data Scientist Should Watch</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/08/15/End-to-End-Data-Science-Process.html" rel="alternate" type="text/html" title="9 Movies Every Data Scientist Should Watch" /><published>2020-08-15T00:00:00-05:00</published><updated>2020-08-15T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/08/15/End-to-End-Data-Science-Process</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/08/15/End-to-End-Data-Science-Process.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1800/1*Sicdft5MMryjrPmtzTo4Fg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In this post, I am going to cover a typical end-to-end data science process.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Watch this episode on YouTube
+*&lt;a href=&quot;https://www.youtube.com/watch?v=dqsEyiyYXQk&quot;&gt;here&lt;/a&gt;&lt;/em&gt;.*&lt;/p&gt;
+
+&lt;p&gt;From data science use-case identification to the deployment of the models in
+production, so much goes into data science projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*KuOxm0dz39TPaduJd-IDqg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So what is it like to work in a data science project? What are the high-level
+steps?&lt;/p&gt;
+
+&lt;p&gt;Let’s have a look in this post…&lt;/p&gt;
+
+&lt;p&gt;Before looking into the end to end data science process, I would like to quickly
+mention about data systems and the typical data lifecycle in an organization.&lt;/p&gt;
+
+&lt;p&gt;There are mainly two types of data systems: transactional and analytical.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*ZbW08nuP1m6IARfRyrt-jg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Transactional systems support day to day business operations, while analytical
+systems enable better decision making.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*vCSf7lTRBFSA7W7WrkBVkg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Basically, the raw data is collected, stored, processed, analysed and presented
+to business stakeholders as actionable insight.&lt;/p&gt;
+
+&lt;p&gt;As data gets old and less relevant, it can be archived and purged based on the
+requirement.&lt;/p&gt;
+
+&lt;p&gt;Now, let’s have a look at the high-level steps in a data science project.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*PSZbwBOD8mxJWUfwTB0CIg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The first step is Identify&lt;/p&gt;
+
+&lt;p&gt;Most of the time, you may start with defining the problem statement, but many a
+time, you may not have a problem at hand to solve.&lt;/p&gt;
+
+&lt;p&gt;In that case, you may need to first identify the use-cases for data science and
+may also need to qualify those use-cases.&lt;/p&gt;
+
+&lt;p&gt;If you have identified and qualified many use-cases, then you may also need to
+prioritize them based on their return-on-investment (ROI).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*423WT7fPnp1zdjiJEF7uYw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The next step is Define&lt;/p&gt;
+
+&lt;p&gt;After identifying the use case, you define the problem statement, you gather
+business or domain aspects and you start building your understanding around the
+data available.&lt;/p&gt;
+
+&lt;p&gt;You design a high-level approach for the solution, discuss and define the
+key-performance-indicators (KPIs) with the business sponsors.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*X1M-ZcsC_y-LWpcDUBOluA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The third step is Assess&lt;/p&gt;
+
+&lt;p&gt;Most of the time, it is worthwhile to start with a prototype or proof of concept
+(POC) rather than involving in a full-fledged project.&lt;/p&gt;
+
+&lt;p&gt;Building prototype is a way to assess the feasibility of the data science
+project before investing heavily, here you do all the steps required in a data
+science project but on a smaller scale.&lt;/p&gt;
+
+&lt;p&gt;Once you have built a prototype and stakeholders give a go-ahead, you start the
+project formally.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*Ezg2cxY-Q7l_NMTi3eyomw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The next step is Build&lt;/p&gt;
+
+&lt;p&gt;You collect and explore the data, you validate and clean it, you apply
+transformations to make the data ready-to-be-consumed for core data science
+tasks.&lt;/p&gt;
+
+&lt;p&gt;Then you build the necessary features, split the train, validation and test
+data-set and also train, validate &amp;amp; tune the model.&lt;/p&gt;
+
+&lt;p&gt;Above steps are iterative, which means you would be continuously munging the
+data, building and modifying features; training, validating and tuning the
+models until you get the required results.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*ZrryVaYrzXOTQzpsLYN9tg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The fifth step is Deploy&lt;/p&gt;
+
+&lt;p&gt;Once your model provides required accuracy, you deploy it in an environment to
+get the feedback from business stakeholders.&lt;/p&gt;
+
+&lt;p&gt;After getting the positive feedback, you build required dashboards for business
+KPIs, and make your data science solution live.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*hQ0Ou8B7OIcJ3UVc_d0_tQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The last step is Monitor&lt;/p&gt;
+
+&lt;p&gt;Once your model is in production, you need to monitor the data and model
+performance over the period of time for any performance degradation.&lt;/p&gt;
+
+&lt;p&gt;If a model performance goes down, you do a root-cause-analysis, replicate the
+issue in a different environment and repeat above mentioned steps to identify
+and resolve the issue.&lt;/p&gt;
+
+&lt;p&gt;So these are the six high-level steps in an end-to-end data science project.&lt;/p&gt;
+
+&lt;p&gt;I hope you like this post, let me know in the comments section.&lt;/p&gt;
+
+&lt;p&gt;Let’s end this post here;&lt;/p&gt;
+
+&lt;p&gt;Like, share &amp;amp; subscribe to my YouTube channel to get the latest updates.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;Ankit Rathi&lt;/a&gt; &lt;em&gt;is an AI architect, published author
+&amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI
+applications/products following best practices of Data Engineering and
+Architecture.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">9 Movies Every Data Scientist Should Watch</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/08/05/9-Movies-Every-Data-Scientist-Should-Watch.html" rel="alternate" type="text/html" title="9 Movies Every Data Scientist Should Watch" /><published>2020-08-05T00:00:00-05:00</published><updated>2020-08-05T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/08/05/9-Movies-Every-Data-Scientist-Should-Watch</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/08/05/9-Movies-Every-Data-Scientist-Should-Watch.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1800/1*UGXvhKGjcQS04pzwVK8dqw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I have been a movie buff all my life.&lt;/p&gt;
 
@@ -932,88 +1056,6 @@ ever-evolving field.&lt;/li&gt;
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*1h1YNkaH68QXOPAmd2FhcQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*OqrWTkpiCgfdBWJ96ipZOA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;Ankit Rathi&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Why don’t you connect with Ankit on&lt;/em&gt; &lt;a href=&quot;https://www.youtube.com/channel/UCrIv4EU2tFX8VhhT0oCnDnw&quot;&gt;&lt;em&gt;YouTube&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://twitter.com/rathiankit&quot;&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;,&lt;/em&gt; &lt;a href=&quot;https://www.linkedin.com/in/ankitrathi/&quot;&gt;&lt;em&gt;LinkedIn&lt;/em&gt;&lt;/a&gt; &lt;em&gt;or&lt;/em&gt; &lt;a href=&quot;https://instagram.com/ankitrathi/&quot;&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;em&gt;?&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Data Professionals, and NOT Data Scientist, is the Job of the Century</title><link href="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/20/data-professionals-is-the-job-of-the-century.html" rel="alternate" type="text/html" title="Data Professionals, and NOT Data Scientist, is the Job of the Century" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/20/data-professionals-is-the-job-of-the-century</id><content type="html" xml:base="https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/20/data-professionals-is-the-job-of-the-century.html">&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1800/1*WeT4WJgyl0gOIH4AP8GjUA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Grab the content on your favorite platform:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;on YouTube: &lt;a href=&quot;https://www.youtube.com/watch?v=W_6Q0jLjTdY&quot;&gt;https://www.youtube.com/watch?v=W_6Q0jLjTdY&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;on SlideShare: &lt;a href=&quot;https://www.slideshare.net/ankitrathi/data-professionals-job-of-the-century&quot;&gt;https://www.slideshare.net/ankitrathi/data-professionals-job-of-the-century&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;on GitHub Pages: &lt;a href=&quot;https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/20/data-professionals-is-the-job-of-the-century.html&quot;&gt;https://ankit-rathi.github.io/data-and-ai/markdown/2020/05/20/data-professionals-is-the-job-of-the-century.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*fOkMPFN71hazH-YqRQ2jSA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*duQ1HBHs7TeKKd44YJI_xQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*_IZfKWucF0J1s6uOaidchw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*NJ36OkZcCsIxI4J7eTS4UQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*MUUyy7f92vfsLNwbeoGt9A.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*LWalRZ-Mq1DY8vfO3SbbUg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*ACXqf5YTiTBkEvdTj2e_sA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*wt5kF0UEeygl8OjLm52XZA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*0RCZRwXzxap_4B3H2tNz_A.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*REf3HfZkEpA6I5JOV_scVw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*88o1GL6ZiPGg0P2bx6CSog.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*-AsRiux3mBdngeGKzvlBZQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*73WU9IecDAKiLTdHmZbQIA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*EM2y_YNdwFdxZzcqVOIj2Q.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*gbGDL6DQETTW5-pQB32TfQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*wD_lh5Eb57iZKVEkem7Unw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*N4OoxaHpT12IgTVrlNzg4w.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*DqY9jNX-rNPP9WEwd1MsPQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*6tmV4vuJ5qCIpkXZSVUB5Q.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*VSc-tYwFjamg9CG5X66mEQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*dyxg2y2jM6HIZy-5GOOjmQ.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*lyAbYCwKOqacZAdIs-Ubuw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*ywHNwWI_19qGQJqakvK1ag.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*Hbxp6n7h5RPWWNhpINLitA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*J2jp766CTVRen_C7WOIzBA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*tzRWl0gtMais1br0q1sWww.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*lT3tE5E80iaHkbYjf8jzww.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*fphhr0mnUBY37NZwhHUYSA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*9N2YgCEJRqRjtMxoIH6UYw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*e4D3gp-IWmS57kY05s83mA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*SrsuVZAEkno9BxDtWErj_w.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*YrZig1GwY7HtJ6TZrSSXMw.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*6VFe8nKN1yl5a_m1BZ6dVA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*MUUyy7f92vfsLNwbeoGt9A.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1200/1*Rp3a7f2EptbQ7gqm5RAuZA.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.ankitrathi.com/&quot;&gt;&lt;em&gt;Ankit Rathi&lt;/em&gt;&lt;/a&gt; &lt;em&gt;is an AI architect, published author &amp;amp; well-known speaker. His interest lies primarily in building end-to-end AI applications/products following best practices of Data Engineering and Architecture.&lt;/em&gt;&lt;/p&gt;
