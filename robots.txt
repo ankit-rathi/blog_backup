@@ -1,1 +1,1 @@
-Sitemap: https://ankit-rathi.github.io/data-and-ai/sitemap.xml
+Sitemap: https://ankit-rathi.github.io/blog/sitemap.xml
