@@ -1,4 +1,4 @@
-# Data & AI Blog
+# Data Intelligence Blog
 
 Welcome to ‘Data & AI’ blog by [ankitrathi.com](ankitrathi.com)*
 
